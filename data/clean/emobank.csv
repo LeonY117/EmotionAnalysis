@@ -10,7 +10,6 @@ id,split,V,A,D,text
 110CYL068_163_275,train,3.25,2.88,3.0,"Here's another story of success from what might seem like an unlikely source: Goodwill's controller, Juli."
 110CYL068_1659_1810,train,3.25,3.0,3.25,Cornell found a number of employment options that he never dreamed existed after a work-site injury forced him out of his job at a foundry.
 110CYL068_1811_1946,dev,3.25,2.88,3.12,"He trained in desktop publishing and combined his enthusiastic work ethic with new-found skills in a burgeoning industry. """
-110CYL068_18_24,train,3.0,2.62,3.0,"Dear ,"
 110CYL068_1946_1997,test,3.27,3.36,3.36,"I've got more than a job; I've got a career."""
 110CYL068_2040_2141,train,3.57,3.29,3.29,"After a lifetime of trials, Donna not only earned her GED at Goodwill, she earned a job here. """
 110CYL068_2141_2194,train,2.88,3.0,3.25,I rode a bike to Goodwill in the rain and snow.
@@ -19,9 +18,7 @@ id,split,V,A,D,text
 110CYL068_2273_2373,train,3.63,3.25,3.37,Your gift to Goodwill will help the many people who want to tell their own stories of success.
 110CYL068_2374_2413,train,3.7,3.4,3.3,Your support will help them go to work.
 110CYL068_2420_2501,train,3.5,3.4,3.2,Please use the enclosed envelope to give a generous gift to Goodwill today!
-110CYL068_2508_2518,train,3.14,2.86,3.14,"Sincerely,"
 110CYL068_2525_2582,train,3.1,2.5,3.2,"William A Carter, Chairman Goodwill Industries Foundation"
-110CYL068_2589_2593,train,3.0,2.43,3.0,P.S.
 110CYL068_2594_2642,train,3.5,2.87,3.25,Your gift is a wise investment in the community.
 110CYL068_2643_2750,train,3.88,3.37,3.38,"For every dollar donated to Goodwill in 1998, we helped our ""graduates"" earn an estimated $102."
 110CYL068_2751_2841,train,3.25,3.12,3.25,"That money was then spent in a variety of ways, adding fuel to our thriving economy."
@@ -65,7 +62,6 @@ id,split,V,A,D,text
 110CYL069_3329_3408,train,3.56,3.11,3.11,Neither do the rest of us who feel the positive results of their success.
 110CYL069_3409_3451,test,3.4,2.9,3.0,Your support helps provide real solutions.
 110CYL069_3458_3552,dev,3.0,3.0,3.0,Please use the enclosed response card and envelope to give generously to Goodwill today.
-110CYL069_3559_3569,dev,3.1,2.9,3.0,"Sincerely,"
 110CYL069_3590_3635,train,3.0,2.75,3.0,Jack Dustman Board Member and Former Chairman
 110CYL069_460_512,train,3.29,3.29,3.57,We don't waste time as we are helping the community.
 110CYL069_513_544,train,3.1,3.0,3.5,And we don't waste money.
@@ -80,8 +76,6 @@ id,split,V,A,D,text
 110CYL070_1182_1214,train,2.9,3.1,3.1,Many people need our help.
 110CYL070_1221_1263,train,3.0,3.0,3.0,Please continue our important partnership.
 110CYL070_1264_1318,train,3.14,3.0,3.29,Support Goodwill with a generous donation today.
-110CYL070_1325_1335,dev,3.0,2.3,2.8,"Sincerely,"
-110CYL070_1342_1371,test,3.0,2.75,3.12,James M. McClelland President
 110CYL070_135_187,train,3.7,3.1,3.4,We've helped people break free of the welfare cycle.
 110CYL070_188_263,train,3.38,3.25,3.38,We've found ways for people with disabilities to enter the workforce.
 110CYL070_18_35,train,3.0,2.7,2.9,"December 10, 1996"
@@ -112,14 +106,10 @@ id,split,V,A,D,text
 110CYL071_2323_2391,dev,2.8,2.8,3.3,Please send the largest contribution you can comfortably make.
 110CYL071_2392_2518,test,3.6,3.2,3.1,Your gift will help give new meaning to the word success -- for people who have seldom had reason to use the word.
 110CYL071_246_283,test,2.14,3.14,2.86,Michael was born with cerebral palsy.
-110CYL071_2525_2535,train,3.25,3.0,3.0,"Sincerely,"
-110CYL071_2542_2571,train,3.0,3.0,3.0,James M. McClelland President
-110CYL071_2578_2582,train,3.0,2.9,3.0,P.S.
 110CYL071_2583_2616,train,3.64,3.37,3.45,Your gift will make a difference.
 110CYL071_2617_2795,train,3.6,3.2,3.2,"For every dollar of public support Goodwill received last year, we returned $1.59 to the community in the form of earned wages and reduced public assistance payments."
 110CYL071_284_391,dev,3.3,3.2,3.0,"Upon entering the work force, he discovered few job opportunities that seemed to match his abilities."
 110CYL071_398_457,train,3.0,2.8,3.1,For several years he performed packaging and clerical work.
-110CYL071_42_48,train,3.0,3.0,3.0,"Dear ,"
 110CYL071_458_550,test,2.38,3.0,2.88,His most recent job lasted only a year before cut-backs eliminated his position.
 110CYL071_557_605,train,2.22,3.11,2.89,For 18 long months Michael could not find a job.
 110CYL071_55_94,train,3.44,3.0,3.33,Think of your greatest accomplishments.
@@ -155,13 +145,10 @@ id,split,V,A,D,text
 110CYL200_2282_2388,train,3.43,2.57,2.86,"And, with your assistance, Goodwill can help employers develop resources to keep workers on the job."
 110CYL200_2395_2491,train,3.29,2.86,3.29,Please make an investment in the stability of our community by sending a gift to Goodwill.
 110CYL200_2492_2541,train,3.56,3.33,3.0,Your generosity will help people help themselves.
-110CYL200_2548_2558,test,3.22,3.11,3.11,"Sincerely,"
-110CYL200_2565_2594,train,3.0,2.7,3.0,James M. McClelland President
 110CYL200_389_480,train,2.0,3.5,2.38,Reality hit when he was unable to reconcile with his wife and ended up on the street.
 110CYL200_39_65,train,3.0,2.5,3.1,"Name Address City, ST, Zip"
 110CYL200_481_588,test,3.0,3.0,3.0,He went to the Center Township Trustee for food stamps until he could find a job and a place to live.
 110CYL200_589_724,train,3.2,3.0,3.0,The Trustee referred him to the Blue Triangle where he consulted Goodwill's Career Academy staff for job search assistance.
-110CYL200_72_82,dev,3.0,2.6,3.1,Dear Name:
 110CYL200_731_787,train,3.3,3.0,3.0,Jerry's Goodwill caseworker found him a job immediately.
 110CYL200_788_832,train,2.5,3.25,3.0,But Jerry's troubles didn't end there.
 110CYL200_833_946,train,2.89,3.0,3.0,"The seasonal construction job he obtained soon ended, and he returned to Career Academy for help once more."
@@ -170,16 +157,12 @@ id,split,V,A,D,text
 112C-L012_1236_1337,train,3.0,3.0,3.1,"Such fund are often used for college tuition, vocational training or a deposit on an apartment."
 112C-L012_1569_1624,train,2.29,3.29,2.71,"Without private donor support, this Fund doesn't exist."
 112C-L012_1625_1768,test,3.12,2.88,2.75,Please take a few minutes to send a donation to help one or more of our children successfully cross that threshold into the future.
-112C-L012_1775_1785,train,3.22,3.0,3.0,"Sincerely,"
-112C-L012_1792_1820,train,2.9,2.9,3.1,Mary Roth Executive Director
 112C-L012_184_255,dev,3.0,2.89,3.0,The young adults who leave Pleasant Run have those same feelings.
 112C-L012_18_31,train,3.0,2.75,3.0,"June 21, 1999"
 112C-L012_256_305,dev,2.5,2.9,2.9,Very few have family support to get them started.
 112C-L012_312_402,dev,2.62,2.88,2.5,"Many need furniture, linens and other basic necessities to begin lives on their own."
-112C-L012_38_63,train,3.0,2.9,3.1,"Name Address City, ST Zip"
 112C-L012_409_634,test,3.2,3.0,3.3,"To help them establish themselves in the community, the Pleasant Run Emancipation fund was begun in 1993 by private donors who wanted to provide a measure of financial support for those leaving our programs."
 112C-L012_641_784,train,3.2,3.1,3.0,Individuals who are being emancipated are eligible to receive up to $500 from the Fund if they formally apply and meet four requirements:
-112C-L012_70_76,dev,3.22,2.89,3.0,"Dear ,"
 112C-L012_785_815,train,3.0,2.88,3.0,1. Release by the courts
 112C-L012_816_865,train,3.5,3.1,3.5,2. Successful completion of all life skills tests
 112C-L012_83_183,train,3.1,3.4,3.2,Do you remember the combination of elation and apprehension you felt when you first left home?
@@ -202,11 +185,9 @@ id,split,V,A,D,text
 112C-L013_2162_2234,train,2.71,3.43,3.14,"The Funding sources are shrinking, but the needs grow explosively."
 112C-L013_2235_2311,train,3.2,3.6,3.1,"Please ""help good kids get better"" by sending us a contribution today."
 112C-L013_2312_2388,train,3.2,3.0,3.1,Your gift will give children and families hope for improved tomorrows.
-112C-L013_2395_2405,dev,3.0,2.75,3.12,"Sincerely,"
 112C-L013_2412_2421,train,3.0,2.7,2.9,Mary Roth
 112C-L013_253_379,train,2.1,3.1,2.7,"Older kids, like Tracy and Kerry, left homeless after a recent murder-suicide in Indianapolis claimed Mom and Dad."
 112C-L013_380_529,train,2.4,3.1,3.1,"Young adults, like Mary T., a jobless mother of three, trying desperately to keep her kids out of trouble in a crime-ridden neighborhood."
-112C-L013_42_54,train,3.0,2.71,3.43,Dear Friend:
 112C-L013_530_542,train,3.62,3.87,3.0,Real people!
 112C-L013_549_574,train,2.9,2.9,3.0,There are thousands more.
 112C-L013_575_652,train,1.9,3.3,2.9,"Families are being torn apart, and too often, children are the victims."
@@ -224,12 +205,10 @@ id,split,V,A,D,text
 112C-L014_1387_1506,train,3.1,3.2,3.0,The numbers of children who deserve our services are rising... as quickly as our programs can grow to serve them.
 112C-L014_1513_1538,train,3.43,3.29,3.0,Please help us help them.
 112C-L014_1539_1607,train,3.4,2.8,3.2,"Pleasant Run Children's Homes... ""where good kids get better."""
-112C-L014_1614_1624,train,3.2,2.7,3.0,"Sincerely,"
 112C-L014_1631_1655,dev,3.0,2.7,3.0,Mary Roth Tom Hirschauer
 112C-L014_18_31,test,3.0,2.4,2.8,"June 26, 1995"
 112C-L014_195_327,test,3.11,2.89,3.0,"Federal, state and local governments are freezing or withdrawing much-needed funding sources for people who are truly in need."
 112C-L014_328_554,train,3.57,3.0,3.14,"In spite of that, Pleasant Run Children's Homes, with the help of hundreds of volunteers and others who really care, continues to make a significant impact on the futures of families and kids in need of help."
-112C-L014_38_50,train,3.44,3.11,2.78,Dear Friend:
 112C-L014_561_677,dev,2.43,3.29,2.57,"We all hear about today's increases in neglect, abuse and abandonment of those who can't fight back: children."
 112C-L014_57_80,dev,2.8,2.9,3.3,This is not newsletter.
 112C-L014_678_778,train,3.0,2.38,3.0,Yet few of us hear enough about kids who live through these adversities and do make the grade.
@@ -248,9 +227,7 @@ id,split,V,A,D,text
 112C-L015_1620_1681,train,3.25,3.12,3.25,Please take a few minutes to mail a donation to Pleasant run.
 112C-L015_1682_1813,test,3.4,2.9,3.0,Let our families and children know that you want them to have the same kinds of memories of the holidays you will have.
 112C-L015_1820_1880,train,4.3,3.6,2.9,We wish you and your family a new year full of joy and love.
-112C-L015_1887_1897,train,3.12,3.0,3.12,"Sincerely,"
 112C-L015_18_47,test,3.0,3.14,3.0,Dear Friends of Pleasant Run:
-112C-L015_1904_1932,train,3.0,2.6,3.0,Mary Roth Executive Director
 112C-L015_231_324,train,4.0,3.43,3.29,This is the time of year when we give thanks for the warmth and love that surrounds us.
 112C-L015_325_413,train,2.7,2.9,2.8,And this time of year is an occasion to remember those not as fortunate as we are.
 112C-L015_420_473,train,3.2,3.1,3.1,Pleasant Run cares for at-risk children and families.
@@ -263,7 +240,6 @@ id,split,V,A,D,text
 112C-L016_1002_1117,train,3.0,2.88,3.0,"If you are interested and would like more information, please contact Lisa Lusk or Marcia Whited at 693-9222."
 112C-L016_1118_1197,train,3.0,3.0,3.14,We would like to have families matched with sponsors non later than xxxx.
 112C-L016_1198_1314,train,3.78,3.22,3.44,Thank you for considering this opportunity to make this a memorable holiday season for a family in need.
-112C-L016_1321_1331,test,3.2,2.8,3.1,"Sincerely,"
 112C-L016_18_87,train,3.1,3.3,3.3,It's hard to believe that the holiday season is only two months away.
 112C-L016_196_301,train,3.1,2.9,3.0,"Every year we seek companies, organizations and individuals to sponsor one or more of our families."
 112C-L016_302_372,train,3.1,2.9,3.1,These families are participants in our community-based programs.
@@ -280,7 +256,6 @@ id,split,V,A,D,text
 113CWL017_136_241,dev,3.37,3.25,3.12,"Yes, it's that time of the year -- the start of the Boys & Girls clubs of Indianapolis' Camp."
 113CWL017_1385_1425,train,3.22,3.33,3.22,"Consider sponsoring 1, 2, or 3 children."
 113CWL017_1426_1543,dev,3.6,3.3,2.9,"No matter the size of the donation, please know that your gift will be appreciated and make a difference."
-113CWL017_1550_1560,train,3.0,2.83,3.0,"Sincerely,"
 113CWL017_1567_1584,train,3.0,2.8,3.0,Richard Dickinson
 113CWL017_1596_1640,test,3.43,3.29,3.14,You can make a difference in a child's life.
 113CWL017_1641_1724,train,3.67,3.67,3.67,Sponsor a child at the Boys & Girls Clubs of Indianapolis' summer camp today!
@@ -290,7 +265,6 @@ id,split,V,A,D,text
 113CWL017_492_603,train,3.6,3.2,3.3,"I know you're committed to ensuring today's children have safe, healthy, and positive summer experiences."
 113CWL017_604_681,train,3.14,3.0,3.0,That's why I want you to learn more about the Super Summer Safari Camp.
 113CWL017_688_775,train,3.29,2.71,3.29,"At Super Summer Safari Camp, there are daily sports, nature, and arts activities."
-113CWL017_71_83,train,3.4,3.3,2.9,"Dear Friend,"
 113CWL017_776_923,train,3.1,3.2,3.0,"In addition to the fun stuff, important life-skills such as self-esteem, leadership, and interpersonal cooperation are being developed."
 113CWL017_90_135,train,4.0,4.1,3.0,"It's summertime, so it must be time for CAMP!"
 113CWL017_924_1027,test,3.2,3.2,3.2,Please read the enclosed brochure for more information on the wonderful Super Summer Safari Camp!
@@ -307,7 +281,6 @@ id,split,V,A,D,text
 113CWL018_227_287,train,3.11,3.0,3.11,That's where the Boys & Girls Clubs of Indianapolis come in.
 113CWL018_288_402,train,3.3,3.0,3.3,We reach out to kids -- especially those from disadvantaged neighborhoods where the risks are highest.
 113CWL018_403_590,dev,3.44,3.22,3.33,"We give them a chance to realize their own potential by giving them a place where they can develop a sense of competence, of usefulness, a sense of belonging and of influence."
-113CWL018_42_48,dev,3.0,2.7,3.0,"Dear ,"
 113CWL018_55_152,train,2.2,3.0,2.8,"Kids today face overwhelming pressures, everything from trouble at home to gangs and drugs."
 113CWL018_858_951,train,3.2,2.9,3.1,"Money for programs, for equipment, and for repairs and improvements to club facilities."
 113CWL018_952_1022,train,3.9,3.1,3.4,Your contribution last year of helped us get where we are today.
@@ -342,7 +315,6 @@ id,split,V,A,D,text
 114CUL058_2041_2136,train,3.2,2.6,3.0,"After we receive your commitment, we will contact you about picking up your contribution."
 114CUL058_2137_2197,train,3.12,3.12,3.12,"If you have any questions, please call me at 241-2661."
 114CUL058_2204_2263,train,3.62,3.38,3.25,We appreciate your support of our first event of this type.
-114CUL058_2270_2280,train,2.8,2.8,3.0,"Sincerely,"
 114CUL058_2326_2367,train,3.1,3.2,3.1,Help Blaze The Trail -- 1997 Jameson Camp
 114CUL058_2368_2415,train,3.9,3.4,3.2,Thank you for your last Annual Fund Gift!
 114CUL058_286_510,train,3.09,2.73,3.0,"The camp offers summer residential programs for children from ages 7-17, and continues contact with the campers and their families with special overnight and weekend follow-up events during the school year."
@@ -359,15 +331,12 @@ id,split,V,A,D,text
 114CUL059_1257_1457,train,3.3,3.3,3.2,"Even after the summer sessions come to a close, Jameson campers will take part in year-round programs designed to keep that positive contact with peers and role models alive and important."
 114CUL059_1458_1598,train,3.4,3.2,3.3,We've scheduled more than 15 follow-up camper weekends beginning in September and going around till next summers camping season.
 114CUL059_1605_1670,dev,3.2,3.3,2.9,"Please, consider renewing your support of these great kids today."
-114CUL059_1677_1687,train,3.0,2.9,3.0,"Sincerely,"
 114CUL059_1694_1724,dev,3.0,2.78,3.11,Julie Marsh Executive Director
-114CUL059_1731_1735,test,3.0,2.5,3.0,P.S.
 114CUL059_1736_1836,train,3.6,3.5,3.4,We know our follow-up weekends are going to be better attended than ever this fall and winter.
 114CUL059_1837_1942,train,3.1,2.9,3.0,If you can give a little more to help meet this increased expense we would appreciate your support.
 114CUL059_18_30,train,3.0,2.2,3.2,"July 25,1997"
 114CUL059_232_298,train,3.11,3.11,2.67,I can tell you we need your help now as much as ever before.
 114CUL059_305_553,train,3.2,3.2,3.0,"All of our Six summer camping sessions are booked to capacity (and, truth be told, with maybe one our two extra returning campers squeezed in) and we have a waiting list of 60 children who are hoping to come if a spot should open."
-114CUL059_37_47,train,3.0,2.4,3.0,"Dear Name,"
 114CUL059_54_68,train,3.5,3.8,3.2,What a Summer!
 114CUL059_554_688,train,3.1,3.0,3.1,Many more camper referrals are coming from new organizations such as school social-workers and family counseling agencies.
 114CUL059_689_857,train,2.8,3.1,3.1,"It seems summer options aren't readily available for troubled kids whose families have limited incomes, so we're doing all we can to make Jameson available."
@@ -387,13 +356,10 @@ id,split,V,A,D,text
 114CUL060_2027_2082,train,3.0,2.88,3.0,The kids need your leadership now more than ever.
 114CUL060_2083_2260,train,3.0,3.2,2.5,"If you can increase your last donation, we would appreciate that show of support for the campers and their efforts to overcome obstacles and create successful lives."
 114CUL060_2267_2309,train,4.11,3.22,3.0,Thank you again for helping point the way.
-114CUL060_2316_2326,train,3.0,2.88,2.88,"Sincerely,"
 114CUL060_2333_2364,train,3.0,2.67,2.89,"Julie Marsh, Executive Director"
-114CUL060_2371_2375,train,3.0,2.63,3.12,P.S.
 114CUL060_260_314,train,3.14,3.14,3.14,These are the attributes we want all children to have.
 114CUL060_315_361,train,3.2,3.0,3.3,You help Jameson campers reach for them.
 114CUL060_362_503,train,3.4,3.4,3.5,"If these special children are to become the adults we all need them to be, we have to lead them in the right direction right now."
-114CUL060_38_63,train,2.88,2.63,2.88,"Name Address City, ST Zip"
 114CUL060_510_627,train,3.11,2.89,2.89,Jameson points the way for children who need that extra hand and I hope you'll continue your support this year.
 114CUL060_628_782,train,3.5,3.3,3.0,"You're last gift of $50.00 helped make it possible for us to provide guidance, encouragement and fun to nearly 400 Indianapolis area children."
 114CUL060_783_845,test,3.0,2.82,3.0,"And not just during the summer, but throughout the year."
@@ -409,10 +375,7 @@ id,split,V,A,D,text
 115CVL035_18_29,dev,3.0,2.6,3.1,"July30,1999"
 115CVL035_2032_2156,train,3.6,3.2,3.3,I will be happy to supply any additional information you may need and thank you for your consideration of our request.
 115CVL035_2157_2199,train,3.6,3.6,3.1,We look forward to hearing from you.
-115CVL035_2206_2216,train,3.0,2.8,3.0,"Sincerely,"
-115CVL035_2223_2261,train,2.88,2.75,3.12,Valery De Long Director of Development
 115CVL035_343_553,train,3.1,3.1,3.0,"In 1998, we served a total of 31,484 low-income individuals through job training and placement assistance, youth and senior programming, family counseling, emergency assistance, and much more."
-115CVL035_36_61,train,3.0,2.82,3.0,"Name Address City, ST Zip"
 115CVL035_560_675,train,3.14,3.0,3.14,"As you can see from the enclosed map, your Target store is located in the heart of four of our service areas."
 115CVL035_676_981,train,3.5,3.4,3.2,"The centers that serve these areas, Mary Rigg Neighborhood Center, Hawthorne Community Center, Southwest Multi-Service Center, and Christamore House, have teamed up to run an exciting job readiness program for 14 and 15 year old area residents called the Summer Enrichment Program."
 115CVL035_68_86,dev,3.1,2.8,3.0,Dear Mr. Ratcliff:
@@ -428,9 +391,7 @@ id,split,V,A,D,text
 115CVL036_1859_2041,train,3.63,3.27,3.37,"Your financial support of the development process is just one step in making CCI a stronger, more efficient and ultimately more effective federation of service providers."
 115CVL036_18_83,train,2.91,2.73,2.91,"MMM F_NAME L_NAME TITLE COMPANY ADDRESS CITY,ST ZIP March 4, 1999"
 115CVL036_2042_2085,train,3.1,2.9,2.9,"Please, make your contribution today."
-115CVL036_2092_2102,train,2.89,2.78,2.89,"Sincerely,"
 115CVL036_2109_2130,train,3.0,3.0,3.0,J.Chris Graffeo Chair
-115CVL036_2137_2141,train,2.9,2.8,3.3,P.S.
 115CVL036_2142_2229,train,3.0,2.8,3.2,"If you have any questions, feel free to call Valery De Long at CCI, 638-3360 x23."
 115CVL036_363_421,train,3.12,2.62,3.12,One of the areas we've decided to focus on is development.
 115CVL036_422_638,train,2.9,3.1,3.1,"It's clear that if we don't increase our base of private funding, we won't have the kind of control we need to ensure the continued success of our centers and the very important services they offer."
@@ -454,10 +415,7 @@ id,split,V,A,D,text
 115CVL037_2431_2613,train,3.3,3.0,3.1,"Please, make a tax deductible gift to Community Centers of Indianapolis in 1999, and know that COMPANY is playing an important part in meeting the needs of its community."
 115CVL037_2614_2694,train,3.0,2.8,3.1,"If you have any questions, please feel free to give us a call at 638-3360."
 115CVL037_2695_2775,train,3.6,2.9,3.0,"We thank you for your consideration, and look forward to hearing from you."
-115CVL037_2782_2792,dev,3.0,3.0,3.0,"Sincerely,"
 115CVL037_2799_2825,train,3.0,2.8,3.2,Earline S. Moore President
-115CVL037_2832_2870,train,3.0,2.8,2.9,Valery De Long Director of Development
-115CVL037_38_48,test,3.0,2.57,3.0,Dear Name:
 115CVL037_390_456,train,3.0,3.14,3.0,And we can do even more in 1999 with your financial support!
 115CVL037_457_507,train,3.11,2.56,3.11,Just look at the range of services we offer:
 115CVL037_514_549,train,3.18,3.0,3.0,"70,0001 career assistance for youth"
@@ -481,10 +439,8 @@ id,split,V,A,D,text
 116CUL032_2055_2202,train,3.12,2.63,3.12,"Annually, we ask several of our youth serving organizations to join us in our effort to help young people grow up well in Indianapolis."
 116CUL032_2203_2321,train,3.36,3.09,3.27,Enclosed is a donation card that will enable you to make Indianapolis a great place for ALL of us to live.
 116CUL032_2322_2425,train,3.0,2.8,2.9,"If you have any questions or concerns at any time, please do not hesitate to call me at 921-1288."
-116CUL032_2432_2442,train,2.9,2.7,3.0,"Sincerely,"
 116CUL032_2449_2487,train,3.0,2.8,3.0,"John F. Brandon, President MCCOY, Inc."
 116CUL032_317_537,train,3.3,3.0,3.3,"Participants in the Youth Outcomes Educational Initiative identified three goals for all our youth to obtain: economic self-sufficiency, healthy family, social relationships, and involvement in the community."
-116CUL032_39_64,train,3.0,2.67,2.89,"Name Address City, ST Zip"
 116CUL032_538_769,train,3.3,3.1,3.2,"A short time later, the Community Youth Mapping Project sent 55 young people out into the community to identify the resources they need to grow up well: caring adults, safe places to go, and positive things to do."
 116CUL032_71_125,train,3.37,2.82,3.18,"The goal of MCCOY, Inc. has been to make a difference."
 116CUL032_776_1088,train,3.2,3.5,3.4,"One group of adults and one group of youth, through two very different processes, have arrived at the same conclusion; our community still has much to do if we are to help ALL of your youth successfully develop into the responsible, productive adults who will our community in the future."
@@ -495,10 +451,8 @@ id,split,V,A,D,text
 116CUL033_1704_1775,test,3.2,3.3,3.5,I will call you in a few weeks to discuss your level of interest.
 116CUL033_1776_1911,train,3.22,2.89,3.44,Please consider joining together with your fellow citizens in support of the work of the Marion County Commission on Youth.
 116CUL033_18_33,train,3.0,2.82,3.0,"January 5, 1997"
-116CUL033_1918_1928,train,3.0,2.89,3.11,"Sincerely,"
 116CUL033_1935_1966,dev,3.1,2.5,3.1,John Brandon Executive Director
 116CUL033_259_497,test,3.0,2.83,3.17,"As you begin that process this year, I would like to ask you to consider helping young people in Marion County toward more positive youth development by becoming a supporter of the Marion County Commission on Youth, Inc."
-116CUL033_40_65,train,3.0,2.75,3.0,"Name Address City, ST Zip"
 116CUL033_504_706,train,3.2,2.9,3.2,"MCCOY Inc., originally founded as a government agency but re-organized in 1993 as an independent not-for-profit, is a county-wide youth services coordinating, planning, and convening agency."
 116CUL033_707_862,train,3.2,3.0,3.1,"Its purpose is to encourage collaboration and cooperation between the various agencies, programs, and systems that serve our community's youth."
 116CUL033_72_82,train,3.2,3.2,2.9,Dear Bill:
@@ -523,43 +477,28 @@ id,split,V,A,D,text
 116CUL034_3426_3634,train,3.2,2.8,3.0,Youth who are supported and encouraged by both a family and a society that values Them have a much greater likelihood of becoming productive and contributing members of adult society.
 116CUL034_3635_3760,train,2.73,3.0,2.91,"While we have made significant inroads, there remains much to be done and it is clear that we cannot do it alone."
 116CUL034_3761_3935,dev,3.3,2.9,3.3,We seek the financial support of the Foundation to help us be successful in creating the atmosphere in our community where young people can grow and develop well.
-116CUL034_40_65,train,3.0,2.8,3.0,"Name Address City, ST Zip"
 116CUL034_4122_4331,train,3.43,3.29,3.29,"In our fund raising efforts to date, we have received the support of local government, foundations, and corporations as well as the personal financial commitments of individual MCCOY Board members."
 116CUL034_4332_4519,train,3.2,3.2,3.2,We believe there is no more appropriate time to have a coordinated and collaborative effort to financially support the services MCCOY offers to the community as a whole.
 116CUL034_4526_4578,train,3.44,3.22,3.22,"Thanking you in advance for your support, we remain,"
-116CUL034_4585_4595,train,3.1,2.7,3.0,"Sincerely,"
 116CUL034_4602_4655,test,3.0,3.0,3.0,John T. Neighbours Philip B. Roby President Treasurer
 116CUL034_555_789,train,3.17,3.0,3.17,"For the past three years, MCCOY has been actively engaged in accomplishing this declared mission in cooperation with many others: youth service providers, youth, funding bodies, and interested citizens to name a few."
-116CUL034_72_82,test,3.0,2.62,2.75,Dear Name:
 116CUL034_796_978,train,3.2,3.0,3.5,"We have met with a number of successes along the way, most notably the Summer Fun Line, the Metro Summer Bus Pass, and the development of ten neighborhood youth councils."
 116CUL034_89_219,train,3.2,3.0,3.1,"In the summer of 1993, the Marion County Commission on Youth began what can best be described as a ""new era"" in its history."
 116CUL034_979_1118,test,3.62,3.12,3.12,A Providers Council and a Youth Coalition are building relationships that will hopefully bear great fruit in the years to come.
 117CWL008_1187_1350,test,3.11,3.11,3.11,One of us will call you to discuss how your company can become an important highly visible partner with the JCC in support of our scholarship programs.
-117CWL008_1351_1448,train,3.11,2.89,3.22,"If you have any questions, please feel free to call Myrna Weinberger at 251-9467, ext. 256."
-117CWL008_1449_1499,test,3.6,3.1,3.2,Thank you in advance for your consideration.
-117CWL008_145_299,train,3.56,3.0,3.0,"The 9th annual JCC Auction will benefit the numerous scholarship programs of the Jewish Community Center of Indianapolis, a United Way agency."
 117CWL008_1506_1565,dev,3.0,2.9,3.2,"Sincerely, Judy Laikin, Chair Auction '99 Sponsor Committee"
 117CWL008_18_31,train,3.0,2.6,3.1,"July 28, 1999"
 117CWL008_300_474,dev,3.2,2.8,3.2,"Because you are an organization that cares, you are invited to become an integral part of this fabulous event by becoming a corporate sponsor for JCC Auction '99."
 117CWL008_38_42,train,3.38,2.88,3.0,Dear
 117CWL008_481_569,train,3.5,3.4,3.3,The JCC would be very pleased to welcome your organization as a corporate sponsor.
-117CWL008_49_144,train,3.0,2.86,3.0,"Join us for the ""Sale of the Century"" at JCC Auction '99, on Saturday, November 13, 1999."
 117CWL008_570_662,train,3.6,3.1,3.4,We are seeking to build partnerships between businesses and our not-for-profit agency.
-117CWL008_663_922,train,3.0,2.8,3.0,"As a sponsor, you and your guests will have a special evening, knowing that your tax deductible contribution will help support preschool, childcare, senior and resettlement services, as well as quality cultural events in our community."
 117CWL008_929_1180,train,3.43,3.29,3.14,"Enclosed is a corporate sponsorship package that includes a sample auction book from last year's event, JCC market statistics and an overview of the many programs that will be preserved and strengthened through your generous support."
 117CWL009_1257_1429,train,3.0,2.9,3.2,"One of us will call you to discuss how your company can continue to be an important, highly visible partner with the JCC in support of our scholarship programs."
-117CWL009_1430_1527,train,3.14,3.0,3.0,"If you have any questions, please feel free to call Myrna Weinberger at 251-9467, ext. 256."
-117CWL009_1528_1578,train,3.7,3.2,3.3,Thank you in advance for your consideration.
-117CWL009_154_308,train,3.44,3.0,3.22,"The 9th annual JCC Auction will benefit the numerous scholarship programs of the Jewish Community Center of Indianapolis, a United Way agency."
-117CWL009_1585_1595,train,3.17,2.66,3.17,"Sincerely,"
 117CWL009_1602_1650,test,3.1,2.9,3.1,"Judy Laikin, Chair Auction '99 Sponsor Committee"
 117CWL009_18_34,train,3.0,2.78,3.0,"October 27, 1998"
 117CWL009_309_481,train,3.3,3.3,3.2,"Because you are an organization that cares, you are invited once again to be an integral part of this fabulous event as a corporate sponsor for JCC Auction '99."
-117CWL009_41_51,train,3.12,3.0,3.12,Dear Name:
 117CWL009_488_567,train,3.7,3.2,3.1,We are so grateful for your generous contribution to last year's auction.
 117CWL009_568_721,train,3.14,3.14,3.14,"Your continued participation is very important to the JCC, as we work to build partnerships between businesses and our not-for-profit agency."
-117CWL009_58_153,train,3.28,3.0,3.0,"Join us for the ""Sale of the Century"" at JCC Auction '99, on Saturday, November 13, 1999."
-117CWL009_722_975,train,3.67,3.44,3.22,"As a sponsor, you and your guests will have a special evening, knowing that your tax deductible contribution will help support preschool, childcare, senior and resettlement services, as well as quality cultural events in our community."
 117CWL009_982_1250,dev,3.1,2.9,3.1,"Enclosed is a corporate sponsorship package that includes a sample of your ad from last year's auction book, current JCC market statistics and an overview of the many JCC programs that will be preserved and strengthened through your generous support."
 118CWL048_1006_1066,train,3.0,3.44,2.67,Over 150 girls are currently waiting for a Big Sister.
 118CWL048_1073_1166,train,3.1,3.1,3.1,"You can make an impact by supporting Big Sisters Annual Campaign and our $200,000 goal."
@@ -569,12 +508,10 @@ id,split,V,A,D,text
 118CWL048_1437_1492,train,3.0,2.9,2.9,Early adolescence is the most vulnerable age for youth.
 118CWL048_1493_1549,test,3.4,3.3,3.3,But caring adults like you can reach out and help.
 118CWL048_1550_1608,train,3.29,3.29,3.14,It's the perfect time to make a world of difference.
-118CWL048_1615_1625,train,3.43,2.57,3.0,"Sincerely,"
 118CWL048_217_344,train,3.1,3.1,3.3,"When young people don't have that support, they need other resources for encouragement to guide them along the way."
 118CWL048_25_54,dev,2.9,2.6,3.2,"Name Address City, State, Zip"
 118CWL048_345_468,test,3.33,3.0,3.33,Big Sisters helps bridge that gap by providing children with the resources they need -- Big Sisters volunteers.
 118CWL048_475_637,train,3.5,3.3,3.3,"Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream."
-118CWL048_61_71,dev,3.0,3.2,3.1,"Dear Name,"
 118CWL048_638_834,train,3.5,3.13,3.25,"The relationships that are formed provide strong foundations from which healthy values and strong self-confidence can grow, helping youth become strong, independent adults of tomorrow."
 118CWL048_78_106,train,2.1,3.4,2.7,It's tough growing up today.
 118CWL048_841_919,train,3.43,2.86,3.14,"This year we will serve over 1,000 girls through our mentoring programs."
@@ -591,10 +528,8 @@ id,split,V,A,D,text
 118CWL049_1975_2035,test,2.8,3.0,2.8,Over 235 girls are currently waiting for a Big Sister.
 118CWL049_2036_2156,train,3.9,3.6,3.5,Imagine the difference the community could make if each congregation pledged its support of one Big Sisters match!
 118CWL049_217_304,train,2.88,3.12,3.12,It's hard enough for her to make good decisions when she's surrounded by support.
-118CWL049_2264_2274,train,3.11,3.11,3.11,"Sincerely,"
 118CWL049_305_337,train,2.57,3.14,3.0,It's even harder when she isn't.
 118CWL049_344_462,train,3.28,3.0,3.14,"Big Sisters helps fill that void by matching caring, responsible adult volunteers with at-risk girls, ages 8-14."
-118CWL049_39_51,train,3.3,2.8,3.0,Dear Friend:
 118CWL049_463_669,train,3.3,3.0,3.0,"A Big Sister is a mentor, a friend and a role model, helping a young girl to develop the self-confidence and life skills necessary to become a responsible, productive and successful adult."
 118CWL049_58_70,train,3.0,2.9,2.9,Adolescence.
 118CWL049_670_765,dev,3.5,3.4,3.5,"Your $1,000 contribution can put a mentor in a child's life-and hope in a child's future."
@@ -631,8 +566,6 @@ id,split,V,A,D,text
 118CWL050_3327_3457,train,3.0,3.1,3.2,"If you would like to find out more about the Big Sisters program, please call us, (317) 634-6102 and ask for Ellen Robinson."
 118CWL050_3458_3527,train,3.6,3.1,3.1,"Thank you very much for your time, attention and consideration."
 118CWL050_348_378,train,3.22,3.0,3.33,Make our society better.
-118CWL050_3534_3544,train,3.17,2.67,3.0,"Sincerely,"
-118CWL050_3602_3606,train,3.0,2.8,3.0,P.S.
 118CWL050_3607_3658,train,3.4,3.7,3.0,"When you give to Big Sisters, you can get 50% back!"
 118CWL050_3659_3849,train,3.1,2.7,3.0,"For a minimum contribution of $250, you become eligible for a 50% Indiana state tax credit through the Indiana Department of Commerce Neighborhood Assistance Program (NAP)."
 118CWL050_379_453,dev,3.5,3.0,3.2,"Make a world worthy of the children that your generation will bear."""
@@ -649,17 +582,13 @@ id,split,V,A,D,text
 119CWL041_1188_1245,train,3.3,3.0,3.1,I have enclosed a pledge card for your convenience.
 119CWL041_1246_1415,train,3.0,2.86,2.71,"We would like to announce the success of this year's campaign at the Annual Meeting on April 27, so please return you pledge or gift within the next 30 days."
 119CWL041_140_221,train,3.25,3.25,3.38,"As a former board member, the success of the YMCA is still important to me."
-119CWL041_1422_1432,train,3.6,3.1,3.1,Thank you.
-119CWL041_1439_1449,train,3.4,3.0,3.4,"Sincerely,"
 119CWL041_1456_1479,train,3.0,2.8,3.0,"Richard H. Gilbert, Jr."
 119CWL041_1480_1532,train,3.2,2.9,3.0,Past Board Member YMCA of Greater Indianapolis
 119CWL041_18_32,train,3.0,3.0,3.0,"March 29, 1999"
 119CWL041_222_312,train,3.0,3.0,3.25,We must be able to reach all youth and families interested in values-based programs.
 119CWL041_373_423,train,3.2,2.9,3.1,New initiatives in the inner-city are taking hold.
-119CWL041_39_64,test,3.0,2.8,3.0,"Name Address City, ST Zip"
 119CWL041_424_593,test,3.38,3.12,3.25,"The Urban Mission Branch is reaching out to middle school youth with programs based on caring, honesty, respect and responsibility for themselves and others."
 119CWL041_600_684,train,2.8,3.0,2.9,"For some, these are very different messages from the ones heard in the street."
-119CWL041_71_81,train,3.0,2.8,3.0,Dear Name:
 119CWL041_851_942,dev,3.2,3.0,3.0,You have shared in the vision and the leadership of the YMCA of Greater Indianapolis.
 119CWL041_88_139,train,3.0,3.0,3.0,The 1999 Invest in Youth Campaign is in full swing.
 119CWL041_943_1108,train,3.25,2.87,3.25,"I now invite you to continue to support the mission and the message that is so important to building strong kids, strong families and strong communities."
@@ -829,8 +758,6 @@ id,split,V,A,D,text
 20020731-nyt_23147_23178,dev,3.1,3.0,3.0,He has lived here for 20 years.
 20020731-nyt_23179_23261,train,2.8,2.8,3.3,"""A lot of kids are afraid of 'the process' and I wanted to take 'the process' out."
 20020731-nyt_23179_23569,train,3.4,3.2,3.4,"""A lot of kids are afraid of 'the process' and I wanted to take 'the process' out. For this school, once they are in, all they have to do is come every day, come on time every day and work hard. A little more than 50 percent of our kids make it through. I want it to be more, but my job is not to see that everybody makes it; my job is to see that everybody has the opportunity to make it."""
-20020731-nyt_23208_23221,train,3.1,2.6,3.1,'the process'
-20020731-nyt_23243_23256,train,2.9,3.0,2.9,'the process'
 20020731-nyt_23262_23373,train,3.12,3.25,3.25,"For this school, once they are in, all they have to do is come every day, come on time every day and work hard."
 20020731-nyt_23374_23432,train,2.89,2.56,3.11,A little more than 50 percent of our kids make it through.
 20020731-nyt_23433_23569,train,3.0,3.0,3.44,"I want it to be more, but my job is not to see that everybody makes it; my job is to see that everybody has the opportunity to make it."""
@@ -964,7 +891,6 @@ id,split,V,A,D,text
 20020731-nyt_39991_40174,train,1.89,3.22,2.78,"Marshall, an insurance agent from Toms River, was convicted of hiring a man to kill his wife while the couple were going home after an evening of dining and gambling in Atlantic City."
 20020731-nyt_40175_40250,train,3.0,2.9,3.1,"The case was the subject of Joe McGinniss' best-selling book ""Blind Faith."""
 20020731-nyt_40236_40250,train,3.1,3.0,2.8,"""Blind Faith."""
-20020731-nyt_40290_40353,train,3.0,3.0,3.0,"The New York Times said in an editorial for Wednesday, July 31:"
 20020731-nyt_4034_4282,train,3.1,3.0,3.2,"The committee said it had weighed the fact that Torricelli's principal accuser in the case had been Chang, ""a witness whose credibility has been called into question by the Department of Justice, a United States District judge and his own conduct."""
 20020731-nyt_40357_40439,train,3.0,2.8,2.9,President Hosni Mubarak of Egypt describes himself as America's leading Arab ally.
 20020731-nyt_40440_40540,train,2.8,3.2,2.9,Yet his anti-democratic behavior is an embarrassment to Washington and an affront to his own people.
@@ -990,7 +916,6 @@ id,split,V,A,D,text
 20020731-nyt_42737_42767,train,2.5,3.2,3.3,This is entirely insufficient.
 20020731-nyt_42768_42955,train,2.5,3.3,2.9,What is needed is a message delivered personally by Bush and other top officials not only about the inexcusable treatment of Ibrahim but of the contemptuous approach to democratic values.
 20020731-nyt_4283_4469,train,2.78,3.0,3.0,"In May, that judge sentenced sentenced Chang to 18 months' imprisonment for obstructing justice and making $53,700 in illegal campaign contributions to Torricelli's 1996 Senate campaign."
-20020731-nyt_42999_43062,train,3.0,2.9,3.0,"The New York Times said in an editorial for Wednesday, July 31:"
 20020731-nyt_43066_43239,train,2.6,3.0,3.0,"Responding to a wave of public dismay over the first designs for rebuilding Lower Manhattan, Gov. George Pataki has sent word that it's time to go back to the drawing board."
 20020731-nyt_43240_43381,train,2.43,3.14,3.0,"It is the right message, sent while it is still early enough to do something constructive about the disappointing quality of the work so far."
 20020731-nyt_43382_43544,train,3.25,3.12,3.25,"The governor, like Mayor Michael Bloomberg, now seems committed to creating a better mix of uses for ground zero, and a 24-hour community in Manhattan's downtown."
@@ -1009,7 +934,6 @@ id,split,V,A,D,text
 20020731-nyt_45132_45272,train,2.82,2.91,3.09,"But it would be expensive, and the governor, the mayor and their friends in Washington will have to look at long-range ways to pay the bill."
 20020731-nyt_45275_45412,train,3.0,3.12,3.12,Pataki's recent remarks are a sign that he understands how central the rebuilding of Lower Manhattan will be to his own political legacy.
 20020731-nyt_45413_45613,train,3.12,2.88,3.25,"Now he needs to follow through with action, to keep demonstrating that his core concern is coming up with the best possible plan, not simply keeping the issue on hold until after this fall's election."
-20020731-nyt_45654_45717,train,3.0,2.88,2.88,"The New York Times said in an editorial for Wednesday, July 31:"
 20020731-nyt_45721_45895,dev,3.09,2.91,3.0,"President Bush has now unveiled his long-awaited ""Clear Skies"" proposal, which he promises will simplify and strengthen the Clean Air Act without crippling American industry."
 20020731-nyt_45896_46014,train,3.0,3.0,3.12,A debate on how to make the 32-year-old Clean Air Act a stronger and more efficient instrument is surely long overdue.
 20020731-nyt_46015_46164,train,2.8,3.0,3.0,"But the Bush plan falls well short of the only other credible proposal on the table, a bill sponsored by Sen. James Jeffords, Independent of Vermont."
@@ -1074,17 +998,14 @@ id,split,V,A,D,text
 602CZL285_1461_1654,train,3.6,3.0,3.3,"In joining SCS, you join the ranks of those who believe that bringing art and art education to the city makes life better, richer, and more rewarding for the entire community."
 602CZL285_1661_1739,train,2.9,2.8,3.0,A Second Century Society response card and return envelope are enclosed.
 602CZL285_1740_1852,train,3.1,2.9,3.1,"Should you have questions or if I can be of assistance in any way, please call me: 317.923.1331, ext. 248."
-602CZL285_1859_1869,train,3.43,3.14,3.29,"Sincerely,"
 602CZL285_1876_1920,train,3.0,2.89,3.0,ARLETTA B.NEWTON Donor Relations Coordinator
 602CZL285_18_30,train,3.0,2.8,3.0,"June 6, 2000"
 602CZL285_1921_1931,test,3.0,2.71,3.14,Enclosures
 602CZL285_1939_2117,train,3.1,2.9,2.9,"P .S. Both our Barefoot in the Grass family picnic (July 23,2000) and the annual SCS Founders Day celebration (October 11,2000) are free for Georgia O'Keeffe members."
 602CZL285_2118_2138,train,3.33,3.89,3.11,Mark your calendars!
 602CZL285_260_452,train,3.3,2.8,3.4,"The SCS brochure I am enclosing will give you the historic significance of SCS, as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level."
-602CZL285_37_62,train,3.0,2.6,3.1,"Name Address City, ST Zip"
 602CZL285_453_606,train,3.14,3.0,3.0,"Your Georgia O'Keeffe membership, please note, includes free admission to all art-related activities of the IMA's Young Friends of Art group."
 602CZL285_613_815,train,3.12,2.62,3.37,"Additionally, I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events, exhibitions, and educational programs."
-602CZL285_69_79,train,2.9,2.4,2.8,Dear Name:
 602CZL285_822_1118,train,3.25,3.63,3.12,"These are particularly exciting times at the Indianapolis Museum of Art: Progress continues on the J.K. Lilly estate-Oldfields, our Ravine Garden has been restored to its original splendor, and there is national attention showered on our current exhibition of Japanese Painting."
 602CZL285_86_259,train,3.5,3.0,3.17,Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art's Second Century Society (SCS).
 A1_1009_1254,train,3.0,3.0,3.0,"The electronic trade free trade zone is situated in the north of Dubai, close to the free industrial zone in Jabal Ali Mountain, an area which is considered to be the first in the country, and tenth in the world for transit movement."
@@ -1268,7 +1189,6 @@ A_defense_of_Michael_Moore_25921_25982,dev,2.2,3.0,3.0,Heston's answers in the i
 A_defense_of_Michael_Moore_25983_26139,train,2.9,2.8,2.9,"While this can in part be explained with his age and mental condition, if he is unable to defend the interests of the NRA, he should not be their spokesman."
 A_defense_of_Michael_Moore_26140_26240,train,2.9,2.8,3.1,"In this case, Hanlon's Razor can be applied to Heston -- he is probably not racist, but incompetent."
 A_defense_of_Michael_Moore_26583_26671,train,2.67,3.33,3.33,"If Heston makes himself look like a fool, that should hardly be blamed on Michael Moore."
-A_defense_of_Michael_Moore_26673_26683,train,3.0,2.9,3.1,Conclusion
 A_defense_of_Michael_Moore_26685_26732,train,2.7,3.1,3.0,"You write: ""Bowling for Columbine is dishonest."
 A_defense_of_Michael_Moore_26696_26732,train,2.1,2.9,2.8,"""Bowling for Columbine is dishonest."
 A_defense_of_Michael_Moore_26733_26750,train,2.3,3.4,3.0,It is fraudulent.
@@ -1477,7 +1397,6 @@ Ant_Robot_2632_2834,train,3.0,3.0,3.0,"Queens and drones will not be considered 
 Ant_Robot_26480_26530,train,3.0,3.0,3.0,The first function might look something like this:
 Ant_Robot_27478_27583,test,3.2,2.9,3.0,"In-nest navigation will be a function of the temperature, read by Antie’s thermometer and a light source."
 Ant_Robot_27584_27763,train,3.0,2.75,2.88,"To exit, Antie will seek a high temperature until the photoreceptor reaches a threshold of stimulation indicating sunlight, and to get deeper, Antie will seek a lower temperature."
-Ant_Robot_27764_27802,train,3.0,3.0,3.0,The code may look something like this:
 Ant_Robot_2835_2969,train,3.0,2.75,3.0,"The behaviors of the sterile workers may be divided into several subcategories: brood care, nest maintenance, patrolling and foraging."
 Ant_Robot_28767_28841,train,3.0,2.6,3.2,"This void function will be called nestEnter(), and will take in no inputs."
 Ant_Robot_28855_28950,train,3.0,2.64,3.0,"To avoid bumping into things (including other ants), Antie be provided with an escape function."
@@ -1489,7 +1408,6 @@ Ant_Robot_29941_30195,train,3.09,2.91,3.0,"Because this function responds to the
 Ant_Robot_30208_30277,train,3.0,3.0,3.0,"Before picking objects up, however, Antie will need to identify them."
 Ant_Robot_30278_30411,train,3.1,3.0,3.3,This object detection process will be activated when the front bump sensor is stimulated or when both sonar detectors are stimulated.
 Ant_Robot_30412_30505,train,3.0,3.1,3.2,Chemical inputs will be checked to see what this object is most likely to be given its smell.
-Ant_Robot_30544_30582,train,3.0,2.4,3.0,The code may look something like this:
 Ant_Robot_3128_3382,train,3.11,3.11,3.22,"Nest maintenance and seed processing are likewise difficult to observe in the deeper regions of the nest, but the sorting and deposition of waste dirt and nest garbage outside of the nest (midden work) occurs close enough to the surface to be observable."
 Ant_Robot_31867_31934,train,3.0,2.5,2.8,"Once the object has been identified, Antie may grip it and lift it."
 Ant_Robot_31935_32117,train,3.0,3.14,3.14,"A simple void function grip() taking in no inputs will tighten the grippers until a certain threshold of pressure is reached, at which point the grippers will be lifted for carrying."
@@ -1533,7 +1451,6 @@ Ant_Robot_39829_39995,train,3.0,2.9,3.1,"Harvester ants display a preference to 
 Ant_Robot_3994_4236,train,3.0,3.2,3.1,"In the case of midden work, Antie must be able to identify garbage, grasp it, carry it out of the nest, and deposit it about halfway down the mound before returning to repeat the process ad infinitum (or until stimulated to switch behaviors)."
 Ant_Robot_39996_40158,train,3.1,2.7,3.2,"To control for this behavior, Antie’s explore subroutine will display a preference for exploration in places where there is a low gradient of nestmate pheromones."
 Ant_Robot_40159_40337,train,3.0,2.9,2.9,"This model is reasonable because patrollers and foragers change their explored territory from day to day, even though they do retain some more commonly chosen paths (Gordon, 45)."
-Ant_Robot_40338_40376,train,3.0,3.0,3.14,The code may look something like this:
 Ant_Robot_4237_4333,train,3.0,3.0,3.0,"Patrolling may be divided into two distinct sub-behaviors, nest patrolling and trail patrolling."
 Ant_Robot_43115_43251,dev,3.1,2.7,3.1,Nest patrollers will only call this behavior for a short distance before returning to the nest to idle for a few minutes and exit again.
 Ant_Robot_43252_43404,train,3.0,3.0,3.1,"Trail patrollers will go much further, until food sources are found, and will then orient towards the nest and create trails for the foragers to follow."
@@ -1563,7 +1480,6 @@ Ant_Robot_51097_51172,train,3.0,2.8,3.3,Activated foragers form a queue to exit 
 Ant_Robot_51173_51388,train,3.0,2.88,3.0,"According to Schafer’s, et al. model of forager activation, every time a successful forager returns and no foragers are currently in line to exit, a fraction (modeled at 0.0035) of inactive foragers joins the queue."
 Ant_Robot_51389_51606,train,2.88,2.75,3.0,"For the purposes of modeling Antie, I will assume that the switches between these behaviors are permanent, irreversible and partly a function of age, with new foragers being activated by returning successful foragers."
 Ant_Robot_51607_51676,train,3.11,2.89,3.0,The code to model this task-switching might look something like this:
-Ant_Robot_53560_53570,dev,3.0,2.9,3.0,Conclusion
 Ant_Robot_53596_53976,train,3.2,3.3,3.2,"Antie will be a fully autonomous, situated and embodied agent, infiltrating a red harvester ant colony and providing valuable information not only about the hypothesized rules of these ants’ behaviors and their task-switching thresholds, but also about the combination of complex behaviors into a single autonomous system with the ability to switch between behaviors as necessary."
 Ant_Robot_5378_5513,train,3.0,3.14,3.29,"In addition to following these trails to the food, foragers must also be able to identify food, grasp it and carry it back to the nest."
 Ant_Robot_53977_54388,train,3.0,2.78,3.0,"Biomimetic robots have long been a rich source of information for both biologists and robotics engineers, and complex robots that can switch tasks as the situation demands and communicate information about current tasks could be useful for further studies of complex robot behaviors as well as for the obvious practical applications of robot swarms, such as on the battlefield and standard building maintenance."
@@ -1615,7 +1531,6 @@ Anti-Terrorist_1989_2031,train,2.7,3.2,3.3,It cannot withstand clear-headed scru
 Anti-Terrorist_2032_2130,train,2.0,3.0,2.8,"The fact is, Bush policies have failed completely even to diminish terrorism, much less defeat it."
 Anti-Terrorist_2131_2273,train,2.1,3.4,2.8,"By trying to ""stamp out"" terrorism by killing terrorists, Bush and Israel have made things infinitely worse for us: more dangerous, not safer."
 Anti-Terrorist_2274_2389,train,2.6,3.2,3.0,"And proof that Bush has failed may come at any moment, explosively, with one big successful attack here in the USA."
-Anti-Terrorist_2391_2411,train,2.5,3.2,2.3,May God help us all.
 Anti-Terrorist_239_270,test,3.0,3.1,3.0,"BACKGROUND , September 11, 2004"
 Anti-Terrorist_2413_2431,train,2.5,3.4,2.8,WHAT IS TERRORISM?
 Anti-Terrorist_2433_2590,train,2.9,3.1,3.0,"TERRORISM is ""the systematic use of violence to create a general climate of fear in a population and thereby to bring about a particular political objective."
@@ -1647,11 +1562,7 @@ Anti-Terrorist_4_65,train,2.9,3.1,3.1,The Anti-Terrorist - Undermining The Motiv
 Anti-Terrorist_5071_5156,train,2.6,3.0,3.5,"To deny reality, as the Israeli/NeoCons do, is to invite disaster, as they have done."
 Anti-Terrorist_5159_5170,dev,3.0,2.8,3.0,BIG PICTURE
 Anti-Terrorist_5172_5251,dev,2.9,3.0,3.1,A big picture of our entire Anti-Terrorism strategy can be found at our website
-Anti-Terrorist_5315_5332,dev,4.0,3.09,2.82,Blessings to you.
 Anti-Terrorist_532_697,test,2.9,3.1,3.0,"Before 9/11, terrorism was confined to a small number of extremist individuals, loosely linked by radical Islam and hatred of Israel and its sole supporter, the USA."
-Anti-Terrorist_5333_5353,train,2.7,3.3,2.3,May God help us all.
-Anti-Terrorist_5356_5373,train,3.73,2.82,2.73,Blessings to you.
-Anti-Terrorist_5374_5394,dev,2.5,3.3,2.4,May God help us all.
 Anti-Terrorist_5397_5446,train,3.1,2.8,3.1,"Rev. Bill McGinnis, Director - LoveAllPeople.org"
 Anti-Terrorist_68_120,train,3.18,2.73,3.0,"By Rev. Bill McGinnis , Director - LoveAllPeople.org"
 Anti-Terrorist_698_837,train,2.5,3.2,2.8,"Now, many more moderate Muslims have become radicalized, world-wide, willing to kill innocent civilians in order to achieve their purposes."
@@ -1762,7 +1673,6 @@ Bartok_25844_25986,train,3.1,3.0,3.0,"But if we apply it to music such as Bartó
 Bartok_25987_26078,train,3.0,2.8,3.0,To do so was the goal of this analysis of the first movement of the Concerto for Orchestra.
 Bartok_26079_26300,train,3.1,2.7,3.3,"By applying our tonal system to music that slips outside of the tonal realm, we not only find the elements of tonality that do remain, but we also pinpoint exactly when and how this music breaks from previous conventions."
 Bartok_26301_26401,train,3.18,3.0,3.09,It is not disputed that Bartók’s music has great expressive power—perhaps now we can understand why.
-Bartok_26414_26424,train,3.0,2.89,3.0,References
 Bartok_2666_2761,test,3.0,2.75,3.0,"The abbreviations FTG and STG stand for First Theme Group and Second Theme Group, respectively."
 Bartok_2957_3173,test,3.1,2.8,3.0,"While “tonality” in this piece (and in Bartók’s music in general) is quite different from its classical interpretation, we find that the harmonic structure is at least analogous to the standard sonata-form structure."
 Bartok_298_431,train,2.88,2.88,2.88,"Bartók’s music, although it is often difficult to call completely tonal, never entirely sheds itself of tonal elements and structure."
@@ -1937,7 +1847,6 @@ Black_and_white_9799_9893,train,2.88,2.75,3.12,Concrete bodies decrease the spac
 Black_and_white_9894_10030,train,3.0,3.0,3.0,"Against white, one can actually establish the intensity of clashing colors; white determines the tone in the first place."
 Fermentation_Eminent-Domain_10098_10200,train,2.62,3.38,3.12,"and how can the state legislature single out two counties (first Napa, now Sonoma) for this treatment?"
 Fermentation_Eminent-Domain_10201_10269,train,3.0,2.9,3.0,are they going to go through the wine-producing counties one by one?
-Fermentation_Eminent-Domain_10303_10323,train,3.0,2.9,2.8,JohnLopresti said...
 Fermentation_Eminent-Domain_10324_10456,train,2.89,2.89,3.0,vive la OIVV OIV_Wine_Labelling_Standard_EN_2006 re at Fredric K's BTYH website there is a review discussing MacRostie pinot noir.
 Fermentation_Eminent-Domain_10457_10613,train,3.0,2.88,2.88,"I had thought of the kiltman with respect to a new AVA in Yorkville highlands, thinking the Scot might have interest in playing the bagpipes in the uplands."
 Fermentation_Eminent-Domain_10614_10745,train,3.0,3.0,3.0,"Then, at Steve's site there is an interesting discussion of his current ongoing efforts with blends from Carneros and Sonoma Coast."
@@ -1947,7 +1856,6 @@ Fermentation_Eminent-Domain_10827_11013,test,2.86,2.86,3.14,"In a way, all this 
 Fermentation_Eminent-Domain_11014_11221,train,3.0,2.5,3.0,Winkler heat summation datapoints also clarified several decades ago some of the plant physiologic underpinnings of why Napa county and Sonoma county were the natural leaders in premium winegrape production.
 Fermentation_Eminent-Domain_1101_1310,train,2.8,2.8,3.1,"The problem, of course, is that by placing the words ""Sonoma County"" on a bottle of wine that is made with grapes grown in ""Russian River Valley"", ""Dry Creek Valley"", ""Sonoma Valley"" or any other AVA in Sonoma"
 Fermentation_Eminent-Domain_11222_11318,train,3.18,2.64,3.18,There are many reasons why the new labeling requirement makes sense from all these perspectives.
-Fermentation_Eminent-Domain_11355_11375,train,3.0,3.0,3.0,JohnLopresti said...
 Fermentation_Eminent-Domain_11376_11484,train,2.8,2.7,2.9,"sorry, I keep forgetting the Fermentation site's html protocol; here is the OIVV label guideline link again:"
 Fermentation_Eminent-Domain_11613_11628,dev,2.88,2.88,2.88,El Jefe said...
 Fermentation_Eminent-Domain_11629_12005,train,3.0,2.9,3.0,"OK, so here's the real requirement: ""Any wine labeled with an American Viticultural Area established yada yada, that is located entirely within yada yada, shall bear the designation ""Sonoma County"" on the label in a type size not smaller than two millimeters on containers of more than 187 milliliters or smaller than one millimeter on containers of 187 milliliters or less."
@@ -1955,8 +1863,6 @@ Fermentation_Eminent-Domain_12009_12120,train,2.9,2.7,3.0,"If I recall correctly
 Fermentation_Eminent-Domain_12123_12214,train,2.66,2.89,3.0,"So the answer seems pretty clear to me: just add ""Sonoma County"" to the government warning."
 Fermentation_Eminent-Domain_12251_12269,train,3.0,2.88,3.12,Johnonwine said...
 Fermentation_Eminent-Domain_12271_12389,dev,3.0,2.78,3.0,"They [Honore Comfort and the Sonoma County Vintners] point to the prestige that the ""Napa Valley"" designation carries."
-Fermentation_Eminent-Domain_12390_12529,dev,2.9,2.6,3.5,"But this prestige has nothing to due with the law that demands ""Napa Valley"", in addition to simply ""Rutherford"", be placed on these wines."
-Fermentation_Eminent-Domain_12530_12656,train,3.2,2.9,3.2,"It has to do entirely with the promotional effort that has gone into making ""Napa Valley"" a place associated with great wines."
 Fermentation_Eminent-Domain_12659_12731,train,2.75,3.0,3.38,"Such an association will not be made with ""Sonoma County"" wines...ever."
 Fermentation_Eminent-Domain_12733_12922,train,3.1,3.0,3.0,"Tom, I would suggest that all Napa wineries, good and bad, benefit from having Napa Valley on the label; it is indeed a great example of marketing - what you describe as promotional effort."
 Fermentation_Eminent-Domain_1311_1383,train,2.6,3.0,2.9,"County, consumers learn absolutely nothing about the wine in the bottle."
@@ -1979,8 +1885,6 @@ Fermentation_Eminent-Domain_2413_2562,test,3.11,2.78,3.11,"Honore Comfort, Execu
 Fermentation_Eminent-Domain_2563_2658,train,3.3,3.2,3.1,"""This moment ...marks the beginning of a stronger Sonoma County brand for generations to come."""
 Fermentation_Eminent-Domain_2659_2897,train,3.0,2.6,3.0,"Proponents of the new Sonoma County Conjunctive labeling law like to point to a similar law that demands ""Napa Valley"" be placed on all wines that are made from grapes grown in that appellation, rather than simply using a sub appellation."
 Fermentation_Eminent-Domain_2898_2968,test,3.12,2.87,3.12,"They point to the prestige that the ""Napa Valley"" designation carries."
-Fermentation_Eminent-Domain_2969_3108,train,2.82,3.18,2.82,"But this prestige has nothing to due with the law that demands ""Napa Valley"", in addition to simply ""Rutherford"", be placed on these wines."
-Fermentation_Eminent-Domain_3109_3235,train,3.1,3.0,3.1,"It has to do entirely with the promotional effort that has gone into making ""Napa Valley"" a place associated with great wines."
 Fermentation_Eminent-Domain_3308_3492,test,3.0,3.0,3.0,"The vintners in Sonoma County simply can't make a case for ""Sonoma County"" having any meaning or for a region as vast as ""Sonoma County"" delivering any degree of quality to the grapes."
 Fermentation_Eminent-Domain_348_547,train,2.8,3.1,3.1,"Pushed as an effort to promote ""Sonoma County"" wines and a consumer education effort, the new law instead forces vintners to needlessly sully their package and undermines their own marketing efforts."
 Fermentation_Eminent-Domain_3493_3762,train,2.88,3.12,3.25,"Why is it important for someone making ""Sonoma Coast Pinot Noir"" or ""Sonoma Valley Zinfandel"" to help promote ""Sonoma County"", a designation that has no ability to define the quality or character of the wines in my Sonoma Coast Pinot Noir or my Sonoma Valley Zinfandel?"
@@ -2021,7 +1925,6 @@ Fermentation_Eminent-Domain_6240_6321,train,2.62,3.25,3.25,"Eminent domain is ex
 Fermentation_Eminent-Domain_6323_6373,train,2.57,3.43,3.43,The legislators who backed this should be ashamed.
 Fermentation_Eminent-Domain_6471_6492,train,3.0,2.6,3.0,Hardy Wallace said...
 Fermentation_Eminent-Domain_6493_6526,train,2.91,3.36,2.54,Thanks Tom-- This law is such BS.
-Fermentation_Eminent-Domain_6560_6580,train,3.0,3.0,3.0,JohnLopresti said...
 Fermentation_Eminent-Domain_6581_6659,train,3.1,2.8,3.0,"I put in 1+ decades in trade coursework, and several branches of the industry."
 Fermentation_Eminent-Domain_6660_6699,train,3.33,3.0,3.44,I support the new labeling requirement.
 Fermentation_Eminent-Domain_6702_6803,dev,3.1,3.0,3.0,"Sonoma county always was the sheep ranch joke in the era of Napa's well-deserved, early, global fame."
@@ -2043,12 +1946,10 @@ Fermentation_Eminent-Domain_8459_8516,train,2.88,3.0,3.12,"I admit, I don't see 
 Fermentation_Eminent-Domain_8517_8592,train,3.0,2.8,3.0,The issue of the costs to vintners is non-trivial too as you can see above.
 Fermentation_Eminent-Domain_8626_8645,dev,3.0,3.1,3.0,Bill Cadman said...
 Fermentation_Eminent-Domain_8646_8840,train,3.1,2.6,3.0,"Tom-- I wonder what the response would be in Napa and Sonoma if the vintners in Fresno convinced the state government to require ""California"" be put on all labels of wine made within California?"
-Fermentation_Eminent-Domain_8874_8894,train,3.0,2.7,3.0,JohnLopresti said...
 Fermentation_Eminent-Domain_8895_9059,train,3.0,3.29,3.14,"These past few years, 'eminent domain' has become a libertarian property rights flashpoint, since the Kelo v New London, CT, case concerning urban renewal polemics."
 Fermentation_Eminent-Domain_9060_9092,train,2.8,3.1,3.1,"I can see Tom W's concerns, too."
 Fermentation_Eminent-Domain_9095_9340,dev,2.75,2.75,3.12,"There was a counterpoint in the label world after some court cases resulted in a company's revising its grape sourcing to comply with tightened requirements for 75% in-county fruit in order to remain legal in designating the wine as from ""Napa""."
 Fermentation_Eminent-Domain_9341_9503,dev,2.9,3.0,3.1,One rambling article's author counted 16 occurrences of the word Napa on the newly designed label of a famous budget wine producer's 2005 Napa cabernet sauvignon.
-Fermentation_Eminent-Domain_9537_9557,train,3.0,2.78,2.78,JohnLopresti said...
 Fermentation_Eminent-Domain_9558_9578,train,2.9,2.8,3.1,The links for @2:04:
 Fermentation_Eminent-Domain_97_347,test,2.6,3.1,2.9,"I was disappointed, though not surprised, to see that today a conjunctive labeling law dictating that ""Sonoma County"" be placed on every label on wines produced from grapes grown in Sonoma County was unanimously passed by the California Legislature ."
 Fermentation_Eminent-Domain_9852_9875,train,3.0,2.8,3.0,fredric koeppel said...
@@ -2386,7 +2287,6 @@ Homosexuality_1747_1894,train,3.25,3.13,3.12,"Even Homer wrote about Achilles an
 Homosexuality_17631_17898,train,2.88,3.0,3.62,"This is why Bailey and Pillard found in their study that while they was a greatly elevated chance that two males sharing the same genetic makeup would also share the same sexuality, this was not the case 100 % of the time."
 Homosexuality_17899_18023,train,3.0,2.9,3.1,"This seems to be the most likely explanation as of now, but even as I write this, new studies are being done."
 Homosexuality_18024_18069,train,2.9,2.9,3.1,Perhaps the truth is right around the corner.
-Homosexuality_18098_18109,train,3.2,2.7,3.1,Works Cited
 Homosexuality_18126_18364,train,3.12,2.75,3.0,"APA Online. 2003. American Psychological Association. <http://www.apa.org>. Bailey, J. M., and R. C. Pillard. ""A Genetic Study of Male Sexual Orientation."" Archives of General Psychiatry 1089-1096 (1991)."
 Homosexuality_18381_18552,train,3.0,2.6,3.0,"Dobbens, James B. Telephone interview. 6 June 2002. Emond, Charles. Mountain Pride Media. June 1999. <http://www.mountainpridemedia.org>."
 Homosexuality_183_259,train,3.0,2.7,2.8,"Some would say it is a gene, passed on from parents to child."
@@ -2741,7 +2641,6 @@ Madame_White_Snake_3505_3540,train,3.5,3.25,3.25,“ethereal beauty”
 Madame_White_Snake_3560_3854,train,3.0,3.0,3.1,"Ueda, Akinari. Ugetsu Monogatari : Tales of Moonlight and Rain : A Complete English Version of the Eighteenth-Century Japanese Collection of Tales of the Supernatural. Vancouver: University of British Columbia Press, 1974, 162-164."
 Madame_White_Snake_378_821,train,3.0,2.5,3.13,"Two quintessential novellas, “The Lust of the White Serpant” from Ugetsu Monogatari by the Japanese author Ueda Akinari and “Eternal Prisoner under Thunder Peak Pagoda” a traditional Chinese story, are both relatively complex and demonstrate not only the evolution of the White Snake figure to become a more believable human, but also what aspects may have given her enduring appeal."
 Madame_White_Snake_3871_4094,train,3.1,3.2,2.9,"In “Eternal Prisoner,” Madame White Snake’s bewitching beauty follows her lover Hsü into his dreams, and the next morning “he was so distracted that he could not concentrate on doing business.”"
-Madame_White_Snake_3874_3893,train,2.7,3.1,2.7,"“Eternal Prisoner,”"
 Madame_White_Snake_4008_4094,train,2.5,2.8,2.5,“he was so distracted that he could not concentrate on doing business.”
 Madame_White_Snake_407_453,train,3.0,2.67,3.11,“The Lust of the White Serpant”
 Madame_White_Snake_4113_4162,train,2.6,3.0,2.6,“Eternal Prisoner under the Thunder Peak Pagoda.”
@@ -2779,7 +2678,6 @@ Madame_White_Snake_8293_8606,train,4.0,3.44,2.89,"“We have a love bond between
 Madame_White_Snake_837_1102,dev,3.0,3.0,3.2,"While both these stories are ostensibly morality tales about the dangerous beauty of this femme fatale, the true source of pleasure from these narratives is the femme fatale’s transgressive behavior, not her eventual punishment for it."
 Madame_White_Snake_8446_8559,train,2.71,3.43,3.14,"Please, since we are already married, take me back, and let’s stay together the rest of our lives."
 Madame_White_Snake_8560_8606,dev,3.8,3.6,3.2,Wouldn’t that be wonderful?”
-Madame_White_Snake_8625_8644,train,2.4,3.2,2.5,"“Eternal Prisoner,”"
 Madame_White_Snake_8625_8649,dev,3.09,2.73,3.09,"“Eternal Prisoner,” 369."
 Madame_White_Snake_8666_9267,train,2.9,2.9,3.0,"In another traditional vernacular story, “Tsu Shih-Niang Sinks the Jewel Box in Anger, “Tu Shih-Niang Sinks the Jew Box in Anger,” trans, Richard M. W. Ho, in Y. W. Ma and Joseph S. M. Lau. Traditional Chinese Stories : Themes and Variations. Boston: Zheng & Zui Co, 1986, 358. ” the male protagonist breaks a promise he made to his concubine lover, and suffers for it, suggesting that traditionally, loyalty and keeping ones word was valued on the man’s part as well as a woman’s."
 Madame_White_Snake_8707_9035,train,3.0,3.0,3.1,"“Tsu Shih-Niang Sinks the Jewel Box in Anger, “Tu Shih-Niang Sinks the Jew Box in Anger,” trans, Richard M. W. Ho, in Y. W. Ma and Joseph S. M. Lau. Traditional Chinese Stories : Themes and Variations. Boston: Zheng & Zui Co, 1986, 358. ”"
@@ -2791,7 +2689,6 @@ NWF1_1024_1327,train,3.44,3.0,3.33,"While you are under no obligation for these 
 NWF1_1337_1419,train,3.0,2.88,3.38,I’m sure you’ve heard of us either directly or by our publications and activities.
 NWF1_1420_1506,train,3.5,3.12,3.12,We are one of America’s largest and most successful conservation and education groups.
 NWF1_1507_1572,train,2.9,3.0,3.1,Ever hear of Ranger Rick the famous children’s wildlife magazine?
-NWF1_154_178,train,3.2,2.8,3.0,"Dear Friend of Wildlife,"
 NWF1_1573_1583,train,3.0,3.3,3.3,That’s us!
 NWF1_1606_1664,dev,3.1,3.0,3.0,Ranger Rick is just one of our many wildlife publications.
 NWF1_1665_1720,dev,3.5,3.4,3.4,We also publish Your Big Backyard and Wild Animal Baby.
@@ -3285,7 +3182,6 @@ NYTnewswire9_4429_4485,train,2.6,2.8,3.2,"""I don't recall ever having to tell T
 NYTnewswire9_4429_4522,train,2.8,3.1,2.8,"""I don't recall ever having to tell Tom to do anything,"" Tibbets said in an e-mail this week."
 NYTnewswire9_4523_4617,train,3.33,3.11,3.22,"""He was so knowledgeable he just got things done, allowing me to concentrate on other matters."
 NYTnewswire9_4618_4647,test,3.6,3.6,3.0,I was very lucky to have Tom.
-NYTnewswire9_4647_4648,dev,3.0,2.78,3.0,""""
 NYTnewswire9_4654_4741,train,3.09,2.73,3.18,Tibbets quickly returned to Wendover after that first visit to set up his headquarters.
 NYTnewswire9_4742_4798,dev,2.9,2.9,3.2,His first order appointed Karnes adjutant for the 509th.
 NYTnewswire9_4804_4910,train,3.0,2.83,3.0,"Almost overnight, Wendover became a high-security base filled with off-limit areas covered in barbed wire."
@@ -3324,7 +3220,6 @@ NYTnewswire9_7480_7563,train,3.1,2.7,2.8,Tibbets got the word only an hour from 
 NYTnewswire9_7564_7631,train,2.78,3.44,3.11,"As they approached, Tibbets braced for Japanese anti-aircraft fire."
 NYTnewswire9_7632_7642,train,2.7,2.8,2.9,None came.
 NYTnewswire9_7643_7753,train,2.5,3.5,2.7,"Early in the flight, the crew had inserted a plug of uranium into the 9,000-pound bomb, nicknamed ""Little Boy."
-NYTnewswire9_7753_7754,train,3.0,2.6,2.7,""""
 NYTnewswire9_7760_7831,train,2.8,3.3,3.3,"Ninety seconds from the bomb drop, Tibbets put the plane on auto-pilot."
 NYTnewswire9_7832_7911,test,2.7,3.2,2.8,The crew slipped on dark glasses to prepare for the blinding flash of the bomb.
 NYTnewswire9_7912_8038,dev,2.0,3.5,2.9,"At 8:15 a.m. Hiroshima time, the pneumatic bomb-bay doors opened and ""Little Boy,"" equivalent to 20,000 tons of TNT, fell out."
@@ -3415,7 +3310,6 @@ Nathans_Bylichka_13177_13221,dev,2.9,2.9,2.8,"Under matted hair, his eyes had sl
 Nathans_Bylichka_13234_13266,train,3.0,2.57,2.57,Nepthys quickly answered for me.
 Nathans_Bylichka_13267_13288,train,2.3,2.9,2.7,“Girlfriend troubles.
 Nathans_Bylichka_13289_13389,dev,2.9,3.1,3.0,"She came down here with someone after a party, and I don’t think it was one of your average pixies.”"
-Nathans_Bylichka_13402_13410,train,1.9,3.1,3.0,“Bummer.
 Nathans_Bylichka_13411_13441,train,3.3,3.0,3.3,"So, what’s the cat look like?”"
 Nathans_Bylichka_13454_13470,train,3.0,2.75,3.25,He turned to me.
 Nathans_Bylichka_13471_13517,train,3.1,2.9,3.0,"Nepthys nodded: “It’s okay, you can trust him."
@@ -3459,7 +3353,6 @@ Nathans_Bylichka_15275_15293,train,3.0,2.7,3.1,"“Here you go, man."
 Nathans_Bylichka_15294_15305,train,4.09,3.54,3.0,Good luck!”
 Nathans_Bylichka_15318_15334,train,3.56,3.0,3.22,"“Thanks, Dvorov."
 Nathans_Bylichka_15335_15349,train,3.6,3.1,2.5,I owe you one.
-Nathans_Bylichka_15350_15360,test,3.3,3.1,3.2,Let’s go.”
 Nathans_Bylichka_15361_15385,train,2.8,2.9,2.8,That last one was to me.
 Nathans_Bylichka_15386_15430,train,3.11,3.0,3.11,I waved goodbye to the hunchback as we left.
 Nathans_Bylichka_15431_15555,train,2.9,3.0,3.0,"He gave me a half-hearted wave that made me wonder what exactly we were chasing, and whether I should be wearing body armor."
@@ -3504,7 +3397,6 @@ Nathans_Bylichka_18574_18634,dev,2.9,3.2,3.2,I caught my breath and forced mysel
 Nathans_Bylichka_1858_1967,dev,3.0,3.0,3.38,"“He says we should meet him tonight, there’s a good one going on in that church that closed down last month.”"
 Nathans_Bylichka_18635_18692,train,2.75,3.12,3.12,“Only if you stop beginning every sentence with my name.”
 Nathans_Bylichka_18705_18724,train,3.57,3.43,3.29,“You’ve got a deal.
-Nathans_Bylichka_18725_18735,train,3.1,3.1,3.4,Let’s go.”
 Nathans_Bylichka_18748_18816,train,3.1,3.1,3.1,"As we headed down the sidewalk, I said, “What is your name, anyway?”"
 Nathans_Bylichka_18788_18816,dev,3.1,3.0,3.2,"“What is your name, anyway?”"
 Nathans_Bylichka_18829_18874,train,2.8,3.1,2.9,“That’s a question you learn not to ask here.
@@ -3632,7 +3524,6 @@ Nathans_Bylichka_26029_26045,test,2.8,2.6,3.2,"“No, thank you,”"
 Nathans_Bylichka_26029_26110,train,2.5,2.9,3.0,"“No, thank you,” said Nepthys, “we regret that we cannot take up your kind offer."
 Nathans_Bylichka_26060_26148,dev,3.0,3.0,3.14,“we regret that we cannot take up your kind offer. Are you the proprietor of this shop?”
 Nathans_Bylichka_26111_26148,train,3.0,3.1,3.0,Are you the proprietor of this shop?”
-Nathans_Bylichka_26161_26167,test,3.4,3.2,3.3,"“Yes,”"
 Nathans_Bylichka_26161_26187,test,3.29,3.14,3.14,"“Yes,” answered the woman."
 Nathans_Bylichka_26188_26225,train,3.29,2.86,2.86,"“I am Madame Entera, at your service."
 Nathans_Bylichka_26325_26347,train,2.9,3.0,3.0,She raised an eyebrow.
@@ -3722,7 +3613,6 @@ Nathans_Bylichka_30285_30374,dev,3.1,3.1,3.2,"Madame Entera took me back up to t
 Nathans_Bylichka_30375_30444,train,2.9,3.2,3.0,"“Be careful you don’t let him touch it until you’re ready to use it,”"
 Nathans_Bylichka_30375_30544,train,2.88,3.12,3.25,"“Be careful you don’t let him touch it until you’re ready to use it,” the woman admonished Nepthys as she slipped the stone into a grey cloth pouch and handed it to him."
 Nathans_Bylichka_30545_30618,train,3.9,3.4,3.1,"“Thank you for doing business at our house, and I hope to see you again!”"
-Nathans_Bylichka_30695_30705,train,2.8,3.4,3.3,"“Come on,”"
 Nathans_Bylichka_30695_30744,train,3.18,2.64,3.09,"“Come on,” said Nepthys, “you could use a drink.”"
 Nathans_Bylichka_3069_3159,train,3.2,3.1,3.0,It was dark enough that I could actually see a few stars through the screen of city light.
 Nathans_Bylichka_30720_30744,train,3.0,2.9,3.4,“you could use a drink.”
@@ -3740,7 +3630,6 @@ Nathans_Bylichka_31206_31223,train,3.9,3.2,3.2,He grinned at me.
 Nathans_Bylichka_31224_31240,train,3.12,2.88,3.12,"“Drink up, kid.”"
 Nathans_Bylichka_31253_31326,test,3.0,3.0,3.0,I took about half of the Bloody Mary in one gulp and then ate the celery.
 Nathans_Bylichka_31327_31358,train,2.6,3.0,2.9,Nepthys slapped me on the back.
-Nathans_Bylichka_31359_31366,train,2.88,3.12,3.0,"“Okay,”"
 Nathans_Bylichka_31359_31459,test,3.0,3.12,3.25,"“Okay,” I said, “now that we’re sitting down, can you explain a little more of what’s going on here?"
 Nathans_Bylichka_31375_31459,dev,2.9,3.3,3.2,"“now that we’re sitting down, can you explain a little more of what’s going on here?"
 Nathans_Bylichka_31460_31496,train,2.7,3.1,2.8,"I mean, what is this place, really?”"
@@ -3791,7 +3680,6 @@ Nathans_Bylichka_34104_34133,train,3.2,3.1,3.2,"I can drink like a fish, kid."
 Nathans_Bylichka_3411_3483,test,3.1,2.9,2.9,"Now spring was back, under the concrete, and I could smell it even here."
 Nathans_Bylichka_34134_34162,train,3.0,3.12,3.5,"We should get going, though."
 Nathans_Bylichka_34163_34176,train,2.62,2.75,3.12,Still woozy?”
-Nathans_Bylichka_34177_34186,train,3.0,2.71,2.86,I nodded.
 Nathans_Bylichka_34187_34243,train,3.1,3.0,3.1,“A little walking should get the stuff into your system.
 Nathans_Bylichka_34244_34263,dev,3.2,3.1,3.2,"Come on, let’s go.”"
 Nathans_Bylichka_34276_34320,train,3.0,3.0,3.2,"As we left the bar, I asked to see the rock."
@@ -3883,7 +3771,6 @@ Nathans_Bylichka_38678_38741,train,2.9,3.3,3.0,"Walking outside, I was shocked t
 Nathans_Bylichka_38742_38769,train,2.9,2.9,2.8,"“Night comes quickly here,”"
 Nathans_Bylichka_38742_38816,train,2.88,3.12,2.75,"“Night comes quickly here,” said Nepthys quietly as he came out behind me."
 Nathans_Bylichka_38817_38837,train,2.44,3.33,3.33,“Didn’t I warn you?”
-Nathans_Bylichka_38850_38857,train,3.0,2.78,2.89,"“Okay,”"
 Nathans_Bylichka_38850_38931,dev,3.3,3.1,2.9,"“Okay,” he said as we hit the street, “we’re going to see another friend of mine."
 Nathans_Bylichka_38888_38931,dev,3.1,3.0,3.3,“we’re going to see another friend of mine.
 Nathans_Bylichka_38932_38972,train,3.1,3.1,3.5,"First, though, we are getting you a hat."
@@ -3941,7 +3828,6 @@ Nathans_Bylichka_41805_41902,train,3.3,3.3,3.3,"“Now, how can I help the elega
 Nathans_Bylichka_41903_41945,train,3.3,3.2,3.2,I hope I can start by offering some wine.”
 Nathans_Bylichka_41958_41998,train,3.25,2.87,3.25,Nepthys poured out wine for three of us.
 Nathans_Bylichka_41999_42062,train,3.0,3.1,2.7,"“May I have a little more of what you gave me before, Nepthys?”"
-Nathans_Bylichka_42063_42071,train,3.1,2.8,3.3,I asked.
 Nathans_Bylichka_42072_42102,train,2.3,3.1,2.5,“I still feel a little woozy.”
 Nathans_Bylichka_42103_42175,dev,3.11,2.78,3.0,He poured a dollop of the clear liquid into one cup and passed it to me.
 Nathans_Bylichka_42176_42333,train,3.37,3.13,3.12,"The wine’s rich scent had a touch of something chemical that I recognized from the bar, but it filled my mouth and sank into my veins with reassuring warmth."
@@ -4068,7 +3954,6 @@ Nathans_Bylichka_48507_48540,train,3.0,2.63,3.0,We’ll be in and out in a minut
 Nathans_Bylichka_48541_48605,train,3.1,3.2,3.0,Nepthys stepped in and Dvorov walked us towards the dance floor.
 Nathans_Bylichka_48674_48690,train,3.0,2.88,3.0,Dvorov asked us.
 Nathans_Bylichka_48703_48772,train,3.0,3.0,3.0,"“No, he said that his research was purely academic, not for hunters.”"
-Nathans_Bylichka_48785_48793,train,2.11,3.22,2.78,“Bummer.
 Nathans_Bylichka_48794_48837,train,2.25,2.75,2.5,"I guess I probably should’ve known, though."
 Nathans_Bylichka_48838_48882,train,2.9,3.0,3.2,"I mean, he is kinda tight about that stuff.”"
 Nathans_Bylichka_48883_48913,train,2.4,2.6,2.9,He didn’t look very surprised.
@@ -4103,7 +3988,6 @@ Nathans_Bylichka_51234_51248,dev,2.9,2.7,2.9,It was Dvorov.
 Nathans_Bylichka_51249_51284,train,2.8,3.5,2.7,He pulled my ear down to his mouth.
 Nathans_Bylichka_51285_51308,train,2.7,3.3,3.3,"“You seen enough, man?”"
 Nathans_Bylichka_51309_51320,train,2.4,3.8,3.2,he shouted.
-Nathans_Bylichka_51333_51339,train,3.5,3.3,3.2,"“Yes,”"
 Nathans_Bylichka_51333_51366,train,3.4,3.9,3.2,"“Yes,” I called back, “I saw him!"
 Nathans_Bylichka_51355_51366,train,3.0,3.5,3.25,“I saw him!
 Nathans_Bylichka_51367_51404,train,3.0,3.43,3.29,He’s sitting right there at the bar!”
@@ -4222,7 +4106,6 @@ Nathans_Bylichka_7173_7258,train,2.8,3.2,3.1,"Standing in the center of the chur
 Nathans_Bylichka_7259_7300,train,2.3,2.8,3.0,“I need to file a missing persons report.
 Nathans_Bylichka_7301_7316,train,2.82,2.91,3.18,…Rachel Frieze.
 Nathans_Bylichka_7317_7396,train,3.0,2.86,3.0,"Last night, walking on West 2nd street around – maybe eleven or twelve o’clock."
-Nathans_Bylichka_7397_7402,dev,2.9,3.0,2.9,What?
 Nathans_Bylichka_7403_7443,train,2.7,3.0,3.0,"…But, sir, this is an unusual situation."
 Nathans_Bylichka_7444_7511,test,2.4,3.5,2.7,"She didn’t come home last night, none of her friends have seen her."
 Nathans_Bylichka_750_884,train,3.1,3.2,3.3,"But if you ever should see a faerie, tell him that you are of the blood of Ivan Bogatyrivitch and he will not pass you by so quickly."""
@@ -4268,7 +4151,6 @@ Nathans_Bylichka_9359_9422,train,2.9,3.0,3.0,"We have a lot of work ahead of us,
 Nathans_Bylichka_940_952,train,3.1,3.0,2.9,"""Yes, Nana."""
 Nathans_Bylichka_9435_9491,train,3.0,2.5,3.0,I walked around the car and got into the passenger seat.
 Nathans_Bylichka_9492_9541,train,2.8,2.7,3.0,"Before I had my belt on, we were rolling forward."
-Nathans_Bylichka_9542_9549,train,3.09,2.64,3.0,"“Okay,”"
 Nathans_Bylichka_9542_9557,dev,2.9,2.8,3.1,"“Okay,” I said."
 Nathans_Bylichka_9558_9574,train,3.0,3.1,3.3,“I’m in the car.
 Nathans_Bylichka_9575_9668,dev,2.75,3.25,3.0,"Now, will you tell me how you know my family, and how you happened to be driving by just now?"
@@ -4535,7 +4417,6 @@ SemEval_10,train,3.5,2.88,3.0,Alonso would be happy to retire with three titles
 SemEval_100,train,2.88,3.0,3.0,Report criticises US press freedoms
 SemEval_1000,train,2.0,3.62,2.75,Terror officials see Al Qaeda chiefs regaining power
 SemEval_1001,train,2.8,3.0,3.0,"Ivrea journal: In Italian town, a civics lesson from pelting neighbors"
-SemEval_1002,train,3.1,2.8,2.9,Iraqi sunni lands show new oil and gas promise
 SemEval_1003,train,2.71,2.86,3.29,Princess and heir of Franz Ferdinand fights to repeal a law and gain a castle
 SemEval_1004,train,2.9,2.8,2.9,"A film star in Kampala, conjuring aminos ghost"
 SemEval_1005,train,2.4,3.1,2.8,Militants attack U.S. base in Iraq
@@ -4549,7 +4430,6 @@ SemEval_1011,train,2.25,3.25,3.38,Chvez threatens to jail violators of price con
 SemEval_1012,train,2.8,2.8,2.8,Bush declares Iran's arms role in Iraq is certain
 SemEval_1013,train,3.0,2.9,3.0,Accord on North Korea is announced
 SemEval_1015,train,3.7,3.3,3.4,"Baghdad plan is a success, Iraq prime minister tells Bush"
-SemEval_1016,train,3.4,2.9,3.4,Iraqi sunni lands show new oil and gas promise
 SemEval_1017,test,2.67,3.33,3.22,"Dispute over Iraqi cleric, said to have gone to Iran"
 SemEval_1018,test,2.9,3.1,3.1,Planning seen in Iraqi attacks on U.S. copters
 SemEval_1019,train,2.5,3.1,2.5,"In the world of life-saving drugs, a growing epidemic of deadly fakes"
@@ -4604,7 +4484,6 @@ SemEval_1066,train,2.88,2.75,2.88,Iran vs. North Korea: not all enemies are equa
 SemEval_1067,train,3.2,2.9,3.0,Catholic archbishop outlines Anglican merger hopes
 SemEval_1068,train,2.9,3.0,2.9,Anglican and Catholic churches could merge
 SemEval_1069,train,1.7,3.4,2.7,US helicopter crash kills 8 troops in Afghanistan
-SemEval_107,train,3.63,3.5,3.12,Three found alive from missing Russian ship -report
 SemEval_1070,train,2.0,3.14,2.86,Eight US soldiers killed in Zabul helicopter crash
 SemEval_1071,train,3.4,3.0,3.2,Arroyo lauds passage of anti-terror bill
 SemEval_1072,train,3.0,2.9,2.9,House passes anti-terrorism measure Manila
@@ -4615,7 +4494,6 @@ SemEval_1076,train,2.1,3.2,3.0,"Thailand attacks kill three, injure 70"
 SemEval_1077,train,3.4,3.1,3.3,Thai Govt moves to smooth over relations with south
 SemEval_1078,train,2.2,3.3,2.9,Bombings say Muslim rebels won't negotiate
 SemEval_1079,train,2.9,2.8,2.8,Roots of autism more complex than thought
-SemEval_108,train,3.12,2.88,3.25,Moderate drinking reduces men's heart attack risk
 SemEval_1080,train,3.0,3.0,3.38,Largest ever autism study identifies two genetic culprits
 SemEval_1081,test,3.88,3.5,3.25,Canadian breakthrough offers hope on autism
 SemEval_1082,train,2.8,3.3,3.0,Beware of peanut butter pathogens
@@ -4626,7 +4504,6 @@ SemEval_1086,dev,2.3,2.8,2.8,High cholesterol raises stroke risk healthy women
 SemEval_1087,train,2.8,3.1,2.9,Cooked chicken breasts join tainted-food recalls
 SemEval_1088,dev,3.1,3.0,2.8,Ready to eat chicken breasts recalled due to suspected listeria
 SemEval_1089,train,2.89,3.11,3.11,Fully-cooked chicken strips recalled
-SemEval_109,train,3.4,3.4,3.2,The sweet tune of an anniversary
 SemEval_1090,train,3.0,3.0,2.9,Committee debates cancer vaccine plan
 SemEval_1091,test,3.22,3.33,3.22,Stop cancer with a shot
 SemEval_1092,train,2.88,3.12,3.12,1 mln birds to be vaccinated from bird flu near Moscow
@@ -4762,22 +4639,18 @@ SemEval_1216,dev,2.1,3.1,2.5,"Snow wreaks havoc in East, Midwest"
 SemEval_1217,train,3.0,3.0,3.0,The secrets people reveal
 SemEval_1218,test,3.0,3.0,2.89,Research supports medicinal marijuana
 SemEval_1219,train,3.29,3.29,3.29,All African amputee football games kick off
-SemEval_122,train,3.43,3.43,3.0,Tom Cruise and Katie Holmes set wedding date
 SemEval_1220,train,2.5,3.3,2.7,Group: Video shows chopper go down
 SemEval_1221,dev,2.88,2.88,3.0,Sale of Chrysler possible
 SemEval_1222,train,2.5,3.12,3.12,Russia condemns terrorist acts on buses outside Beirut
 SemEval_1223,train,3.7,3.2,3.3,Technology may save India's river dolphins
 SemEval_1224,dev,3.1,3.2,3.1,Airbus A380 superjumbo takes off
 SemEval_1225,train,3.3,2.8,2.9,Naps are great for chaps
-SemEval_1226,train,3.5,3.25,3.62,Female astronaut sets record
 SemEval_1227,train,3.0,3.0,3.0,Corn stoves popping up in U.S. homes
 SemEval_1228,test,2.75,2.75,3.13,Iraq closes borders with Syria and Iran
 SemEval_1229,train,2.5,3.38,2.75,The troubling ending of 'The Departed'
-SemEval_123,train,3.1,3.0,3.1,Martian Life Could Have Evaded Detection by Viking Landers
 SemEval_1232,train,2.9,2.8,3.1,Obama will run in 2008
 SemEval_1233,train,3.8,3.3,3.2,'Cagney and Lacey' finally coming to DVD
 SemEval_1235,train,2.29,2.71,3.0,Salt Lake City mall shooter was teenager
-SemEval_1236,train,3.5,3.5,3.5,Female astronaut sets record
 SemEval_1238,train,3.1,3.1,3.1,Obama announces presidential bid
 SemEval_1239,dev,3.3,3.0,3.3,Tell your boss: Naps are good for you
 SemEval_124,dev,2.38,3.0,3.12,Ukraine gas deal marred by fears
@@ -4910,7 +4783,6 @@ SemEval_1356,train,3.0,3.1,3.1,Rwanda mulls three-child limit
 SemEval_1357,train,2.8,2.9,2.7,Samsung settles price-fixing lawsuit
 SemEval_1358,test,3.0,2.7,3.2,"Radical cleric al-Sadr in Iran, U.S. insists"
 SemEval_1359,test,3.38,3.25,3.0,Reports: Harvard set to name first female president
-SemEval_136,train,2.78,3.11,3.11,"New Indonesia Calamity, a Mud Bath, Is Man-Made"
 SemEval_1360,train,2.9,3.0,3.1,Iraq unveils new security plans
 SemEval_1361,train,3.1,3.0,3.2,University offers support to New Orleans school
 SemEval_1362,train,2.5,2.9,2.9,"Storm causes slick, icy roads"
@@ -4986,7 +4858,6 @@ SemEval_1428,train,3.0,2.8,2.8,Tiempo Libre has Grammy dreams
 SemEval_1429,dev,3.1,3.2,3.0,GPS sneakers locate with press of a button
 SemEval_143,train,2.7,2.9,3.1,Anti-U.S. Attack Videos Spread on the Internet
 SemEval_1431,test,2.57,3.14,3.43,Britons deported from Somalia held under Terrorism Act
-SemEval_1432,train,3.0,3.0,2.88,Updates on world's top stories
 SemEval_1433,train,3.7,3.6,3.2,Breast cancer drug promises hope
 SemEval_1434,train,2.7,2.7,3.0,Ancient coin shows Cleopatra was no beauty
 SemEval_1435,test,3.2,3.1,2.9,YouTube yields surprising payback
@@ -5063,7 +4934,6 @@ SemEval_153,train,2.75,2.88,3.12,Paris Journal: Smoking No Longer Tres Chic in F
 SemEval_154,train,2.9,3.0,2.9,An Old Letter Casts Doubts on Iran's Goal for Uranium
 SemEval_156,train,2.0,3.33,3.0,Global Sludge Ends in Tragedy for Ivory Coast
 SemEval_158,train,2.3,2.8,2.8,Equipment on Plane in Brazil Collision May Have Been Faulty
-SemEval_159,train,2.9,2.8,2.8,"New Indonesia Calamity, a Mud Bath, Is Man-Made"
 SemEval_16,train,2.6,2.7,2.9,Bad reasons to be good
 SemEval_160,train,2.3,3.1,3.0,Iraqi Journalists Add Laws to List of Dangers
 SemEval_161,train,2.9,3.1,3.0,U.N. Force Is Treading Lightly on Lebanese Soil
@@ -5107,7 +4977,6 @@ SemEval_197,train,2.9,3.1,3.0,Judge dismisses Karr's porn case
 SemEval_198,train,1.9,3.2,2.8,10 die in 22-hour Kashmir standoff
 SemEval_199,train,2.4,2.9,2.8,Slain Amish girls laid to rest
 SemEval_2,dev,3.7,2.9,3.1,Goal delight for Sheva
-SemEval_20,train,3.2,3.1,3.1,Moderate drinking reduces men's heart attack risk
 SemEval_200,train,2.43,3.0,2.86,"5,000 flee plant fire"
 SemEval_201,train,3.0,3.1,3.0,Cher auction fetches double pre-sale estimates
 SemEval_202,dev,2.9,3.0,3.1,Stars scuffle on 'Grey's Anatomy'
@@ -5117,7 +4986,6 @@ SemEval_206,train,2.67,2.67,2.67,Reid land deal under scrutiny
 SemEval_207,train,2.57,2.86,2.71,"Flooding washes out road to Valdez, Alaska"
 SemEval_208,train,2.6,3.0,3.1,Briton admits U.S. bomb plot role
 SemEval_209,train,2.78,3.44,3.11,Commentary: Minutemen have a right to be idiotic
-SemEval_21,train,3.5,3.1,2.9,Tom Cruise and Katie Holmes set wedding date
 SemEval_210,train,3.4,3.5,3.2,Madonna files adoption papers
 SemEval_211,train,2.56,3.22,3.0,Gunmen kill 9 at Iraqi TV station
 SemEval_212,train,2.7,3.1,3.3,Hastert sorry for scandal but not quitting
@@ -5164,7 +5032,6 @@ SemEval_250,train,3.0,3.0,3.1,Pamuk wins Nobel Literature prize
 SemEval_251,train,3.1,3.0,3.2,Madonna adoption bid approved
 SemEval_252,train,2.6,3.2,3.0,Man admits UK-US terror bomb plot
 SemEval_253,train,2.22,3.44,3.44,Who are you calling fat?
-SemEval_26,dev,3.86,3.57,3.29,Three found alive from missing Russian ship -report
 SemEval_27,train,2.4,3.1,2.7,Poison Pill to Swallow: Hawks Hurting After Loss to Vikes
 SemEval_28,train,3.0,3.14,3.0,Injured Marathon Winner Leaves Hospital
 SemEval_29,train,2.5,3.4,2.7,Hacker unlocks Apple music download protection
@@ -5173,8 +5040,6 @@ SemEval_30,train,2.5,3.0,3.17,Spanish journalist seized in Gaza
 SemEval_31,train,2.9,3.1,3.2,Sudan urges UN to replace its special envoy
 SemEval_32,train,3.3,3.2,3.2,Resolution approved for international games
 SemEval_33,test,3.22,3.22,3.11,Pair of Satellites Will Document Sun in 3-D
-SemEval_34,train,3.0,2.73,3.18,Martian Life Could Have Evaded Detection by Viking Landers
-SemEval_35,train,3.7,3.3,2.9,The sweet tune of an anniversary
 SemEval_36,train,3.0,2.8,2.8,Did Viking Probes Miss Life on Mars?
 SemEval_37,test,2.7,3.2,2.9,Diplomat acknowledges US arrogance in Iraq
 SemEval_38,test,2.33,3.0,2.78,More Human Remains Found at Ground Zero
@@ -5187,7 +5052,6 @@ SemEval_43,train,3.0,2.9,3.0,A Picture and A Thousand Words
 SemEval_44,train,2.36,2.91,2.82,Parachutist dies at bridge-jump festival
 SemEval_45,train,2.1,3.1,2.7,US Troops Killed In October In Iraq
 SemEval_46,train,3.0,2.8,3.0,"Chefs not counting calories, study finds"
-SemEval_47,train,2.2,3.3,2.9,Deaths linked to flu vaccine
 SemEval_48,train,2.8,3.2,2.7,Perfect lives lose their focus
 SemEval_49,train,2.6,2.9,2.7,Bread-Heavy Diet Linked to Kidney Cancer
 SemEval_5,train,3.22,3.44,3.44,"Vegetables, not fruit, slow brain decline"
@@ -5212,19 +5076,15 @@ SemEval_515,dev,3.4,3.0,3.1,Dance movie takes over No. 1
 SemEval_516,train,3.0,3.0,3.18,Asian nations urge Myanmar reform
 SemEval_517,train,3.2,3.1,3.2,"After Iraq trip, Clinton proposes war limits"
 SemEval_518,train,2.2,3.1,2.9,7 dead in apartment building fire
-SemEval_519,train,3.3,3.6,3.3,Male sweat boosts women's hormone levels
 SemEval_52,test,2.7,3.2,3.2,Britain to restrict immigrants from new EU members
 SemEval_520,train,2.75,2.38,2.88,Carphone Warehouse's mixed signals
 SemEval_521,train,2.9,2.8,3.0,Democrats plot Bush troop increase censure
-SemEval_522,test,2.44,2.89,3.33,Cisco sues Apple over iPhone name
 SemEval_523,train,2.9,2.8,2.9,BB star Jackson denies Goody comments
 SemEval_524,train,3.3,3.0,3.2,Inter Milan set Serie A win record
-SemEval_525,train,3.1,3.1,3.2,US Airways boosts bid for Delta
 SemEval_526,train,3.5,3.2,3.3,Press sees hope in Mecca talks
 SemEval_527,train,2.7,3.0,2.8,Bears fan loses bet and changes name
 SemEval_528,dev,2.5,3.17,3.33,Global National Major child porn ring bust
 SemEval_529,train,2.9,2.8,2.8,'Human hair' clue in hunt for airliner
-SemEval_53,train,2.9,3.0,2.9,Confusion Reigns In the Expanding Digital World
 SemEval_530,train,3.09,2.82,3.0,Johnny Depp to make movie of spy poisoning
 SemEval_531,train,2.6,3.3,3.0,Really?: The claim: the pill can make you put on weight
 SemEval_532,train,3.3,3.0,3.0,5 money makeovers
@@ -5276,7 +5136,6 @@ SemEval_575,train,3.2,3.0,2.9,'Sunshine' Goydos wins Sony open
 SemEval_576,train,2.0,3.2,2.7,Teacher charged with sex assault
 SemEval_577,train,3.1,3.0,3.1,Merck: Gardasil may fight more strains
 SemEval_578,train,2.5,3.25,2.62,"Mountain glaciers melting faster, United Nations says"
-SemEval_579,train,2.5,2.7,2.7,Snow causes airport closures in Britain
 SemEval_58,test,3.22,3.44,3.11,Amateur rocket scientists reach for space
 SemEval_580,train,3.4,3.0,3.1,Bananaconda inventor is top poet of kids
 SemEval_581,dev,2.5,3.3,3.1,Shareholders sue Apple
@@ -5288,7 +5147,6 @@ SemEval_586,train,3.1,2.7,2.8,Visitors to Eiffel Tower climb to record in 2006
 SemEval_587,train,3.6,3.2,3.2,"More sleep, healthier slimmer children"
 SemEval_588,train,3.0,3.2,2.9,Queen battles Bond for Baftas
 SemEval_589,train,2.25,3.25,3.25,"Walters on Trump: 'Poor, pathetic man'"
-SemEval_59,train,2.6,2.9,3.0,Confusion Reigns In the Expanding Digital World
 SemEval_590,train,3.0,3.0,2.8,"Ice storm smacks roads, power"
 SemEval_591,train,2.5,3.25,3.0,Iran says it will strike US interests if Attacked
 SemEval_592,train,3.1,3.1,3.1,Palestinian factions to resume talks
@@ -5297,9 +5155,7 @@ SemEval_595,test,2.5,3.17,2.83,Russia plans major military build-up
 SemEval_596,train,2.6,3.1,2.9,Archaeologists find remains of couple locked in a hug
 SemEval_597,train,3.12,3.12,3.12,Stenson defends his title at Dubai
 SemEval_598,test,3.0,2.78,2.89,Taking the plunge
-SemEval_599,train,3.0,3.1,2.7,Updates on world's top stories
 SemEval_6,train,3.3,2.8,3.1,PM: Havana deal a good experiment
-SemEval_60,test,2.1,2.9,2.6,Deaths linked to flu vaccine
 SemEval_600,train,2.88,2.88,3.38,Man rides stationary bike for 85 hours
 SemEval_601,train,2.5,3.0,2.9,Ice storm coating Midwest
 SemEval_602,train,2.89,2.89,2.89,A Mistrial for Lieut. Watada
@@ -5326,7 +5182,6 @@ SemEval_622,train,2.71,3.0,2.57,Sleuths close in on Odysseus home
 SemEval_623,dev,3.0,2.7,3.2,Variety: Johnny Depp to make movie of spy poisoning
 SemEval_624,test,2.25,3.62,2.5,Ice storm cripples central U.S.
 SemEval_625,train,3.0,2.75,3.0,Park stars as United maintain lead
-SemEval_626,train,3.44,3.33,3.11,Prehistoric Romeo and Juliet discovered
 SemEval_627,train,3.2,3.1,3.1,India's famous landmark gets facelift
 SemEval_628,train,3.0,2.5,2.88,Joseph Wambaugh's new start
 SemEval_629,train,1.8,3.1,2.4,Participant in water-drinking contest dies
@@ -5371,7 +5226,6 @@ SemEval_665,train,3.0,3.0,3.0,YouTube told to drop celeb sex video
 SemEval_666,dev,3.0,2.6,2.9,Beckham and Posh and more athlete-celebrity couples
 SemEval_667,train,3.4,2.8,3.0,City sets up ice storm shelters
 SemEval_669,test,2.5,2.8,3.1,Review: 'Alpha Dog' misses the point
-SemEval_67,dev,3.4,3.0,3.3,Vegetables May Boost Brain Power in Older Adults
 SemEval_670,train,2.62,3.37,3.25,Republicans plan to block Iraq debate
 SemEval_671,train,3.0,2.75,3.0,Mixed reaction to China's Africa push
 SemEval_672,dev,3.0,2.7,2.8,Snowed in the Canadian Rockies
@@ -5393,13 +5247,11 @@ SemEval_686,train,2.71,2.86,3.0,'Alpha Dog' misses the point
 SemEval_688,test,3.1,2.8,3.1,"'Grey's,' 'Pirates' lead People's Choice"
 SemEval_69,train,2.5,3.3,3.3,"Russian ship sinks, 18-member crew missing"
 SemEval_690,train,2.18,3.46,2.82,Now it's official: Iraq's a mess
-SemEval_691,train,2.33,3.17,2.83,Snow brings travel misery to England
 SemEval_692,train,1.88,2.88,2.5,James Brown's 5-year-old son left out of will
 SemEval_693,train,2.1,3.1,2.9,Two men killed by London tube train
 SemEval_694,train,2.8,3.0,3.0,US millions fail to buy influence in deadly Gaza power play
 SemEval_695,train,3.0,2.88,3.0,PLO ministers agreed upon in Mecca
 SemEval_696,train,2.43,3.0,3.0,Squadron apologies over 'friendly-fire' death
-SemEval_698,train,3.0,3.1,3.0,Friendly fire pilot 'experienced'
 SemEval_699,test,3.0,2.86,2.86,SPACE.com: Black hole triplets spotted
 SemEval_7,test,3.44,3.22,3.22,Kate is marrying Doherty
 SemEval_70,train,2.9,3.2,3.1,Iran's president urges higher birth rate
@@ -5427,7 +5279,6 @@ SemEval_719,train,2.2,3.2,3.2,Italy to try US soldier for agent's Iraq death
 SemEval_72,train,2.7,3.1,3.0,Tumor Types May Explain Survival Rates for Cancer
 SemEval_720,train,3.0,3.0,3.12,Depp to star in spy poisoning film
 SemEval_721,dev,3.0,2.88,2.88,'24's' Jack Bauer returns
-SemEval_722,test,3.29,2.43,3.0,US Airways boosts bid for Delta
 SemEval_723,train,2.75,2.5,3.37,"Even before its release, world climate report is criticized as too optimistic"
 SemEval_724,train,2.63,3.25,2.62,"Second hanging also went awry, Iraq tape shows"
 SemEval_725,train,3.14,3.28,3.14,Howell takes one shot lead in Sony Open
@@ -5527,9 +5378,7 @@ SemEval_811,train,2.22,3.33,3.11,"Sri Lanka floods displace 60,000"
 SemEval_812,train,2.67,2.89,3.0,"Justin Timberlake, Cameron Diaz announce split"
 SemEval_813,test,2.4,3.4,2.9,Iran to hit US interests if attacked
 SemEval_814,train,3.0,2.9,3.0,Israel says hopes to keep Lebanon border calm
-SemEval_815,dev,2.4,3.3,3.3,Cisco sues Apple over iPhone name
 SemEval_816,train,2.1,3.1,2.9,Two Palestinians killed near fence
-SemEval_817,train,2.3,3.0,2.9,EarthLink CEO dies at age 49
 SemEval_818,train,2.11,3.0,3.11,"A star dies, a family feud is born"
 SemEval_819,train,2.25,3.25,3.37,"Carter was a disaster, said Ford"
 SemEval_82,train,3.0,3.4,3.2,Breast Cancer Awareness is Important
@@ -5539,7 +5388,6 @@ SemEval_822,train,3.0,3.1,3.0,Israel's Peretz urges halt to contentious Jerusale
 SemEval_823,train,2.33,3.0,3.22,Peter Jackson will never work for me again
 SemEval_824,dev,3.2,3.0,3.2,U.S. keeps Iran options open
 SemEval_825,train,3.3,3.1,3.1,European shares hit fresh highs
-SemEval_826,train,3.2,3.1,3.0,"For women, nothing's like the smell of men's sweat"
 SemEval_827,train,3.0,2.86,3.0,Looking beyond the iPhone
 SemEval_828,train,2.56,3.22,2.89,Freed kidnap suspect: my terror at police raid
 SemEval_829,train,3.1,3.1,2.9,"Far away, Super Bowl's losers will be champs"
@@ -5561,7 +5409,6 @@ SemEval_843,train,2.75,3.12,3.0,Iraqis fault delayed U.S. plan in attack
 SemEval_844,test,2.2,3.5,3.2,Boy Scouts blamed for starting wildfire
 SemEval_845,train,2.8,3.1,3.3,China urges UN action on N Korea
 SemEval_846,train,2.12,3.12,3.12,"Scorpion on a plane, a pantful of pain"
-SemEval_847,train,3.1,3.2,3.1,Male sweat boosts women's hormone levels
 SemEval_848,train,3.22,3.0,3.22,Mbeki on the big visit from the Chinese
 SemEval_849,dev,3.0,2.9,3.1,French right nominates Sarkozy
 SemEval_85,train,2.55,3.09,3.18,Celebrities Protest Malibu Gas Facility
@@ -5602,14 +5449,12 @@ SemEval_882,dev,1.88,3.37,2.38,"Attack video saddens ""friendly fire"" widow"
 SemEval_883,train,3.5,3.4,3.3,Europe retain trophy with big win
 SemEval_884,train,3.0,2.64,2.82,Cutting edge accessories for digital music players
 SemEval_885,test,2.3,3.1,2.7,Ice storm descends on central U.S.
-SemEval_886,train,2.3,3.3,2.7,Snow brings travel misery to England
 SemEval_887,train,2.4,3.1,3.0,"Indonesia flood forces 340,000 from homes"
 SemEval_888,train,2.8,3.2,2.9,Iraqi health minister seized in raid
 SemEval_889,train,2.2,2.9,3.1,Ice storm brings chaos in U.S.
 SemEval_89,test,2.4,3.3,2.7,Russian ship sinks in Pacific
 SemEval_890,dev,2.9,3.3,3.2,Stinky flower mystery solved
 SemEval_892,train,3.2,3.2,3.2,Roddick overcomes Federer in final
-SemEval_893,train,3.14,3.29,3.0,Prehistoric Romeo and Juliet discovered
 SemEval_894,train,3.22,2.89,3.0,Donald and Goydos share Sony lead
 SemEval_895,train,2.43,3.29,2.86,U.S. and Iraqis are wrangling over war plans
 SemEval_896,test,2.7,2.9,2.9,Sea search for missing Microsoft scientist
@@ -5633,7 +5478,6 @@ SemEval_911,train,3.0,3.1,3.1,Bangladesh ends curfew amid unrest
 SemEval_912,train,2.8,3.2,3.0,Italy's dispute with US over Iraq shooting
 SemEval_913,train,3.5,3.8,3.2,Here come the Globes!
 SemEval_914,train,2.5,3.1,3.1,Snow causes transport chaos in Britain
-SemEval_915,train,2.1,3.2,2.6,Snow causes airport closures in Britain
 SemEval_916,test,3.0,2.8,2.9,"Second opinion: girl or boy? as fertility technology advances, so does an ethical debate"
 SemEval_917,train,2.25,3.12,2.88,Heavy snow causes travel chaos and shuts schools
 SemEval_918,train,3.22,3.22,3.0,Barbaro's legacy: saving other horses
@@ -5655,14 +5499,12 @@ SemEval_931,train,3.1,3.1,3.1,TV game shows go interactive
 SemEval_932,train,4.0,3.7,3.3,Boy missing since 2002 found alive
 SemEval_933,test,3.14,3.14,3.14,"US, North Korea signed nuclear memo"
 SemEval_934,train,3.1,2.9,3.0,Russia honors Sputnik designer
-SemEval_937,train,2.66,3.0,3.0,Friendly fire pilot 'experienced'
 SemEval_938,test,3.5,3.12,3.0,MySpace welcomes French friends
 SemEval_939,train,2.88,2.88,2.5,Airlines: UK airport runway unsafe
 SemEval_94,train,2.25,3.13,2.63,Riot warning for France suburbs
 SemEval_940,test,2.2,3.3,3.0,The amounts you have to pay for a bomb scare
 SemEval_941,test,3.0,2.5,2.87,"In Egypt, Rice speaks softly"
 SemEval_943,train,2.7,3.1,3.0,Senate votes to revoke pensions
-SemEval_944,train,2.62,3.0,3.0,EarthLink CEO dies at age 49
 SemEval_945,train,2.5,2.9,2.9,Software giant SAP misses target
 SemEval_946,train,3.1,2.9,3.0,Vital signs: mental abilities: folic acid may improve thinking skills
 SemEval_947,train,3.1,3.0,3.0,De Villiers stretches overall lead
@@ -5670,7 +5512,6 @@ SemEval_948,train,3.57,3.43,2.86,Families celebrate return of sons
 SemEval_949,train,2.3,3.2,3.2,China detains 2 after body parts found in mail
 SemEval_95,train,3.9,3.3,3.1,Full recovery expected for marathon winner
 SemEval_950,train,3.0,3.14,3.0,North Korea ready to discuss nuke disarmament
-SemEval_951,train,2.8,3.3,3.1,"For women, nothing's like the smell of men's sweat"
 SemEval_952,train,2.9,3.0,3.5,Nadal wants Australian Open crown
 SemEval_953,train,3.2,3.1,3.3,Beijing journal: Olympic construction unearths ancient treasure trove
 SemEval_954,train,3.2,2.8,2.9,"Chinese president arrives in Mozambique, African tour nearly over"
@@ -5711,7 +5552,6 @@ SemEval_985,train,2.8,2.8,2.8,Microsoft downplays Vista speech-recognition hack
 SemEval_986,dev,3.27,2.91,3.09,Next island hot spot: St. Lucia
 SemEval_987,train,2.8,2.6,3.2,Italy to hold no-show trial of Bronx GI in Iraq slay
 SemEval_988,train,3.6,3.6,3.0,Rescued boys parents hail 'miracle'
-SemEval_99,train,3.3,3.1,3.2,Vegetables May Boost Brain Power in Older Adults
 SemEval_990,train,2.6,2.9,2.7,Teen hacks Venezuelan government Web sites
 SemEval_991,train,2.6,3.1,2.8,"Russia plans new ICBMs, nuclear subs"
 SemEval_992,train,3.4,3.2,3.2,Gere cheers sex workers in AIDS fight
@@ -5800,7 +5640,6 @@ The_Black_Willow_160_227,train,3.0,2.9,3.0,"Opening a side drawer, he took out a
 The_Black_Willow_16169_16204,train,2.63,3.12,2.88,Allan leaned forward unconsciously.
 The_Black_Willow_1617_1636,train,3.0,2.9,2.8,"""What about Roger?"""
 The_Black_Willow_16272_16365,train,3.3,2.7,2.9,"Allan exhaled and leaned back into the chair, his face relaxing in imitation of his thoughts."
-The_Black_Willow_16366_16371,train,2.9,2.9,3.0,"""So,"""
 The_Black_Willow_16366_16489,train,2.8,2.8,3.5,"""So,"" he asked, ""you don't think it's a waste of ink and paper, a futile expedition into morbidity or literary debauchery?"""
 The_Black_Willow_1637_1691,train,2.8,2.8,2.7,"she asked, knowing that the answer no longer mattered."
 The_Black_Willow_16382_16489,test,2.4,3.3,3.2,"""you don't think it's a waste of ink and paper, a futile expedition into morbidity or literary debauchery?"""
@@ -5999,7 +5838,6 @@ Tupelo-Honey-Cafe_3361_3451,train,3.1,3.2,3.4,"But wow, it sure improved once I 
 Tupelo-Honey-Cafe_3453_3485,train,3.1,3.0,3.3,"Which, it just so happens, I am."
 Tupelo-Honey-Cafe_3486_3532,dev,3.2,3.0,3.3,"But even if you're not, try this out sometime."
 Tupelo-Honey-Cafe_3533_3694,train,3.14,3.14,3.29,"I can't guarantee it'll work, but I personally will do it againand probably back it up with a stellar review, just like the one I've given the Tupelo Honey Cafe."
-Tupelo-Honey-Cafe_3696_3711,train,4.0,3.57,3.29,Everybody wins.
 Tupelo-Honey-Cafe_3713_3729,train,2.8,3.6,3.4,"Okay, that's it!"
 Tupelo-Honey-Cafe_3730_3795,train,3.12,2.75,3.38,"I could talk about Asheville for weeks, but it's time to move on."
 Tupelo-Honey-Cafe_3796_3853,test,3.2,3.0,3.0,"Next stop: sunny Tennessee, where I get down on The Farm."
@@ -6854,7 +6692,6 @@ alumnifund1_2247_2282,train,3.09,3.0,3.09,GRADUATE SCHOOL OF ARTS AND SCIENCE
 alumnifund1_262_271,dev,3.0,3.0,3.0,Fall 2000
 alumnifund1_349_436,train,3.0,3.0,3.1,"Ms. FirstName LastName NumberStreetName Statename, StateZipCode"
 alumnifund1_34_158,train,3.1,2.6,3.1,NEW YORK UNIVERSITY GRADUATE SCHOOL OF ARTS AND SCIENCE OFFICE OF THE DEAN
-alumnifund1_462_479,test,3.12,3.0,3.0,Dear Ms. LastName
 alumnifund1_505_657,train,3.6,3.3,3.1,"Over the past year, the Graduate School of Arts and Science has seen record level contributions from its alumni and alumnae to the School’s Annual Fund."
 alumnifund1_658_747,train,3.6,3.3,3.0,"This response is a marvelous endorsement of the work of our students, faculty, and staff."
 alumnifund1_773_1021,train,3.4,3.1,3.3,"As you read the enclosed Dean 's Report and Request, I hope you will consider how your support of the Graduate School’s Annual Fund shapes the lives of its faculty and students as it makes an impact on the depth and breadth of their NYU experience."
@@ -6903,7 +6740,6 @@ anth_essay_4_18387_18702,dev,2.9,3.1,3.2,"In Guatemala, they are largely compris
 anth_essay_4_18703_19228,train,3.0,3.0,2.9,"In Colombia, legal successes have often come about due to the Colombian government's recognition of the political viability of the rhetoric of indigenous rights; by granting indigenous peoples judicial sovereignty they hope to win the trust of a people who view the government as incapable of protecting them from the ongoing civil strife, and by giving them blocks of land they hope that the indigenous community will be able to keep out drug traffickers and guerrillas where the government itself has not (Jackson 1995: 8)."
 anth_essay_4_19229_19434,train,3.0,2.88,3.38,"Regardless of the ulterior motives behind their legal status, indigenous peoples in Colombia now possess the rights to teach and govern in their own languages according to their own laws (Jackson 1995: 5)."
 anth_essay_4_19435_19597,train,2.8,3.0,3.1,Conflicts arise due to internal differences and the ever-persist problem of defining indigenous identity and authenticity in a pluralistic linguistic environment.
-anth_essay_4_19610_19621,train,2.9,2.9,2.9,Works Cited
 anth_essay_4_1977_2072,train,2.86,2.86,3.14,The effects of Spanish colonialism are both far-reaching and deeply embedded in both countries.
 anth_essay_4_2073_2323,train,2.9,2.7,2.8,"One of the most prominent, lasting influences is that of the land grant system. Initially the Spanish government attempted to instate the encomienda system, in which a conquistador maintained direct control over the indigenous peoples and their land."
 anth_essay_4_2324_2540,train,2.9,3.2,3.0,"This was in turn replaced by the repartimento; the natives were allowed to maintain control over their land and their laws but remained in every way the inferior of the Spanish, providing labor and taxes as demanded."
@@ -7085,7 +6921,6 @@ aspca1_4414_4559,train,3.6,3.4,3.4,Please accept the enclosed name stickers as o
 aspca1_449_483,train,2.3,3.2,2.8,Astro had only a few days to live.
 aspca1_4598_4735,train,3.0,2.62,3.0,"A financial report is available from the Office of the Attorney General by writing the Charities Bureau, 120 Broadway New York, NY 10271."
 aspca1_4774_4778,train,3.0,2.8,3.0,2/00
-aspca1_522_534,dev,3.5,2.88,3.0,Dear Friend:
 aspca1_560_697,train,2.2,3.2,2.7,"As you read my letter, somewhere -- perhaps not far from you --someone is inflicting pain on an innocent animal ... an animal like Astro."
 aspca1_723_776,train,2.78,3.0,2.67,You may not be able to rescue that particular animal.
 aspca1_777_893,train,3.4,3.6,3.6,"But you CAN join the crusade to stop animal abuse and neglect, by making a generous contribution to the ASPCA today."
@@ -7173,7 +7008,6 @@ audubon1_7168_7287,train,2.7,3.8,3.0,"First,sign and return your Petition to the
 audubon1_7282_7287,train,2.0,3.89,3.11,“NO!”
 audubon1_7288_7322,train,2.5,3.1,3.0,to the USDA’s bird poisoning plan.
 audubon1_7348_7491,train,3.2,3.1,3.2,"And I also hope you’ll take a second important step today, by supporting Audubon’s vital conservation work with a generous tax-deductible gift."
-audubon1_7492_7502,train,3.63,3.0,3.0,Thank you.
 audubon1_7528_7545,train,3.5,3.2,3.0,"Very truly yours,"
 audubon1_7584_7618,train,3.0,3.0,3.0,John Flicker President
 audubon1_7644_7750,train,3.66,3.33,3.22,"P.S.Your gift will help us save birds, other wildlife and their habitat for future generations to cherish."
@@ -7230,7 +7064,6 @@ blog-monastery_1622_1720,train,3.0,2.64,2.91,"You believe the other medicine may
 blog-monastery_1722_1858,test,2.9,2.8,2.9,We discussed the foundations: the Three Turnings of the Wheel of Dharma; the four noble truths; karma; defilements; the six perfections.
 blog-monastery_1859_2159,train,2.92,3.0,2.83,"When we talked about the giving, and how one should try to give what one could to other sentient beings (in the form of material items, kind words, protection, and so on), Khenpo Kalsang shared a story of the Buddha, and how the Buddha had given his flesh so that a family of hungry tigers could eat."
 blog-monastery_194_229,train,3.2,2.9,3.0,The gentle wind makes them flutter.
-blog-monastery_2160_2165,train,3.0,2.7,3.0,"""So,"""
 blog-monastery_2160_2249,train,2.9,3.1,3.0,"""So,"" a fellow student asked, ""Giving one's life for another being is the ultimate gift?"""
 blog-monastery_2190_2249,train,3.0,3.0,2.8,"""Giving one's life for another being is the ultimate gift?"""
 blog-monastery_2251_2297,test,3.3,3.0,3.1,"Khenpo Kalsang, he smiled, and shook his head."
@@ -7330,7 +7163,6 @@ blog-new-year's-resolutions_5175_5321,train,2.7,2.9,3.1,"If participants believe
 blog-new-year's-resolutions_5322_5535,dev,3.09,2.64,3.18,"But if participants believed in unlimited self-control, self-efficacy had no effect; participants achieved just as many goals regardless, and people who set more resolutions were marginally more likely to succeed."
 blog-new-year's-resolutions_5537_5788,dev,3.0,3.0,3.1,"Mukhopadhyay & Venkatarmani realize that their research does not directly look at the relationship between lay theories of self-control and beliefs about one's own amount of self-control and self-efficacy, and propose this as an area for future study."
 blog-new-year's-resolutions_5789_5999,train,3.1,3.3,3.1,"But in general, lay theories about self-control can determine how much success you'll expect (and thus, how many goals you'll set), and self-efficacy beliefs can determine how much success you'll actually have."
-blog-new-year's-resolutions_6001_6011,train,3.0,2.6,3.0,References
 blog-new-year's-resolutions_6022_6060,train,3.0,3.0,3.0,"Mukhopadhyay, A. & Johar, G.V. (2005)."
 blog-new-year's-resolutions_6061_6099,train,3.1,3.1,3.1,"Where There Is a Will, Is There a Way?"
 blog-new-year's-resolutions_6100_6175,train,3.0,2.6,3.1,Effects of Lay Theories of Self-Control on Setting and Keeping Resolutions.
@@ -7341,7 +7173,6 @@ blog-new-year's-resolutions_949_1071,train,3.0,2.8,2.8,"They performed a few stu
 cable_spool_fort_1083_1151,train,3.0,3.2,2.9,"Several boards were missing, making a door to the small room inside."
 cable_spool_fort_1152_1211,train,3.1,3.0,3.1,The tall tumbleweed flag marked it as Chad's to defend now.
 cable_spool_fort_115_137,train,2.1,3.8,3.3,"""You suck."" Chad said."
-cable_spool_fort_116_125,train,1.6,3.9,3.6,You suck.
 cable_spool_fort_1212_1257,train,2.8,3.2,2.7,"He looked around, trying not to seem nervous."
 cable_spool_fort_1357_1414,train,3.0,3.0,3.0,Chad checked the other fort out of the corner of his eye.
 cable_spool_fort_138_216,train,3.0,2.89,3.11,"He wished Roy wouldn't fall for that gag every time, ""get me a big rock, Roy."""
@@ -7396,7 +7227,6 @@ cable_spool_fort_4980_5025,dev,2.9,3.4,3.3,"Time out!"" Chad called, ""We're not
 cable_spool_fort_5005_5025,train,2.8,3.2,2.8,We're not ready yet.
 cable_spool_fort_5037_5106,train,2.9,3.2,3.5,"""No time outs!"" Tucker shouted and continued to climb down the tires."
 cable_spool_fort_5107_5146,train,2.78,2.89,2.67,Several more boys spewed out after him.
-cable_spool_fort_5158_5162,train,3.5,3.9,3.4,Roy!
 cable_spool_fort_5158_5209,train,2.7,3.4,2.7,"Roy!"" Chad called, but his voice would only whisper"
 cable_spool_fort_5211_5266,train,2.25,3.25,2.62,"He didn't want to be a crybaby, Tucker hated crybabies."
 cable_spool_fort_5267_5378,train,3.0,3.0,3.0,The rules of the game were that Chad had to keep everyone away from his fort and away from his tumbleweed flag.
@@ -7417,7 +7247,6 @@ cable_spool_fort_6504_6593,dev,3.12,3.25,3.25,"From his pocket he pulled a small
 cable_spool_fort_6604_6710,train,2.67,3.33,3.22,"Now Chad's legs and arms and mouth worked, and he was up and running and screaming, ""Roy, go inside! Roy!"""
 cable_spool_fort_667_695,dev,3.11,3.11,3.11,It smelled like first grade.
 cable_spool_fort_6689_6704,train,3.0,3.56,3.44,"Roy, go inside!"
-cable_spool_fort_6705_6709,test,3.3,3.8,3.1,Roy!
 cable_spool_fort_6711_6787,train,2.56,3.56,3.33,He sprinted for the corner of the building around which Roy had disappeared.
 cable_spool_fort_6788_6831,train,3.0,2.86,3.0,The door was on that side and Mrs. Rayburn.
 cable_spool_fort_6832_6894,train,2.3,3.6,2.8,Just then a horrible pain stung Chad's cheek and neck and ear.
@@ -7425,7 +7254,6 @@ cable_spool_fort_6895_6981,train,2.36,3.18,2.63,The tumbleweed's yellow thorned 
 cable_spool_fort_696_764,train,2.9,3.0,2.8,"He wished he were there now, even if he did have to sit next to Roy."
 cable_spool_fort_6982_7062,train,2.7,3.2,3.0,"Tucker made a grab for him but missed it, and Chad heard his shirt rip a little."
 cable_spool_fort_7063_7156,train,3.0,3.0,2.63,"He ran like only a small boy can run, but he was losing and he wished hard that he could fly."
-cable_spool_fort_7168_7172,train,3.3,3.9,3.2,Roy!
 cable_spool_fort_7174_7350,train,2.82,3.55,2.91,"Chad rounded the corner grabbing the cinder block to help him turn faster just as Tucker came down again with the tumbleweed from behind, and the world slowed almost to a stop."
 cable_spool_fort_7361_7401,train,2.78,2.67,3.0,Roy stood with the bill of his cap down.
 cable_spool_fort_7402_7458,train,3.0,3.14,3.0,His head rose and his eyes focused over Chad's shoulder.
@@ -7433,14 +7261,12 @@ cable_spool_fort_7459_7567,train,3.2,2.8,3.0,"Roy held stickers in his hand like
 cable_spool_fort_7568_7621,train,2.6,3.3,2.9,His hand blurred and snapped out as he stood back up.
 cable_spool_fort_7622_7717,train,2.9,3.2,2.9,"Something whined as it spun past Chad's ear, and he heard a sharp, meaty thunk just behind him."
 cable_spool_fort_765_950,train,3.36,2.91,3.18,"The rock was too big to fit into the iron hub of the big cable spool, so Chad leaned it against the tumbleweed and slid down off the splintery wood on his belly to admire his handiwork."
-cable_spool_fort_76_85,train,3.1,3.1,3.0,"Hey, Roy?"
 cable_spool_fort_7728_7784,dev,3.0,2.88,3.25,Roy stood expressionless as ever as Chad turned to look.
 cable_spool_fort_7785_7961,train,3.0,3.29,3.29,"Tucker towered there with a surprised expression and crossed eyes, the tumbleweed in one hand and the screwdriver held up high in the other ready to stab down into Chad's back."
 cable_spool_fort_7962_8142,train,2.2,3.4,2.7,"A sharp, flat, flint rock split Tucker's forehead and was buried deep and solid like a part of a Halloween costume complete with a drop of blood just starting down toward his nose."
 cable_spool_fort_8153_8199,train,2.75,2.88,3.0,Tucker dropped down like a jacket from a hook.
 cable_spool_fort_8290_8297,test,2.9,3.0,2.9,You ok?
 cable_spool_fort_8299_8394,train,3.0,2.8,3.0,"It was Roy, and when Chad looked up there was something like his brother there around the eyes."
-cable_spool_fort_8406_8411,train,3.1,3.1,2.8,Yeah.
 cable_spool_fort_8413_8465,train,2.82,2.91,2.82,Chad stepped back away from Tucker's open-eyed face.
 cable_spool_fort_8516_8674,train,2.3,3.4,3.1,"""I thought he might stab you."" Roy said and craned his neck forward to look at Tucker's face as the other boys began to crowd around at a respectful distance."
 cable_spool_fort_8517_8545,test,2.25,3.37,3.13,I thought he might stab you.
@@ -7450,14 +7276,9 @@ cable_spool_fort_8754_8800,train,2.62,3.12,2.87,"""Nah."" Chad said, ""We're gon
 cable_spool_fort_8755_8759,train,2.75,2.88,2.75,Nah.
 cable_spool_fort_8773_8799,train,2.3,3.2,2.8,We're gonna be in trouble.
 cable_spool_fort_8811_8828,dev,3.3,3.3,3.1,"""Yeah."" Roy said."
-cable_spool_fort_8812_8817,train,3.09,3.09,3.18,Yeah.
 cable_spool_fort_8847_8928,test,2.8,3.1,3.1,Suddenly his blank face seemed like the face of a Play Force Soldier or a GI Joe.
-cable_spool_fort_8940_8949,train,3.11,3.0,2.89,"Hey, Roy?"
-cable_spool_fort_8962_8967,train,3.0,3.12,3.0,What?
-cable_spool_fort_8980_8989,train,2.0,3.57,3.86,You suck.
 cable_spool_fort_9070_9087,train,3.3,2.8,3.3,It was all right.
 cable_spool_fort_961_1082,train,3.0,2.83,3.17,"The fort was a lone, wooden cable spool like a tall barrel with thick disks on its ends, each the size of a dinner table."
-cable_spool_fort_98_103,test,2.86,2.86,2.86,What?
 captured_moments_10048_10121,train,2.9,2.5,3.0,"The sufferer says no, only those which cause no pain."
 captured_moments_10122_10243,train,2.6,2.9,3.1,"And the artist says no, only those which cause the most pain, for those would be the truest memories."
 captured_moments_10262_10319,train,3.18,2.82,3.73,So I shall soothe my quarreling selves with a compromise.
@@ -7470,7 +7291,6 @@ captured_moments_10692_10837,train,3.2,3.2,3.2,"If my love for her was the only 
 captured_moments_10802_10837,train,3.25,2.88,3.0,"""Dear Future, this is Tasha Cortez."
 captured_moments_10838_10852,dev,3.7,3.0,3.0,You loved her.
 captured_moments_10853_10906,train,3.6,3.2,3.2,"With warmest regards, Your Past."""
-captured_moments_10925_10932,train,2.78,3.11,3.22,Enough.
 captured_moments_10933_11036,train,3.3,3.3,3.3,"Tasha and I walked through The Sleeping Flamingo together, and I decided to buy it."
 captured_moments_1101_1281,train,3.1,2.7,3.2,"Mama kept her mink jacket, a family hand-me-down, safe from time in a stopbox, and lent the capturador to my uncle for his stamp collection."
 captured_moments_11037_11044,train,3.0,2.8,3.0,Then --
@@ -7490,7 +7310,6 @@ captured_moments_12161_12224,train,3.14,3.0,3.29,"But neither of us care to dwel
 captured_moments_12243_12538,train,2.5,3.3,2.8,"I want to pick up with Tasha and me walking about The Sleeping Flamingo, and then, for the sake of literary convenience, to say that from a corner of the yard I saw a neighboring house, and the sight filled me with darkest forebodings."
 captured_moments_12539_12758,train,2.7,3.4,3.2,"But the truth is that Tasha pointed it out from the one place where it could barely be seen, and I only felt envy that it had been designed by someone with understated good taste."
 captured_moments_12759_12777,train,3.0,3.1,2.9,"""Who lives there?"""
-captured_moments_12778_12786,train,3.0,2.75,3.38,I asked.
 captured_moments_12805_12814,train,2.6,3.0,3.2,"""No one,"""
 captured_moments_12805_12829,train,2.86,2.86,3.14,"""No one,"" Tasha replied."
 captured_moments_1282_1496,train,3.0,3.1,2.7,"Sometimes they would let us little ones to seal a treasured toy or a last piece of birthday cake until we begged them for its release, usually a few hours after enclosing it."
@@ -7547,17 +7366,14 @@ captured_moments_17334_17388,dev,3.1,2.6,3.2,I suppose I could assist a friend.
 captured_moments_17389_17435,train,3.0,3.12,3.12,"Purely for the sake of the race, of course --"""
 captured_moments_17454_17473,train,3.0,2.73,3.0,"""Ever the altruist."
 captured_moments_17537_17596,train,3.12,3.25,3.5,"Later, I said, ""You've been chosen to succeed the Emperor."""
-captured_moments_17615_17622,train,2.8,3.4,2.9,"""What?"""
 captured_moments_17641_17652,test,3.0,2.9,2.9,"""My guess."""
 captured_moments_17671_17704,train,3.0,3.1,3.0,She batted at my nose like a cat.
 captured_moments_17705_17719,train,3.0,3.1,3.2,"""Silly Nardo."""
 captured_moments_17738_17755,dev,1.9,3.1,2.5,"""Then I give up."""
 captured_moments_17774_17822,train,3.3,3.2,3.2,"""Emil Malaquez is buying the house up the hill."""
 captured_moments_1778_1968,train,3.22,3.22,3.33,"One night when I did not believe love had ever existed for anyone, I used my own capturador, a sleek titanium Sanyo Tardar Ahora, to undo the stopbox."
-captured_moments_17841_17846,train,3.0,2.9,3.0,"""Oh."""
 captured_moments_17865_17892,train,2.88,3.37,3.0,"""You don't know who he is?"""
 captured_moments_17911_17920,train,3.0,3.0,2.9,"""Well..."""
-captured_moments_17939_17947,train,3.0,3.8,3.1,"""Nardo!"""
 captured_moments_17948_18059,test,3.56,2.89,3.0,One of the many things I liked about her was that she often thought me shockingly ignorant.
 captured_moments_18078_18093,test,3.0,2.63,2.75,"""That's, uh..."""
 captured_moments_18094_18151,train,2.87,3.12,3.0,I am never so quick-witted in person as I am on the page.
@@ -7571,7 +7387,6 @@ captured_moments_18627_18704,dev,2.71,3.14,3.0,The child's face was a warground 
 captured_moments_18705_18825,train,3.0,2.7,2.9,Imprisoned light from forgotten streetlamps snagged itself on metal threads in the fluttering pesos.
 captured_moments_18826_18969,test,3.0,3.2,3.2,"The stars themselves might have fallen on the Undersider and the event would have been no less strange, no less miraculous."
 captured_moments_18970_19035,train,3.1,3.3,3.0,"""A great artist will grace this world, then?"""
-captured_moments_19054_19062,train,3.12,3.5,3.12,"""Nardo!"""
 captured_moments_19063_19096,train,2.3,3.0,2.6,She was never tolerant of my ego.
 captured_moments_19115_19121,train,3.1,2.9,3.0,"""Well."
 captured_moments_19122_19167,train,2.9,3.2,3.1,"What's this more-famous-than-me person like?"""
@@ -7591,12 +7406,10 @@ captured_moments_19868_19900,train,2.5,2.9,2.9,"""You've no memory left, old one
 captured_moments_19901_19916,train,3.0,3.0,3.0,"Emil Malaquez."""
 captured_moments_19935_19939,train,3.0,2.67,3.11,"""Ah."
 captured_moments_19940_19976,test,2.67,3.22,3.11,"You did that to test my affections."""
-captured_moments_19995_20002,train,3.1,3.3,3.0,"""What?"""
 captured_moments_20021_20052,test,3.0,2.91,3.46,"""Calling him by his first name."
 captured_moments_20053_20081,train,3.0,3.0,3.0,I did that in a comedy once.
 captured_moments_20081_20132,train,3.1,2.8,2.8,'Nights with Karl and Groucho.'
 captured_moments_20133_20158,test,2.9,2.7,3.0,"It was before your time."""
-captured_moments_20177_20182,dev,3.12,2.87,3.0,"""Oh."""
 captured_moments_20201_20224,train,3.8,3.3,3.1,"""The critics liked it."""
 captured_moments_20243_20254,dev,4.0,3.44,3.44,"""I'm glad."""
 captured_moments_20255_20308,train,2.9,3.0,3.1,"A moment later: ""That's not why I called him 'Emil'."""
@@ -7605,19 +7418,14 @@ captured_moments_20327_20332,dev,2.4,3.2,2.8,"""No?"""
 captured_moments_20351_20355,train,2.5,3.1,3.4,"""No."
 captured_moments_20356_20376,train,3.57,3.0,3.14,We lunched together.
 captured_moments_20377_20388,train,4.0,3.33,3.11,"He's nice."""
-captured_moments_20407_20412,train,2.88,3.0,2.88,"""Oh."""
 captured_moments_20431_20453,train,2.6,3.2,2.9,"""It wasn't like that."""
-captured_moments_20505_20516,train,3.1,3.0,3.0,"""Of course."
 captured_moments_20517_20544,train,2.3,3.0,2.8,"Still, it wasn't like that."
 captured_moments_20545_20616,dev,2.75,3.63,3.12,"You think I sleep with every famous person I meet?"""
 captured_moments_20635_20692,train,3.0,2.7,3.2,"As you may have guessed, we had talked about such things."
 captured_moments_20693_20776,train,3.62,3.25,3.25,"I do not claim ours was a perfect affair, only a wonderful one."
 captured_moments_20795_20805,test,3.0,2.9,3.1,"""Tasha --"""
 captured_moments_20824_20833,train,3.0,2.9,3.0,"""Do you?"""
-captured_moments_20852_20857,dev,1.84,2.83,3.5,"""No."""
-captured_moments_20876_20882,train,3.6,3.0,2.9,"""Good."
 captured_moments_20883_20917,train,3.37,3.37,3.5,"I invited him to dinner tomorrow."""
-captured_moments_20936_20941,train,2.9,3.4,3.3,"""Oh?"""
 captured_moments_20960_20983,train,3.1,2.9,3.4,"""He'll be our neighbor."
 captured_moments_20984_21069,train,2.5,3.2,3.0,"You say we're becoming too insular, that we need to socialize --"""
 captured_moments_21088_21128,dev,3.18,3.0,3.18,"""I've socialized for sixty-three years."""
@@ -7639,7 +7447,6 @@ captured_moments_21909_21921,train,2.11,2.89,2.33,"""I'm sorry."""
 captured_moments_21940_21968,train,2.8,3.4,2.8,""" --who took me to -- What?"""
 captured_moments_21987_21998,train,2.0,2.9,2.3,"""I'm sorry."
 captured_moments_21999_22006,train,3.1,3.1,3.1,"Truly."""
-captured_moments_22025_22030,train,3.0,3.12,2.75,"""Oh."""
 captured_moments_22031_22103,dev,2.6,3.0,3.1,"She studied me as a suspicious puppy might, then said, ""I'm sorry, too."""
 captured_moments_22086_22103,train,2.2,3.5,3.1,"""I'm sorry, too."""
 captured_moments_22122_22199,train,3.0,2.87,3.12,"""I suppose I sound like I'm bragging when I talk of the things I'm tired of."""
@@ -7670,7 +7477,6 @@ captured_moments_23087_23127,train,2.82,2.91,3.0,"""I think his face is his form
 captured_moments_23128_23210,train,2.88,3.37,3.12,It's the reverse of you with those ridiculous stomach muscles.
 captured_moments_23211_23234,train,2.8,2.6,2.7,"Old men should be fat."""
 captured_moments_23253_23263,train,3.0,3.0,3.0,"""Is Emil?"""
-captured_moments_23282_23288,train,3.71,3.29,3.14,"""Yes."""
 captured_moments_23307_23321,train,2.25,3.5,2.75,"""I am jealous."
 captured_moments_23322_23351,train,3.2,3.0,3.0,I'll eat two dinners tonight.
 captured_moments_23352_23366,train,3.0,3.1,2.9,"Five deserts."""
@@ -7751,14 +7557,11 @@ captured_moments_27273_27289,train,2.9,2.5,3.2,"""Relax,"" I said."
 captured_moments_27290_27326,train,3.2,2.7,3.4,"""It's easy for me to turn one down."""
 captured_moments_27345_27387,test,3.1,3.1,3.1,He glanced at me and decided I was joking.
 captured_moments_27388_27423,train,3.0,3.14,3.29,The surprising thing is that I was.
-captured_moments_27444_27450,train,4.2,3.3,3.1,"""Good."
 captured_moments_27451_27467,train,2.7,3.0,3.1,"My last show --"""
 captured_moments_27486_27504,train,4.0,3.9,3.3,""" --was glorious!"""
-captured_moments_27505_27516,train,3.0,2.87,3.25,Tasha said.
 captured_moments_27535_27560,train,3.5,3.12,3.0,""" --was kindly received,"""
 captured_moments_27535_27569,train,3.3,3.0,2.9,""" --was kindly received,"" he said."
 captured_moments_27570_27677,test,2.9,2.9,3.1,"""But an artist who would stay first among his fellows can tell when he begins to fail."""
-captured_moments_27696_27701,train,3.0,3.25,2.88,"""Oh?"""
 captured_moments_27702_27752,train,2.9,3.0,3.0,I hoped no one would bring up my last three plays.
 captured_moments_27771_27804,test,2.73,3.0,3.18,"""I must change my subject matter."
 captured_moments_27805_27850,train,2.8,3.1,3.3,"No more urchins, dopers, vagrants, or whores."
@@ -7770,8 +7573,6 @@ captured_moments_28049_28057,train,2.5,3.5,3.63,"""Never,"""
 captured_moments_28049_28065,train,2.25,3.88,3.75,"""Never,"" I said."
 captured_moments_28084_28089,train,3.0,2.62,3.0,"""Ah."""
 captured_moments_28090_28110,train,3.0,3.0,3.0,He shrugged lightly.
-captured_moments_28129_28137,train,3.0,3.6,3.3,"""Nardo!"""
-captured_moments_28138_28149,test,3.0,2.8,3.0,Tasha said.
 captured_moments_28150_28168,train,4.0,3.2,3.2,"""It's an honor --"""
 captured_moments_28187_28199,test,3.3,3.0,3.3,"""Of course,"""
 captured_moments_28187_28207,train,3.11,3.0,3.22,"""Of course,"" I said."
@@ -7830,7 +7631,6 @@ captured_moments_32080_32131,train,2.8,3.0,2.8,"I merely said, ""Is Tasha here?"
 captured_moments_32115_32131,train,2.9,3.1,3.1,"""Is Tasha here?"""
 captured_moments_3213_3288,train,2.9,3.2,3.0,Now the N'apulcans profit from their Hispanic siblings.
 captured_moments_32150_32191,train,3.0,2.9,3.1,"He pursed his lips slightly, then nodded."
-captured_moments_32192_32198,train,3.29,3.29,3.29,"""Yes."""
 captured_moments_32217_32233,train,3.0,3.12,2.75,"""May I see her?"""
 captured_moments_32234_32286,train,2.5,3.12,3.13,"When he hesitated, I said, ""Last night was my fault."
 captured_moments_32261_32286,train,2.2,3.0,2.9,"""Last night was my fault."
@@ -7854,7 +7654,6 @@ captured_moments_33283_33304,train,2.8,3.1,3.2,"""What would it hurt?"""
 captured_moments_33323_33329,train,3.33,3.0,3.44,"""True."
 captured_moments_33330_33339,train,3.14,3.14,3.43,Go ahead.
 captured_moments_33340_33352,train,2.9,3.1,3.0,"Tell her..."""
-captured_moments_33353_33364,train,2.8,2.8,2.9,I shrugged.
 captured_moments_33365_33387,train,4.4,4.1,3.8,"""Tell her I love her."""
 captured_moments_3338_3480,train,2.88,3.0,3.12,"I suppose I wish to show that I'm still capable of a certain authorial distance, a semblance of dispassionate observation."
 captured_moments_33406_33478,train,2.7,3.0,2.7,"He studied me, then said, ""I'm sorry things happened this way, Bernardo."
@@ -7952,9 +7751,7 @@ captured_moments_5506_5538,train,1.3,4.4,3.5,"I hate it, despise it, abhor it!"
 captured_moments_5539_5648,train,2.5,3.4,3.3,"It's gaudy, graceless, pretentious -- That house is an affront to taste and intelligence."
 captured_moments_5649_5726,train,2.5,3.2,3.5,"I should buy it to raze it, but I am not so kind-hearted."
 captured_moments_5727_5754,train,3.0,3.1,3.1,"I might, however, rent it."""
-captured_moments_573_589,train,3.4,3.1,3.2,Captured Moments
 captured_moments_5773_5824,train,2.7,3.0,2.8,I think she only heard the last words of my speech.
-captured_moments_5825_5836,dev,3.11,3.22,3.0,"""You will?"""
 captured_moments_5855_5869,test,3.8,3.4,3.2,"""It amuses me."
 captured_moments_5870_5911,train,3.0,2.8,3.2,"Show me around, and then I shall decide."""
 captured_moments_5930_5955,train,3.12,2.88,2.38,"""Of course, Señor Flynn."""
@@ -7969,7 +7766,6 @@ captured_moments_6319_6332,train,3.0,2.71,3.0,"""How's that?"""
 captured_moments_6351_6367,train,3.0,3.2,3.2,I looked at her.
 captured_moments_6386_6394,train,2.6,3.2,2.9,"""Worse?"""
 captured_moments_638_754,dev,3.22,2.89,3.0,"I remember Papa's stopbox, a teal blue Tiempo Capturado that Mama brought home for his birthday."
-captured_moments_6413_6422,train,3.0,2.71,3.14,I nodded.
 captured_moments_6423_6462,train,3.11,2.56,3.0,"""I would not have thought it possible."""
 captured_moments_6481_6493,train,2.43,3.0,3.14,She frowned.
 captured_moments_6494_6514,train,2.2,3.4,3.3,"""It is rather ugly."""
@@ -7977,7 +7773,6 @@ captured_moments_6533_6551,train,2.29,3.43,3.14,"""Thoroughly ugly,"""
 captured_moments_6533_6575,train,3.0,3.2,3.1,"""Thoroughly ugly,"" I corrected with smile."
 captured_moments_6594_6611,train,1.4,2.9,3.2,"""Obscenely ugly,"""
 captured_moments_6594_6634,train,3.87,2.87,3.12,"""Obscenely ugly,"" said she, smiling too."
-captured_moments_6653_6658,train,2.9,3.3,3.3,"""No."""
 captured_moments_6659_6669,train,3.0,2.67,3.17,I pointed.
 captured_moments_6670_6688,train,2.82,2.55,3.09,"""It has no tower."""
 captured_moments_6707_6724,dev,3.5,3.6,4.1,"""I can fix that."""
@@ -7986,7 +7781,6 @@ captured_moments_6795_6812,train,2.5,4.1,4.0,"""Don't you dare!"""
 captured_moments_6813_6908,train,3.4,3.5,3.4,"Her wrist, when I grabbed it, was smooth and strong and warm in my fingers."
 captured_moments_6909_6923,train,3.75,3.75,3.88,"""I'll take it."
 captured_moments_6924_6942,train,3.0,2.8,3.3,"Exactly as it is."""
-captured_moments_6961_6972,dev,3.22,3.44,2.89,"""You will?"""
 captured_moments_6991_6999,dev,2.9,3.2,3.1,"""I must."
 captured_moments_7000_7040,train,2.8,3.4,3.2,"God knows what you might do to it next."""
 captured_moments_7041_7094,train,2.4,3.4,2.7,"Reluctantly, I released her hand."
@@ -8006,9 +7800,7 @@ captured_moments_8185_8287,test,3.25,3.0,3.25,"Not bad for an eighty-three-year-
 captured_moments_8288_8406,train,2.7,3.0,3.1,"And if I can brag and digress so easily, this must not be painful enough to merit a mindwipe, yes?"
 captured_moments_8429_8685,train,2.78,2.89,3.0,"I abandoned these notes to my future self to have the wipe done immediately, thinking that Bernardo Flynn should receive such services when he needed them, even should the need arise at the third hour after midnight."
 captured_moments_8686_8743,train,2.5,3.0,2.83,My mindsmith is not so understanding.
-captured_moments_86_102,train,3.2,3.1,3.1,Captured Moments
 captured_moments_8744_8828,train,3.0,2.8,2.9,"She says I am emotionally a child, to which I reply, ""Of course."
-captured_moments_8797_8828,train,3.2,3.0,3.2,"""Of course."
 captured_moments_8829_8859,train,2.75,2.88,3.12,"Why else would I come to you?"""
 captured_moments_8860_8945,train,2.6,3.3,2.7,This logic does not soothe her; she says I must wait three weeks.
 captured_moments_8946_8952,test,3.29,3.57,3.0,Three!
@@ -8016,7 +7808,6 @@ captured_moments_8952_8953,train,3.0,2.8,3.0,.
 captured_moments_8954_8970,train,3.0,3.1,3.3,Such is the law.
 captured_moments_8971_9075,train,2.8,3.0,3.0,"I say I do not care about law, I care about service and she should care about money."
 captured_moments_898_1100,test,3.1,2.8,3.0,"He used it to preserve baby tomatoes, cucumbers, and strawberries in translucent cubes that he stored in the pantry for spring-time meals in the middle of winter."
-captured_moments_9076_9083,train,2.3,3.4,3.5,Enough.
 captured_moments_9084_9156,train,3.67,3.44,3.33,"I went on a spree, and it must have been a good one."
 captured_moments_9157_9268,dev,3.33,3.22,3.22,I hope the wipe is as successful with my time on Vega IV as my spree was with my time here.
 captured_moments_9269_9382,train,2.73,2.82,3.0,"I dimly remember three bedpartners who were probably human, and one that I hope was delirium."
@@ -8115,7 +7906,6 @@ detroit_11010_11051,train,3.2,3.0,3.2,'America's least pretentious masterpiece'
 detroit_1102_1251,test,2.7,3.1,3.0,"Why, out in New Mexico, where you can still buy unincorporated land with no water or roads, you'd pay at least $1,000 for a house-sized plot of dust."
 detroit_11053_11280,dev,3.1,3.3,3.1,"(Joyce Carol Oates in the NYTBR) When folks like Gertie Nevels, and Levon Helm and John Hiatt and my favorite, John Henry, left the mountains to go wrestle with the Industrial leviathan in Detroit, they were in it to the death."
 detroit_11281_11400,train,3.1,3.1,3.0,Detroit won't be the death of the courage of those early Detroit pioneers; it looks like Nature will prevail after all.
-detroit_11401_11416,train,3.8,3.1,3.2,Everybody wins.
 detroit_11417_11443,train,4.3,3.6,3.1,I love what you are doing.
 detroit_11447_11479,train,3.0,2.8,3.0,"Uncle B 18. Oct, 2009 at 7:53 am"
 detroit_11481_11567,train,2.8,3.1,3.0,"Is this the monument left behind for the world to witness, by Corporatism, Capitalism?"
@@ -8151,10 +7941,8 @@ detroit_13206_13215,train,3.7,3.2,3.3,"""Freedom"""
 detroit_13217_13260,train,2.8,3.3,3.0,Is this really just flag-waving propaganda?
 detroit_13261_13294,train,2.6,3.2,2.7,"What, exactly did we win in Iraq?"
 detroit_13295_13307,train,3.2,3.1,3.1,Cheaper Oil?
-detroit_13308_13320,train,2.3,3.9,3.7,I think not!
 detroit_13321_13348,train,2.8,3.1,3.2,Gratitude of a Free nation?
 detroit_1333_1376,train,3.7,3.7,3.1,The possibilities of this were fascinating.
-detroit_13349_13361,dev,2.5,3.9,3.7,I think not!
 detroit_13362_13402,train,2.9,3.0,2.6,"Why has the ""Rust Belt"" come into being?"
 detroit_13374_13385,train,3.0,2.9,3.0,"""Rust Belt"""
 detroit_13403_13422,train,3.0,3.1,2.7,What were we doing?
@@ -8364,7 +8152,6 @@ easy_money_10447_10528,train,2.9,3.2,3.2,"I think this whole thing,"" he waved h
 easy_money_10529_10588,train,3.0,3.0,3.1,"And the markers were carved later, not be whoever built it."
 easy_money_10589_10651,train,3.29,3.14,3.0,The markers are places where it's safe to come here and leave.
 easy_money_10663_10668,train,3.1,2.9,3.0,Safe?
-easy_money_10670_10686,train,3.0,3.0,3.2,I looked around.
 easy_money_10687_10729,train,2.2,3.0,2.9,One thing this place didn't seem was safe.
 easy_money_10740_10765,test,3.0,2.78,3.22,Let me show you the rest.
 easy_money_10767_10821,train,3.0,3.0,3.0,He started walking down the steps and around a corner.
@@ -8450,13 +8237,10 @@ easy_money_1691_1825,test,3.0,3.0,3.0,"I knew every cop in Fairport and quite a 
 easy_money_1837_1849,train,2.9,3.0,3.0,'m not a cop
 easy_money_1852_1925,dev,2.14,2.57,2.43,"He sighed and went on in softer, sadder voice, ""I guess I'm a thief now."""
 easy_money_1936_1944,test,3.0,3.1,3.4,Hold it.
-easy_money_1946_1962,dev,3.0,3.12,3.12,I looked around.
 easy_money_1963_2039,train,2.57,2.72,2.71,"Charles might be for real, but he was still going to get me in deep trouble."
 easy_money_2041_2101,train,2.7,3.3,3.5,"Let's make real clear right now that you were joking, buddy."
 easy_money_2102_2138,train,2.2,3.4,3.0,Otherwise this conversation is over.
 easy_money_2139_2224,train,2.6,3.3,2.9,"I've got a parole officer to explain things to, and he wouldn't like that kinda talk."
-easy_money_2236_2242,dev,3.2,3.2,3.2,Right.
-easy_money_2243_2249,train,3.1,3.1,3.3,Right.
 easy_money_2250_2256,train,2.27,2.91,2.73,Sorry.
 easy_money_2258_2347,train,2.7,2.8,2.8,Charles looked out the window at the passing traffic push through dirty slush for awhile.
 easy_money_2349_2367,train,2.9,3.1,3.2,Like I was saying.
@@ -8648,7 +8432,6 @@ hotel-california_12878_13042,train,3.22,3.0,3.11,"I smothered thoughts of friend
 hotel-california_13043_13291,train,3.5,3.2,3.2,"I continued to care little for shipwide gossip, but our discussions of films and flicks, old and new, brought out my artistic, story-loving, argumentative side, a side of me I'd tucked into a back storage compartment during my years as an engineer."
 hotel-california_13292_13323,train,3.2,3.2,3.1,"It was a good life, if surreal."
 hotel-california_13324_13374,train,3.0,2.86,3.0,But I wasn't sure I wanted the dream stage to end.
-hotel-california_13376_13407,train,3.2,3.2,3.2,Fact: Some places are timeless.
 hotel-california_13408_13506,train,2.73,2.91,3.09,"Days passed, weeks passed, but I couldn't tell if it had been months or years since I was rescued."
 hotel-california_13507_13551,train,2.7,3.1,2.6,"All there was, all I remembered, was a blur."
 hotel-california_13552_13749,train,3.0,2.9,3.1,"Gathering for drinks in the parlors, playing dress up with all the fine clothes I found in the closets (some of it modern, some of it period dress for special themed events), idling in the lounges."
@@ -8808,7 +8591,6 @@ hotel-california_20786_20797,train,2.88,2.75,3.12,said Zheng.
 hotel-california_20800_20808,train,2.43,2.86,2.86,"“Sorry,”"
 hotel-california_20800_20818,train,2.7,2.9,2.9,"“Sorry,” said Ray."
 hotel-california_20821_20845,train,3.0,2.62,2.75,“How long ago was that?”
-hotel-california_20846_20861,train,3.0,2.38,3.0,asked Adrienne.
 hotel-california_20862_20889,train,2.56,3.11,2.89,"“Leaving your wife, I mean."
 hotel-california_20862_20914,train,2.89,2.67,2.78,"“Leaving your wife, I mean. Traveling on this ship.”"
 hotel-california_2088_2134,train,2.7,2.9,2.9,The first words they said to me meant nothing.
@@ -8825,8 +8607,6 @@ hotel-california_21130_21233,train,2.72,3.28,2.86,"More excuses were made, and a
 hotel-california_21234_21280,train,3.0,3.12,3.0,She looked across the circle of couches at me.
 hotel-california_21282_21303,dev,3.25,3.0,3.12,“What's your theory?”
 hotel-california_21304_21317,train,3.1,3.1,3.1,she asked me.
-hotel-california_21319_21330,train,2.5,3.0,2.9,I shrugged.
-hotel-california_21332_21362,train,3.0,2.9,3.0,“How long have you been here?”
 hotel-california_2135_2221,train,3.2,3.2,3.3,I wasn't listening; I didn't care; I was going to live; I was going to keep breathing.
 hotel-california_21364_21380,train,3.0,3.12,3.12,"“Not that long,”"
 hotel-california_21364_21388,train,3.0,3.1,3.1,"“Not that long,” I said."
@@ -8835,7 +8615,6 @@ hotel-california_21389_21437,train,3.0,2.9,2.9,"“A couple weeks, I guess. Mayb
 hotel-california_21415_21437,dev,2.9,2.7,3.1,Maybe a month or two.”
 hotel-california_21439_21469,train,2.67,3.22,3.0,“Why don't you know for sure?”
 hotel-california_21470_21480,train,3.0,2.88,2.88,she asked.
-hotel-california_21482_21493,train,2.9,3.0,3.0,I shrugged.
 hotel-california_21494_21522,train,2.9,2.9,2.9,I hadn't been counting days.
 hotel-california_21524_21553,train,3.0,2.9,3.0,“What did you do before this?
 hotel-california_21524_21574,train,3.0,3.0,3.2,“What did you do before this? How were you found?”
@@ -8861,7 +8640,6 @@ hotel-california_2222_2259,train,2.82,2.82,3.09,"Next to those, nothing else mat
 hotel-california_22259_22324,train,2.7,3.0,2.7,"Worse, Adrienne had made this clear to me with a single question."
 hotel-california_22325_22387,test,3.0,3.0,3.0,"I had spent weeks asking nothing, contentedly getting nowhere."
 hotel-california_22389_22419,train,2.0,3.67,2.22,Fact: Adrienne intimidated me.
-hotel-california_22421_22463,train,2.9,2.7,2.8,Fact: It's too easy to fall into patterns.
 hotel-california_22465_22497,train,3.14,3.0,3.29,I resolved to break the pattern.
 hotel-california_22499_22602,train,3.3,3.3,3.1,"Another evening, another chandeliered room, another swirl of conversations and dances and hor d'oevres."
 hotel-california_22603_22672,test,2.71,2.86,3.14,"Another circle of chairs and couches, another uncomfortable question."
@@ -8881,7 +8659,6 @@ hotel-california_22954_22961,train,3.0,3.12,3.0,"“Well,”"
 hotel-california_22954_22997,train,2.6,2.9,2.9,"“Well,” Ray said, slowly, “People do leave."
 hotel-california_22980_23092,train,2.82,2.82,2.63,“People do leave. The approximate number of people at any given event is always the same. But we see new faces.”
 hotel-california_22998_23069,train,3.0,2.67,3.0,The approximate number of people at any given event is always the same.
-hotel-california_22_49,train,2.9,2.9,3.2,Fact: Sound is a vibration.
 hotel-california_23094_23153,train,2.8,2.8,2.9,“You're sure it's not just some people being indisposed ? ”
 hotel-california_23154_23193,train,3.0,2.6,2.9,"asked Adrienne, using Sarah's phrasing."
 hotel-california_23196_23295,test,2.9,3.1,3.0,Zheng shook his head and picked up a handful of candied pecans from a little dish on the end table.
@@ -8899,7 +8676,6 @@ hotel-california_23704_23743,train,2.8,2.9,2.9,Sarah shrugged and sipped at her 
 hotel-california_23744_23789,train,2.75,3.0,2.88,"After a moment, Ray said, “I don't think so.”"
 hotel-california_23770_23789,dev,2.7,3.1,3.0,“I don't think so.”
 hotel-california_23791_23812,train,3.0,3.14,3.14,“Are there patterns?”
-hotel-california_23813_23828,train,3.0,2.55,2.91,Adrienne asked.
 hotel-california_23829_23842,train,2.9,3.1,2.8,“Who leaves?”
 hotel-california_23844_23896,train,2.36,2.91,2.64,"Again, there was an uncomfortable moment of silence."
 hotel-california_23897_23916,train,3.0,3.0,3.0,I hazarded a guess.
@@ -8916,7 +8692,6 @@ hotel-california_24247_24312,train,3.43,3.43,3.71,Mission accomplished: Our rout
 hotel-california_24313_24335,test,2.86,3.0,3.0,The scales had tipped.
 hotel-california_2436_2488,train,3.0,2.7,3.3,(I reserved the right to revise this opinion later.)
 hotel-california_24439_24514,test,3.0,3.1,3.3,"From the looks on my companions' faces, I knew they were thinking the same."
-hotel-california_24516_24546,train,2.9,2.7,2.9,“How long have you been here?”
 hotel-california_24548_24764,train,2.75,3.12,2.88,"The question, previously posed to me, was presented to the rest of our group (excluding Ray; Adrienne had been tactful enough to wait until he had gone for a refill, recalling the last time the subject was broached)."
 hotel-california_24766_24843,train,3.12,2.88,2.88,"Sarah, she tilted her head and tapped a finger on the side of her wine glass."
 hotel-california_24845_24857,train,3.0,3.0,2.9,A long time.
@@ -8930,9 +8705,7 @@ hotel-california_24998_25031,train,3.0,2.6,3.0,“Time passes in a weird way her
 hotel-california_24998_25125,train,2.8,3.0,3.0,“Time passes in a weird way here. I kept track for a while—thirty-eight days—but after that... I guess I didn't see the point.”
 hotel-california_25032_25092,train,2.9,3.0,3.0,I kept track for a while—thirty-eight days—but after that...
 hotel-california_25093_25125,train,2.6,2.9,3.1,I guess I didn't see the point.”
-hotel-california_25127_25158,train,3.1,3.3,3.0,Fact: Some places are timeless.
 hotel-california_25160_25170,dev,3.0,3.0,3.0,“Why not?”
-hotel-california_25171_25186,train,3.0,2.9,3.1,asked Adrienne.
 hotel-california_25188_25208,train,3.0,2.9,3.0,"“Days don't matter,”"
 hotel-california_25188_25217,train,2.4,2.9,3.0,"“Days don't matter,” he said."
 hotel-california_25358_25421,train,2.89,3.0,3.44,"Tiffany nodded, but Kishori spoke before the other woman could."
@@ -8958,7 +8731,6 @@ hotel-california_25845_25868,train,3.0,3.2,3.3,“Do you want to leave?”
 hotel-california_25869_25878,test,3.0,2.4,3.1,he asked.
 hotel-california_25879_25914,train,2.8,3.2,3.2,“Could you live anywhere else now?”
 hotel-california_25916_25927,train,3.22,3.22,3.78,I spoke up.
-hotel-california_25928_25934,train,3.3,3.0,3.1,"“Yes,”"
 hotel-california_25928_25942,train,3.29,3.14,3.14,"“Yes,” I said."
 hotel-california_25943_25972,train,2.8,3.3,3.0,"“I wouldn't miss this, much.”"
 hotel-california_25973_25999,train,2.82,2.55,3.09,No one else said anything.
@@ -8967,7 +8739,6 @@ hotel-california_26059_26162,train,2.9,3.1,2.9,"Zheng, he addressed me again, le
 hotel-california_26163_26180,train,3.0,3.0,3.0,"“You think that,”"
 hotel-california_26163_26206,train,3.0,3.0,3.2,"“You think that,” he said, “but is it true?"
 hotel-california_26190_26338,train,2.67,3.11,3.22,"“but is it true? Would you be happy back in a normal life, working and living and crying in the drudgery of whatever the hell normal is these days?”"
-hotel-california_26358_26400,train,2.86,2.86,2.71,Fact: It's too easy to fall into patterns.
 hotel-california_26402_26454,train,3.0,2.78,3.22,Fact: I wasn't sure I wanted the dream stage to end.
 hotel-california_26456_26482,train,2.22,3.11,2.78,My quarters felt stifling.
 hotel-california_26483_26504,train,2.6,3.2,3.0,Asphyxiating my mind.
@@ -9012,7 +8783,6 @@ hotel-california_29252_29323,dev,3.1,3.0,3.1,"And listen, when they came round t
 hotel-california_29325_29505,train,3.0,3.1,3.1,"The next time the captain stopped by our group, Tiffany tagging along (pretending that she, too, was a social butterfly who could mingle equally well with everyone), we were ready."
 hotel-california_2933_2955,train,3.12,3.12,3.0,I was now one of them.
 hotel-california_29507_29536,train,2.8,3.5,3.1,“Is there a doctor on board?”
-hotel-california_29537_29552,dev,3.0,2.67,3.11,asked Adrienne.
 hotel-california_29553_29582,train,2.27,3.27,2.73,“I've been having headaches.”
 hotel-california_2957_2984,train,3.0,3.1,3.1,"This story, it's our story."
 hotel-california_29583_29623,test,2.7,2.9,3.1,"It was a lie, but we needed information."
@@ -9026,9 +8796,7 @@ hotel-california_29780_29818,train,3.12,3.12,3.0,I wondered how many people it t
 hotel-california_29819_29868,train,2.9,2.9,2.8,Had anyone on the ship ever fallen seriously ill?
 hotel-california_2985_3092,dev,2.33,2.89,2.78,"The survivors of the unfortunate accidents, the catastrophic malfunctions, the fateful crashes: this is us."
 hotel-california_29870_29884,train,3.0,3.0,3.0,“Does he age?”
-hotel-california_29885_29900,train,3.0,2.89,3.0,asked Adrienne.
 hotel-california_29902_29916,train,3.0,3.2,3.0,“The captain?”
-hotel-california_29917_29928,test,2.5,3.2,2.7,I shrugged.
 hotel-california_29929_29956,train,3.0,2.09,3.0,“I never thought about it.”
 hotel-california_29958_30008,train,3.0,2.83,2.83,Adrienne steepled her fingers and studied my face.
 hotel-california_30009_30043,train,2.38,3.5,2.75,"“That doesn't answer my question,”"
@@ -9052,7 +8820,6 @@ hotel-california_30377_30455,dev,3.5,3.3,3.3,"“You ever heard of Dunbar? Well,
 hotel-california_30404_30455,train,3.38,3.0,3.25,"Well, we've got the perfect-size group right here.”"
 hotel-california_30504_30573,train,2.6,3.0,3.0,Just enough for us all to be able to barely avoid killing each other.
 hotel-california_30575_30603,train,2.8,3.1,3.0,“Why doesn't anyone mutiny?”
-hotel-california_30604_30619,train,3.09,2.82,3.18,Adrienne asked.
 hotel-california_30620_30693,test,2.38,3.25,3.62,"“If you dislike this place so much, why don't you do something about it?”"
 hotel-california_30695_30706,train,2.3,3.1,2.8,"“We can't,”"
 hotel-california_30717_30736,dev,3.0,2.75,3.0,“What would we do?”
@@ -9113,7 +8880,6 @@ hotel-california_33220_33246,train,2.92,2.92,3.25,In her hands was a bottle.
 hotel-california_33248_33277,train,3.0,3.0,3.0,And what happens to Adrienne?
 hotel-california_33279_33299,dev,2.11,3.11,2.56,I couldn't find her.
 hotel-california_33301_33339,train,3.14,2.86,3.14,"Jefferson was in the Captain's Lounge,"
-hotel-california_33342_33369,dev,3.1,2.6,3.0,Fact: Sound is a vibration.
 hotel-california_33370_33568,train,3.0,2.33,3.0,"The speed of sound in dry air at twenty degrees Celsius or sixty-eight degrees Fahrenheit is three hundred and forty-three meters per second, or one thousand one hundred twenty-five feet per second."
 hotel-california_33570_33586,train,3.0,2.67,3.11,"“Up his dosage,”"
 hotel-california_33570_33611,train,3.0,3.1,3.0,"“Up his dosage,” I heard the captain say."
@@ -9159,7 +8925,6 @@ hotel-california_384_550,train,3.0,2.89,3.11,Such a relief to never again hear m
 hotel-california_3868_3881,train,2.67,3.0,2.89,They didn't.”
 hotel-california_3883_3980,train,3.33,3.22,3.22,"Tiffany, she looked at the captain, grinned and flipped her greasy brown locks over her shoulder."
 hotel-california_3981_3998,train,3.0,3.0,3.0,She turned to me.
-hotel-california_3999_4009,train,2.89,3.22,3.22,"“Come on,”"
 hotel-california_3999_4081,train,3.2,3.0,2.7,"“Come on,” she said, before I could say anything else, “let's get you settled in.”"
 hotel-california_3_20,train,3.0,2.62,3.0,>Hotel California
 hotel-california_4054_4081,train,3.4,2.9,3.1,“let's get you settled in.”
@@ -9171,7 +8936,6 @@ hotel-california_4558_4651,train,3.4,3.3,3.1,Glimpses of elegant rooms down the 
 hotel-california_4653_4669,train,3.8,3.2,2.8,This was heaven.
 hotel-california_4670_4710,train,3.0,3.2,3.0,"No seventy-two virgins, but it would do."
 hotel-california_4712_4733,dev,3.0,3.0,3.14,“Where are we going?”
-hotel-california_4734_4742,test,3.0,2.91,3.09,I asked.
 hotel-california_4744_4764,train,3.0,2.9,3.0,Tiffany looked back.
 hotel-california_4765_4783,train,3.0,3.1,3.5,“To your quarters.
 hotel-california_4765_4832,train,3.1,3.0,3.0,“To your quarters. It's not far; you're not going to get blisters.”
@@ -9276,7 +9040,6 @@ hsus4_4492_4510,train,3.6,3.1,3.1,Thanks in advance.
 hsus4_4575_4703,dev,3.1,3.1,3.2,"A COPY OF THE LATEST REGISTRATION AND FINANCIAL INFORMATION FILED BY THE HSUS MAY BE OBTAINED BY CONTACTING THE HSUS, 2100 L ST."
 hsus4_4705_4730,train,2.9,3.0,3.0,"NW, WASHINGTON, DC 20037."
 hsus4_4747_4932,test,3.1,3.0,3.2,OR IN FLORIDA— A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL FREE 1-800-435-7352 WITHIN THE STATE.
-hsus4_4933_5015,train,2.8,2.8,3.1,"REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE."
 hsus4_5016_5122,train,3.0,2.89,3.0,"In Maryland, for the Cost of copies and postage, the Secretary of State, State House, Annapolis, MD 21401."
 hsus4_5123_5286,train,3.0,2.8,3.0,Mississippi— The official registration and financial information of HSUS maybe obtained from the Mississippi Secretary of State’s office by calling 1-888-236-6167.
 hsus4_5287_5379,dev,2.91,2.82,3.0,Registration by the Secretary of State does not imply endorsement by the Secretary of State.
@@ -9285,7 +9048,6 @@ hsus4_5637_5756,train,3.1,2.5,3.0,"In New York, the Office of the Attorney Gener
 hsus4_563_693,train,1.91,3.09,2.45,"The sad truth is animal cruelty, abuse and neglect continues at an alarming rate across the nation and even in your own community."
 hsus4_5757_5773,test,3.0,2.8,2.9,NORTH CAROLINA-.
 hsus4_5774_6011,test,3.12,3.0,3.0,"A COPY OF THE LICENSE TO SOLICIT CHARITABLE CONTRIBUTIONS AS A CHARITABLE ORGANIZATION OR SPONSOR AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DEPARTMENT OF HUMAN RESOURCES, SOLICITATION LICENSING BRANCH, BY CALLING (919) 807.2214."
-hsus4_6012_6094,train,2.73,3.27,2.91,"REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE."
 hsus4_6095_6320,train,3.0,3.0,3.2,"Pennsylvania— The official registration and financial information of The Humane Society of the United States may be obtained from the Pennsylvania Department of State by calling toll free, within Pennsylvania, 1-800-732-0999."
 hsus4_6321_6361,train,2.8,3.0,3.2,Registration does not imply endorsement.
 hsus4_6362_6505,train,3.0,2.78,3.0,"Virginia— State Division of Consumer Affairs, Department of Agriculture and Consumer Services, P0 Box 1163, Richmond, VA 23209; 1-800-552-9963."
@@ -9309,7 +9071,6 @@ lessig_blog-carbon_1799_1871,train,3.2,3.0,3.0,Isn't a mandatory scheme going to
 lessig_blog-carbon_1874_1965,dev,3.0,2.78,3.0,"April 27, 2009 10:20 AM lessig: I favor a mandatory scheme -- internalize your externality."
 lessig_blog-carbon_193_234,train,3.0,3.1,2.9,I talk about it in my Green Culture talk.
 lessig_blog-carbon_1966_1997,test,2.6,3.2,3.1,I am suspicious of cap & trade.
-lessig_blog-carbon_1998_2176,train,2.62,2.63,2.75,"It seems like a complicated partial version of that, created by the same genius quants who gave us the mess on wall street, that is designed to generate large fees finance types."
 lessig_blog-carbon_2177_2210,test,3.22,2.78,3.22,My sense is for a simpler system.
 lessig_blog-carbon_2213_2351,train,2.8,3.0,3.2,"April 27, 2009 12:07 PM Padraic Ryan: Re: cap & trade - you shouldn't use the financial crisis as an excuse to write off all of economics."
 lessig_blog-carbon_2352_2460,train,3.6,2.9,3.3,"A cap & trade system worked very well at reducing sulfur dioxide pollution in the US, finance types and all."
@@ -9323,7 +9084,6 @@ lessig_blog-carbon_3492_3616,train,2.6,3.3,2.8,"I'm a big fan of your work on IP
 lessig_blog-carbon_3619_3681,dev,2.8,3.2,2.7,"April 27, 2009 12:17 PM mark: ""I am suspicious of cap & trade."
 lessig_blog-carbon_3649_3895,train,2.7,3.1,2.9,"""I am suspicious of cap & trade. It seems like a complicated partial version of that, created by the same genius quants who gave us the mess on wall street, that is designed to generate large fees finance types. My sense is for a simpler system."""
 lessig_blog-carbon_367_423,test,2.67,3.11,2.89,We're a couple months late buying credits for last year.
-lessig_blog-carbon_3682_3860,train,2.7,3.1,3.1,"It seems like a complicated partial version of that, created by the same genius quants who gave us the mess on wall street, that is designed to generate large fees finance types."
 lessig_blog-carbon_3861_3895,train,3.12,2.88,3.12,"My sense is for a simpler system."""
 lessig_blog-carbon_3897_3999,dev,2.5,3.12,3.38,That just shows you do not fully understand the cap and trade model....or the global financial crisis.
 lessig_blog-carbon_4002_4131,train,3.33,3.0,3.0,"April 27, 2009 2:51 PMCathy: When you book a route on United it tells you how many miles it will accrue, pre-bonus, for each leg."
@@ -9394,7 +9154,6 @@ littleshelter2_1206_1259,train,3.1,2.7,2.9,"If you could see them, I know you wo
 littleshelter2_1272_1435,train,3.11,3.11,3.33,"Your reward will be the wag of a tail you’ll never see, the soft purr you’ll never hear -- and the warm joy of knowing you were there to help when you were needed."
 littleshelter2_1448_1478,train,4.37,4.37,3.18,Happy Holidays from all of us!
 littleshelter2_1517_1606,train,3.1,2.9,2.9,"Sincerely, Maryann Chernovsky President"
-littleshelter2_159_176,train,3.0,2.8,3.0,Dear Ms. LastName
 littleshelter2_1632_1757,train,3.43,3.0,3.14,P.S. Please accept the enclosed 2001 calendar and gift tags as a special greeting from our animal friends and Little Shelter.
 littleshelter2_202_317,train,2.25,3.12,2.62,"These are the pawprints of a homeless animal; an abandoned animal, shivering with fear, with no place to call home."
 littleshelter2_318_350,train,2.89,3.0,3.11,Where will these pawprints lead?
@@ -9473,7 +9232,6 @@ marine1_3244_3393,train,3.33,3.33,3.33,"Also, take a moment to review the practi
 marine1_3394_3637,train,3.0,3.2,3.2,"And won’t you also please make a tax-deductible contribution of just $15 --or more if you are able -- to help save the dolphins, whales, sea turtles, and other amazing marine creatures who so desperately need support from all of us these days!"
 marine1_361_489,train,2.82,3.64,3.09,"I hope, too, that they remind you just how much danger these beautiful marine species and their ocean habitats are in right now!"
 marine1_3638_3945,train,3.4,3.4,3.4,"At the same time, you’ll receive CMC’s benefit-packed New Member Welcome Kit ... a free subscription to our exciting full-color quarterly newsletter, Marine Conservation News ... more steps you can take to protect our oceans regular legislative updates and action alerts ... and an official membership card."
-marine1_36_48,train,3.18,2.82,3.27,"Dear Friend,"
 marine1_4035_4067,train,3.12,3.12,2.87,Please let me hear from you now.
 marine1_4069_4078,train,3.18,3.09,3.0,Sincerely
 marine1_4079_4183,train,3.5,2.88,3.37,"P.S. Of course, your personalized labels are a gift, yours to keep whether or not you choose to join us."
@@ -9510,10 +9268,8 @@ sucker_2402_2410,train,3.4,3.4,3.0,"Um, wow."
 sucker_2411_2430,train,2.4,3.3,3.4,That is ridiculous.
 sucker_2431_2453,train,3.0,2.63,3.0,"March 3, 2008 11:43 PM"
 sucker_2457_2486,train,3.0,2.8,3.1,"Comment #3, by Sarah Schulman"
-sucker_2487_2542,train,2.8,3.2,2.9,I wonder why they didn't present their books as novels.
 sucker_2543_2565,train,3.0,2.4,3.0,"March 4, 2008 01:39 PM"
 sucker_2569_2598,train,3.1,2.9,3.1,"Comment #4, by Sarah Schulman"
-sucker_2600_2655,train,2.88,3.0,2.88,I wonder why they didn't present their books as novels.
 sucker_2656_2678,dev,3.0,2.7,3.0,"March 4, 2008 01:41 PM"
 sucker_322_512,train,2.8,3.1,3.1,"Now, Margaret Seltzer, the author of Love and Consequences , the highly acclaimed ""memoir"" about her life as a half Native American/half White gang banger, has been been explosed as a fraud."
 sucker_3_52,train,3.0,2.8,3.2,Tayari's Blog: There's A Sucker Born Every Minute
@@ -9526,7 +9282,6 @@ sucker_867_957,train,2.6,3.3,3.2,“One of the first things I did once I started
 sucker_959_990,train,2.8,2.9,2.9,It's like a satire of a satire.
 sucker_991_1198,train,3.1,3.0,2.9,"This is my favorite line in the whole NYT article: ""Sarah McGrath, the editor at Riverhead who worked with Ms. Seltzer for three years on the book, said she was stunned to discover that the author had lied."""
 united1_1148_1251,train,3.0,2.73,3.09,"Select the itinerary that piques your interest, and call On-Call Travel Services to reserve your cabin."
-united1_121_131,dev,3.0,3.0,3.0,Dear Name:
 united1_1252_1288,train,3.0,3.2,3.2,Specify UWAX5 to receive this offer.
 united1_1289_1333,train,3.0,2.8,3.0,Low international airfare is also available.
 united1_132_307,train,3.25,2.88,3.0,"Great destinations, your choice of itineraries, big bonus miles, and 3rd and 4th passengers cruise FREE —now sailing away with Renaissance Cruises is more rewarding than ever."
@@ -9661,7 +9416,6 @@ wildelifewatch1_421_537,train,3.1,2.9,3.0,And one we will keep for as long as th
 wildelifewatch1_538_616,train,3.33,3.44,3.11,Will you join us in this exciting mission ... and help keep the promise alive?
 wildelifewatch1_626_690,train,3.33,3.11,3.33,This is why we decided to send you your special sheet of labels.
 wildelifewatch1_691_758,train,3.2,2.8,3.1,"We hope you’ll use them on all of your letters, packages and cards."
-wildelifewatch1_71_95,train,3.0,2.7,3.1,"Dear Friend of Wildlife,"
 wildelifewatch1_759_1001,train,3.43,3.43,3.43,"By doing this, you tell the world that you, too, care about what we leave our children — clean water, thriving grassland and wetlands teeming with life and an amazing array of animals, birds and other creatures that share this planet with us."
 wsj_0006_4_143,train,3.1,3.1,3.1,"Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $27 a share, or $212 million."
 wsj_0026_1141_1400,train,3.0,2.9,2.9,"Imports of the types of watches that now will be eligible for duty-free treatment totaled about $37.3 million in 1988, a relatively small share of the $1.5 billion in U.S. watch imports that year, according to an aide to U.S. Trade Representative Carla Hills."
@@ -10031,7 +9785,6 @@ wsj_2465_909_1040,train,2.37,3.0,3.25,"The paper's local administrator, Maria Lu
 wwf12_1054_1260,train,3.22,3.44,3.56,"After all, conservation begins with saving those at-risk places -— our forests and deserts, wetlands and oceans, mangroves and coral reefs — that provide a lifeline for precious animals and plants."
 wwf12_1271_1403,train,3.1,3.1,3.1,"To this end, we’ve designated some 200 ecoregions, those with the most outstanding and diverse habitats, as our Global 200."
 wwf12_1404_1591,train,3.5,3.3,3.2,We’re now creating model projects in 25 of these high-priority areas -- in order to balance conservation with people’s need to use natural resources to sustain their livelihoods.
-wwf12_157_170,train,3.63,2.75,3.0,"Dear Friend,"
 wwf12_1602_1785,train,3.1,3.4,3.1,"With your increased commitment, we can intensify our campaigns to protect species that are in grave peril by both the loss of habitat and the illegal trading in animal parts."
 wwf12_1796_1940,train,2.5,3.4,3.0,"Quite simply, WWF must do even more to safeguard the tigers, rhinos, pandas. whales, and other creatures that still remain in the wild."
 wwf12_190_365,dev,2.71,3.0,2.57,"As a member of World Wildlife Fund, you know that our efforts are essential to preserving the astonishing, yet desperately threatened diversity of life here on Earth."
@@ -10052,7 +9805,6 @@ wwf12_3561_3725,train,3.14,3.0,3.0,"When you do, you’ll extend your commitment
 wwf12_3736_3973,train,3.14,3.29,3.0,"Now, with your increased commitment, we can save more of our planet’s cherished wild species and their irreplaceable habitats ... as we strive to ensure a healthy and thriving future for our extraordinary natural world."
 wwf12_376_490,train,3.44,3.22,3.44,I’m also hoping you know that you play a vital role in achieving our conservation goals around the globe.
 wwf12_3984_4151,test,3.3,3.2,3.1,"Once again, please accept my warmest gratitude for your past support And please, take a moment today to renew your critically important WWF annual membership."
-wwf12_4152_4162,train,3.7,3.2,3.0,Thank you.
 wwf12_4173_4229,train,3.12,2.75,3.0,"Sincerely, Kathryn S. Fuller President"
 wwf12_4239_4361,train,3.37,3.0,3.0,"P.S. As a Living Planet Society member, you’ll receive the wonderful array of benefits described in the enclosed brochure."
 wwf12_4362_4530,train,3.5,3.0,3.0,"Plus, to acknowledge your increased gift of $750, we’ll send you a free copy of our stunning coffee-table photography book, Living Planet Preserving Edens of the Earth."

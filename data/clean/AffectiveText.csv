@@ -18,13 +18,10 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 17,Madonna's new baby's daddy didn't realize adoption was `for good',0,0,2,9,7,62
 18,Women in their 60s 'are perfectly good mothers',19,19,23,24,26,11
 19,We're a pretty kind 'bully',0,0,0,13,0,0
-20,Moderate drinking reduces men's heart attack risk,0,4,26,52,9,16
-21,Tom Cruise and Katie Holmes set wedding date,0,0,0,60,0,10
 22,Kidnapped AP photographer freed in Gaza,30,28,50,49,31,37
 23,"Bush Insists Troops Stay in Iraq, Predicts Midterm Victory",34,52,46,6,39,0
 24,Hurricane Paul Weakens To Tropical Storm,0,0,34,33,0,37
 25,UK announces immigration restrictions,42,40,39,0,41,16
-26,Three found alive from missing Russian ship -report,0,0,28,84,13,63
 27,Poison Pill to Swallow: Hawks Hurting After Loss to Vikes,0,8,23,0,26,0
 28,Injured Marathon Winner Leaves Hospital,14,11,7,67,21,0
 29,Hacker unlocks Apple music download protection,21,14,12,25,0,52
@@ -32,8 +29,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 31,Sudan urges UN to replace its special envoy,12,6,0,0,0,16
 32,Resolution approved for international games,0,0,0,45,0,15
 33,Pair of Satellites Will Document Sun in 3-D,0,0,0,43,0,32
-34,Martian Life Could Have Evaded Detection by Viking Landers,5,0,0,3,5,36
-35,The sweet tune of an anniversary,0,0,0,83,0,0
 36,Did Viking Probes Miss Life on Mars?,11,0,6,0,10,41
 37,Diplomat acknowledges US arrogance in Iraq,45,44,0,14,18,26
 38,More Human Remains Found at Ground Zero,39,22,6,0,68,27
@@ -45,27 +40,22 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 44,Parachutist dies at bridge-jump festival,6,6,33,6,88,0
 45,US Troops Killed In October In Iraq,46,39,41,0,77,0
 46,"Chefs not counting calories, study finds",15,0,5,0,21,0
-47,Deaths linked to flu vaccine,34,0,48,0,71,0
 48,Perfect lives lose their focus,0,0,5,34,16,6
 49,Bread-Heavy Diet Linked to Kidney Cancer,1,5,55,0,42,23
 50,Beating poverty in a small way,0,0,8,32,28,0
 51,Israel insists on Lebanon overflights,39,31,4,0,33,0
 52,Britain to restrict immigrants from new EU members,7,8,7,0,4,0
-53,Confusion Reigns In the Expanding Digital World,3,0,0,0,0,16
 54,Game on! London exhibition celebrates the history of video games,0,0,0,70,0,6
 55,Making peace from victory over poverty,0,0,10,63,16,0
 56,Marine killed in fighting west of Baghdad,24,0,44,0,50,0
 57,Scientists create first cloaking device,0,0,0,17,0,17
 58,Amateur rocket scientists reach for space,0,0,0,12,0,9
-59,Confusion Reigns In the Expanding Digital World,6,0,6,0,6,19
-60,Deaths linked to flu vaccine,37,9,57,0,66,21
 61,Israel admits using phosphorous shells in Lebanon,54,47,6,0,59,16
 62,4th person dies after receiving flu shot,39,0,56,0,57,0
 63,Police and shoppers targeted in growing Iraq violence,45,38,75,0,53,0
 64,Scientists discover miracle in the depths,0,0,3,21,0,47
 65,Doctors Seeing Patients Who Think They're Internet Addicted,0,0,0,9,16,12
 66,China launches two satellites into orbit,0,0,0,30,0,6
-67,Vegetables May Boost Brain Power in Older Adults,0,0,5,24,0,25
 68,Hurricane Paul nears Category 3 status,0,0,68,0,23,6
 69,"Russian ship sinks, 18-member crew missing",5,0,60,0,71,0
 70,Iran's president urges higher birth rate,0,1,0,2,0,13
@@ -97,7 +87,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 96,Sony apologises for global battery recall,6,0,0,0,29,0
 97,Questions on credit card safety,1,0,5,0,5,0
 98,Budapest calm after night of violent protests,34,2,18,18,17,0
-99,Vegetables May Boost Brain Power in Older Adults,0,0,9,38,0,6
 100,Report criticises US press freedoms,25,24,6,21,13,13
 101,French suburb riots could resume,6,0,50,0,22,0
 102,Photographer kidnapping condemned,47,55,0,21,33,3
@@ -105,9 +94,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 104,Baseball: Rogers enjoys his muddied streak,0,0,0,67,0,15
 105,"Cultural revolutionary, the iPod is five",0,0,0,62,0,16
 106,Life on Mars? Maybe We Missed It,0,2,0,11,3,29
-107,Three found alive from missing Russian ship -report,0,0,5,75,14,57
-108,Moderate drinking reduces men's heart attack risk,0,0,29,38,0,0
-109,The sweet tune of an anniversary,0,0,0,86,0,0
 110,Inconvenient truths,12,3,5,0,8,3
 111,Dating difficult for Harry Potter,4,0,0,0,0,8
 112,Students lose their rite of passage,0,0,0,0,25,0
@@ -120,8 +106,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 119,Official laughs for Borat,24,22,0,34,25,0
 120,Speaker Hastert testifies before panel probing sex scandal,9,18,0,0,14,0
 121,On Educating Sexes Separately,0,0,0,0,0,0
-122,Tom Cruise and Katie Holmes set wedding date,0,0,0,56,0,17
-123,Martian Life Could Have Evaded Detection by Viking Landers,4,0,2,0,4,24
 124,Ukraine gas deal marred by fears,21,20,84,0,25,0
 125,Marathon victory comes at heavy cost,5,0,0,38,38,0
 126,College tuition continues climbing,54,31,3,0,40,3
@@ -134,7 +118,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 133,Google To Launch Yet Another Search Tool,0,0,0,21,0,6
 134,Tropical Storm Paul's Outer Bands Hit Mexico's Baja California,16,0,32,0,57,0
 135,Israeli Bomblets Plague Lebanon,54,48,67,0,39,0
-136,"New Indonesia Calamity, a Mud Bath, Is Man-Made",54,43,43,0,43,15
 137,U.S. Weighs Sanctions Against North Korea,61,32,23,0,44,0
 138,"Rice, in Baghdad, Insists That Iraqis Are",37,33,26,0,33,0
 139,Senator Says U.S. Should Rethink Iraq Strategy,0,0,0,30,33,33
@@ -155,7 +138,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 155,U.S. Warns North Koreans About Nuclear Test,23,0,47,0,39,0
 156,Global Sludge Ends in Tragedy for Ivory Coast,0,0,11,4,71,0
 158,Equipment on Plane in Brazil Collision May Have Been Faulty,49,33,46,0,67,38
-159,"New Indonesia Calamity, a Mud Bath, Is Man-Made",59,41,6,0,62,13
 160,Iraqi Journalists Add Laws to List of Dangers,7,0,47,0,28,13
 161,U.N. Force Is Treading Lightly on Lebanese Soil,0,0,32,24,32,0
 162,Cleric Said to Lose Reins Over Part of Iraqi Militia,33,33,33,0,38,9
@@ -268,13 +250,10 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 516,Asian nations urge Myanmar reform,0,0,0,17,0,19
 517,"After Iraq trip, Clinton proposes war limits",8,0,8,53,13,25
 518,7 dead in apartment building fire,14,2,47,0,86,10
-519,Male sweat boosts women's hormone levels,0,14,0,6,0,75
 520,Carphone Warehouse's mixed signals,2,2,0,0,0,10
 521,Democrats plot Bush troop increase censure,19,1,1,19,9,21
-522,Cisco sues Apple over iPhone name,51,7,0,0,3,27
 523,BB star Jackson denies Goody comments,7,8,0,0,0,2
 524,Inter Milan set Serie A win record,2,0,0,50,0,9
-525,US Airways boosts bid for Delta,0,10,0,18,2,26
 526,Press sees hope in Mecca talks,0,0,0,60,3,16
 527,Bears fan loses bet and changes name,2,13,0,2,17,33
 528,Global National	Major child porn ring bust,46,64,0,42,31,27
@@ -328,9 +307,7 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 576,Teacher charged with sex assault,52,87,18,0,23,25
 577,Merck: Gardasil may fight more strains,9,0,19,21,14,16
 578,"Mountain glaciers melting faster, United Nations says",15,10,49,0,41,12
-579,Snow causes airport closures in Britain,6,0,17,0,22,13
 580,Bananaconda inventor is top poet of kids,0,0,0,63,0,24
-581,Shareholders sue Apple,49,0,0,0,14,15
 582,Israelis retaliate after attack by Lebanese Army,48,13,53,0,40,0
 583,Deadly bird flu confirmed in British Turkeys,2,1,70,0,36,24
 584,Too little sleep may mean too fat kids,0,12,7,0,21,57
@@ -348,7 +325,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 596,Archaeologists find remains of couple locked in a hug,0,0,0,43,16,79
 597,Stenson defends his title at Dubai,0,0,0,45,0,8
 598,Taking the plunge,0,0,9,0,3,2
-599,Updates on world's top stories,0,0,0,14,0,2
 600,Man rides stationary bike for 85 hours,0,0,0,18,0,87
 601,Ice storm coating Midwest,14,2,51,0,25,23
 602,A Mistrial for Lieut. Watada,15,15,0,0,0,15
@@ -375,7 +351,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 623,Variety: Johnny Depp to make movie of spy poisoning,0,2,8,13,4,19
 624,Ice storm cripples central U.S.,23,4,46,0,44,14
 625,Park stars as United maintain lead,0,0,0,43,0,9
-626,Prehistoric Romeo and Juliet discovered,5,0,0,62,16,72
 627,India's famous landmark gets facelift,0,0,0,50,0,26
 628,Joseph Wambaugh's new start,0,0,0,33,0,1
 629,Participant in water-drinking contest dies,1,0,3,0,94,30
@@ -404,7 +379,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 652,Life in Gaza steadily worsens,17,13,53,0,70,0
 653,The energy challenge | Exotic visions: how to cool a planet (maybe),5,3,26,18,17,36
 654,"Easy ways to (really) save $400,000",0,0,0,45,0,31
-655,Shareholders sue Apple,32,6,0,0,20,10
 656,Findings: Can humanity survive? Want to bet on it?,1,0,42,1,10,27
 657,Iran steps up production of weapons-grade uranium,28,10,79,0,27,23
 658,Rig-threat cargo ship towed ashore,0,0,37,10,19,11
@@ -440,14 +414,12 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 688,"'Grey's,' 'Pirates' lead People's Choice",0,0,0,38,0,6
 689,Terror network,9,0,87,0,17,0
 690,Now it's official: Iraq's a mess,27,39,23,2,62,19
-691,Snow brings travel misery to England,3,5,28,3,63,11
 692,James Brown's 5-year-old son left out of will,7,1,16,0,33,46
 693,Two men killed by London tube train,6,5,41,0,79,20
 694,US millions fail to buy influence in deadly Gaza power play,18,18,23,6,43,13
 695,PLO ministers agreed upon in Mecca,0,0,8,37,0,12
 696,Squadron apologies over 'friendly-fire' death,13,35,26,0,49,13
 697,New Orleans violence sparks tourism fears,23,0,75,0,32,8
-698,Friendly fire pilot 'experienced',3,7,32,0,14,26
 699,SPACE.com: Black hole triplets spotted,0,0,5,4,0,62
 700,Vaccines: Mandate or choice?,0,0,5,1,1,6
 701,"Congolese soldiers riot, loot over pay issue",55,17,46,0,43,0
@@ -471,7 +443,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 719,Italy to try US soldier for agent's Iraq death,64,7,2,8,38,10
 720,Depp to star in spy poisoning film,0,0,10,35,10,19
 721,'24's' Jack Bauer returns,0,0,0,40,0,3
-722,US Airways boosts bid for Delta,0,0,0,5,5,40
 723,"Even before its release, world climate report is criticized as too optimistic",28,17,33,0,22,15
 724,"Second hanging also went awry, Iraq tape shows",19,38,27,0,54,5
 725,Howell takes one shot lead in Sony Open,0,0,0,47,0,8
@@ -564,9 +535,7 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 812,"Justin Timberlake, Cameron Diaz announce split",0,0,12,0,76,9
 813,Iran to hit US interests if attacked,42,3,54,0,22,7
 814,Israel says hopes to keep Lebanon border calm,10,4,20,39,4,15
-815,Cisco sues Apple over iPhone name,48,8,10,0,11,19
 816,Two Palestinians killed near fence,20,7,38,0,87,3
-817,EarthLink CEO dies at age 49,0,0,13,0,88,17
 818,"A star dies, a family feud is born",12,20,15,18,62,4
 819,"Carter was a disaster, said Ford",40,25,0,0,36,19
 820,Super Bowl MVP Manning insists he's one of the guys,0,0,0,9,0,6
@@ -575,7 +544,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 823,Peter Jackson will never work for me again,38,22,0,0,31,9
 824,U.S. keeps Iran options open,11,8,19,28,4,9
 825,European shares hit fresh highs,0,0,5,59,0,15
-826,"For women, nothing's like the smell of men's sweat",0,19,0,8,0,63
 827,Looking beyond the iPhone,0,0,4,11,0,14
 828,Freed kidnap suspect: my terror at police raid,28,0,78,8,17,15
 829,"Far away, Super Bowl's losers will be champs",0,0,0,56,15,3
@@ -596,7 +564,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 844,Boy Scouts blamed for starting wildfire,30,7,40,0,17,18
 845,China urges UN action on N Korea,26,3,31,0,0,12
 846,"Scorpion on a plane, a pantful of pain",6,2,49,0,13,14
-847,Male sweat boosts women's hormone levels,0,11,0,17,0,54
 848,Mbeki on the big visit from the Chinese,0,0,3,18,0,19
 849,French right nominates Sarkozy,0,0,13,25,5,7
 850,"Israeli, Lebanese clash on border",38,10,49,0,26,4
@@ -635,14 +602,12 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 883,Europe retain trophy with big win,0,0,0,75,0,11
 884,Cutting edge accessories for digital music players,0,0,0,37,0,17
 885,Ice storm descends on central U.S.,3,0,58,10,13,7
-886,Snow brings travel misery to England,4,13,27,0,65,4
 887,"Indonesia flood forces 340,000 from homes",2,0,37,0,89,16
 888,Iraqi health minister seized in raid,24,9,30,15,37,38
 889,Ice storm brings chaos in U.S.,6,2,57,0,35,14
 890,Stinky flower mystery solved,0,5,0,39,1,19
 891,Congressman rebukes U.S. allies for lack of support in Afghanistan,61,15,4,0,23,0
 892,Roddick overcomes Federer in final,0,0,0,29,0,23
-893,Prehistoric Romeo and Juliet discovered,0,0,5,53,3,44
 894,Donald and Goydos share Sony lead,0,0,0,32,0,5
 895,U.S. and Iraqis are wrangling over war plans,32,0,56,0,25,17
 896,Sea search for missing Microsoft scientist,0,0,29,0,48,16
@@ -664,7 +629,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 912,Italy's dispute with US over Iraq shooting,65,7,13,0,16,19
 913,Here come the Globes!,0,0,0,59,0,16
 914,Snow causes transport chaos in Britain,5,1,35,0,41,3
-915,Snow causes airport closures in Britain,4,0,34,0,43,5
 916,"Second opinion: girl or boy? as fertility technology advances, so does an ethical debate",9,15,15,5,14,28
 917,Heavy snow causes travel chaos and shuts schools,4,0,44,9,39,19
 918,Barbaro's legacy: saving other horses,0,0,6,30,22,11
@@ -686,21 +650,18 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 934,Russia honors Sputnik designer,0,0,0,66,0,12
 935,"In Kenya's capital, a sense that danger is ever stronger",0,0,66,0,29,20
 936,"Bill, thanks for the RSA memories... and laughs",0,0,0,44,4,4
-937,Friendly fire pilot 'experienced',24,7,13,0,27,21
 938,MySpace welcomes French friends,0,0,3,50,0,2
 939,Airlines: UK airport runway unsafe,6,2,68,0,16,16
 940,The amounts you have to pay for a bomb scare,15,24,75,0,22,6
 941,"In Egypt, Rice speaks softly",0,0,10,11,0,9
 942,"Weekly Nielsen Yvonne De Carlo, 'Munsters' star, dead",9,0,16,0,74,14
 943,Senate votes to revoke pensions,13,0,18,0,35,14
-944,EarthLink CEO dies at age 49,0,0,15,0,87,38
 945,Software giant SAP misses target,0,0,10,0,45,16
 946,Vital signs: mental abilities: folic acid may improve thinking skills,0,0,0,40,0,43
 947,De Villiers stretches overall lead,0,0,0,38,0,8
 948,Families celebrate return of sons,0,0,2,84,6,14
 949,China detains 2 after body parts found in mail,6,53,72,15,21,23
 950,North Korea ready to discuss nuke disarmament,5,0,21,42,6,17
-951,"For women, nothing's like the smell of men's sweat",0,16,0,13,0,56
 952,Nadal wants Australian Open crown,0,0,0,21,0,0
 953,Beijing journal: Olympic construction unearths ancient treasure trove,0,0,0,47,0,34
 954,"Chinese president arrives in Mozambique, African tour nearly over",0,0,4,33,5,16
@@ -751,7 +712,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 999,Glamour -- and 'Borat' -- at Golden Globes,0,6,0,60,0,13
 1000,Terror officials see Al Qaeda chiefs regaining power,13,11,86,0,16,3
 1001,"Ivrea journal: In Italian town, a civics lesson from pelting neighbors",0,5,0,3,0,25
-1002,Iraqi sunni lands show new oil and gas promise,5,7,17,48,0,21
 1003,Princess and heir of Franz Ferdinand fights to repeal a law and gain a castle,33,3,8,39,0,16
 1004,"A film star in Kampala, conjuring aminos ghost",0,0,29,9,0,22
 1005,Militants attack U.S. base in Iraq,37,9,84,0,26,2
@@ -765,7 +725,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 1013,Accord on North Korea is announced,0,0,5,60,0,12
 1014,U.S. says powerful Iraqi cleric is living in Iran,9,0,40,0,6,15
 1015,"Baghdad plan is a success, Iraq prime minister tells Bush",14,15,17,45,16,17
-1016,Iraqi sunni lands show new oil and gas promise,0,5,8,49,0,12
 1017,"Dispute over Iraqi cleric, said to have gone to Iran",29,2,28,0,2,22
 1018,Planning seen in Iraqi attacks on U.S. copters,29,2,54,0,37,27
 1019,"In the world of life-saving drugs, a growing epidemic of deadly fakes",15,16,48,15,62,34
@@ -975,7 +934,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 1223,Technology may save India's river dolphins,0,0,5,66,12,20
 1224,Airbus A380 superjumbo takes off,0,0,0,59,3,17
 1225,Naps are great for chaps,0,0,0,60,0,31
-1226,Female astronaut sets record,0,0,0,67,0,21
 1227,Corn stoves popping up in U.S. homes,0,0,0,13,0,37
 1228,Iraq closes borders with Syria and Iran,14,12,38,0,42,24
 1229,The troubling ending of 'The Departed',11,2,15,0,36,27
@@ -985,7 +943,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 1233,'Cagney and Lacey' finally coming to DVD,0,0,0,47,0,22
 1234,Merkel: Stop Iran,25,0,50,0,12,12
 1235,Salt Lake City mall shooter was teenager,14,1,19,0,54,50
-1236,Female astronaut sets record,0,0,0,68,0,35
 1237,Oil holds at $58,4,0,3,12,10,10
 1238,Obama announces presidential bid,0,0,0,37,0,28
 1239,Tell your boss: Naps are good for you,0,0,0,40,0,36
@@ -1181,7 +1138,6 @@ id,instance,anger,disgust,fear,joy,sadness,surprise
 1429,GPS sneakers locate with press of a button,0,1,0,22,0,34
 1430,Embattled Edwards blogger quits campaign,2,0,0,0,20,19
 1431,Britons deported from Somalia held under Terrorism Act,19,15,42,0,25,14
-1432,Updates on world's top stories,0,0,2,0,0,1
 1433,Breast cancer drug promises hope,0,0,10,57,8,24
 1434,Ancient coin shows Cleopatra was no beauty,0,0,0,0,0,60
 1435,YouTube yields surprising payback,0,0,0,40,0,53
