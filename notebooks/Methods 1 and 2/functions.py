@@ -43,7 +43,7 @@ class MyDataset(Dataset):
         return len(self.dataframe)
     
 def train(model, train_loader, valid_loader, epochs=10):
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+    optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
     criterion = nn.CrossEntropyLoss()
     for epoch in range(epochs):
         model.train()
@@ -58,6 +58,7 @@ def train(model, train_loader, valid_loader, epochs=10):
             for i, (x, y) in enumerate(valid_loader):
                 y_pred = model(x)
                 valid_loss = criterion(y_pred, y)
-        print('Epoch: {}, Train Loss: {:.4f}, Valid Loss: {:.4f}'\
-            .format(epoch+1, train_loss, valid_loss))
+        if (epoch+1) % 10 == 0:
+            print('Epoch: {}, Train Loss: {:.4f}, Valid Loss: {:.4f}'\
+                .format(epoch+1, train_loss, valid_loss))
     return model
